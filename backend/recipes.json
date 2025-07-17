@@ -1,0 +1,963 @@
+[
+  {
+    "title": "Tender Coconut Ice Cream",
+    "ingredients": [
+      "Tender coconut water",
+      "Tender coconut flesh",
+      "Sugar",
+      "Milk",
+      "Cream",
+      "Cardamom powder"
+    ],
+    "instructions": [
+      "Blend tender coconut water and flesh in a blender until smooth.",
+      "Add sugar and cardamom powder to the mixture and blend again.",
+      "In a separate bowl, mix the blended coconut with milk and cream.",
+      "Pour the mixture into a container and freeze for 1 hour.",
+      "Stir the mixture well, then return to the freezer.",
+      "Repeat stirring every 30 minutes for the next 2-3 hours until creamy and set."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Tender-Coconut-Ice-Cream.jpg",
+    "category": "ice creams",
+    "prepTime": 15,
+    "cookTime": 0,
+    "servings": 6,
+    "dietType": "Low",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 150,
+      "protein": 3,
+      "fat": 7,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Jackfruit Ice Cream",
+    "ingredients": [
+      "Ripe jackfruit pulp",
+      "Sugar",
+      "Milk",
+      "Cream",
+      "Cardamom powder"
+    ],
+    "instructions": [
+      "Blend ripe jackfruit pulp with sugar until smooth.",
+      "Add cardamom powder and mix well.",
+      "Combine with milk and cream in a mixing bowl.",
+      "Pour the mixture into a container and freeze for 1 hour.",
+      "Stir the mixture every 30 minutes for the next 2-3 hours until it becomes creamy and smooth."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Jackfruit-Ice-Cream.jpg",
+    "category": "ice creams",
+    "prepTime": 15,
+    "cookTime": 0,
+    "servings": 6,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 180,
+      "protein": 3,
+      "fat": 8,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Banana Ice Cream",
+    "ingredients": [
+      "Ripe bananas",
+      "Sugar",
+      "Milk",
+      "Cream",
+      "Vanilla essence"
+    ],
+    "instructions": [
+      "Mash ripe bananas until smooth.",
+      "Blend mashed bananas with sugar, milk, cream, and vanilla essence.",
+      "Pour the mixture into a container and freeze for 1 hour.",
+      "Stir well every 30 minutes for the next 2-3 hours until firm and creamy."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "Banana-Ice-Cream.jpg",
+    "category": "ice creams",
+    "prepTime": 10,
+    "cookTime": 0,
+    "servings": 6,
+    "dietType": "Low",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 160,
+      "protein": 2,
+      "fat": 6,
+      "carbs": 24
+    }
+  },
+  {
+    "title": "Filter Coffee Ice Cream",
+    "ingredients": [
+      "Strong filter coffee",
+      "Sugar",
+      "Milk",
+      "Cream",
+      "Cardamom powder"
+    ],
+    "instructions": [
+      "Brew strong filter coffee and allow it to cool completely.",
+      "Mix the coffee with sugar, milk, and cream.",
+      "Add cardamom powder and stir well.",
+      "Pour into a container and freeze for 1 hour.",
+      "Stir the mixture every 30 minutes for the next 2-3 hours until creamy and set."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Filter-Coffee-Ice-Cream.jpg",
+    "category": "ice creams",
+    "prepTime": 20,
+    "cookTime": 0,
+    "servings": 6,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 220,
+      "protein": 4,
+      "fat": 12,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Mango Kulfi",
+    "ingredients": [
+      "Ripe mango pulp",
+      "Condensed milk",
+      "Milk",
+      "Sugar",
+      "Cardamom powder",
+      "Pistachios"
+    ],
+    "instructions": [
+      "Mix mango pulp, condensed milk, milk, sugar, and cardamom powder in a large bowl.",
+      "Whisk until smooth and well combined.",
+      "Pour into kulfi molds or a freezer-safe container.",
+      "Freeze until firm (6–8 hours or overnight).",
+      "Garnish with chopped pistachios before serving."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Mango-Kulfi.jpg",
+    "category": "ice creams",
+    "prepTime": 15,
+    "cookTime": 0,
+    "servings": 6,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 250,
+      "protein": 5,
+      "fat": 10,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Palm Fruit (Taal) Ice Cream",
+    "ingredients": [
+      "Palm fruit pulp",
+      "Sugar",
+      "Milk",
+      "Cream",
+      "Cardamom powder"
+    ],
+    "instructions": [
+      "Blend palm fruit pulp with sugar until smooth.",
+      "Mix with milk and cream in a bowl.",
+      "Add cardamom powder and stir until well combined.",
+      "Freeze the mixture, stirring every 30 minutes for 2–3 hours until creamy."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Palm-Fruit.jpg",
+    "category": "ice creams",
+    "prepTime": 15,
+    "cookTime": 0,
+    "servings": 6,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 180,
+      "protein": 3,
+      "fat": 8,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Coconut Jaggery Ice Cream",
+    "ingredients": [
+      "Grated coconut",
+      "Jaggery",
+      "Milk",
+      "Cream",
+      "Cardamom powder"
+    ],
+    "instructions": [
+      "In a pan, cook grated coconut with jaggery until melted and well combined.",
+      "Allow the mixture to cool completely.",
+      "Mix with milk, cream, and cardamom powder.",
+      "Freeze, stirring occasionally for 2–3 hours until set and creamy."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Coconut-Jaggery-Ice-Cream.jpg",
+    "category": "ice creams",
+    "prepTime": 20,
+    "cookTime": 0,
+    "servings": 6,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 230,
+      "protein": 4,
+      "fat": 11,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Fig & Honey Ice Cream",
+    "ingredients": [
+      "Dried figs",
+      "Honey",
+      "Milk",
+      "Cream",
+      "Vanilla essence"
+    ],
+    "instructions": [
+      "Soak dried figs in warm water until soft, then blend into a paste.",
+      "Mix fig paste with honey, milk, cream, and vanilla essence.",
+      "Pour into a container and freeze for 1 hour.",
+      "Stir every 30 minutes for 2–3 hours until creamy."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Fig & Honey-Ice-Cream.jpg",
+    "category": "ice creams",
+    "prepTime": 20,
+    "cookTime": 0,
+    "servings": 6,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 190,
+      "protein": 3,
+      "fat": 7,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Rosemilk Ice Cream",
+    "ingredients": [
+      "Rose syrup",
+      "Milk",
+      "Cream",
+      "Sugar",
+      "Cardamom powder"
+    ],
+    "instructions": [
+      "Mix rose syrup, milk, cream, sugar, and cardamom powder in a bowl.",
+      "Stir until the sugar dissolves completely.",
+      "Freeze the mixture, stirring every 30 minutes for 2–3 hours until creamy and set."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "Rosemilk.jpg",
+    "category": "ice creams",
+    "prepTime": 10,
+    "cookTime": 0,
+    "servings": 6,
+    "dietType": "Low",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 140,
+      "protein": 2,
+      "fat": 6,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Mysore Pak",
+    "ingredients": [
+      "1 cup gram flour (besan)",
+      "1 cup ghee",
+      "1 cup sugar",
+      "1/2 cup water"
+    ],
+    "instructions": [
+      "Grease a plate or tray and set aside.",
+      "In a pan, heat sugar and water to make a sugar syrup of one-string consistency.",
+      "Add the gram flour to the syrup and mix well to avoid lumps.",
+      "Slowly add ghee in small portions while continuously stirring.",
+      "Keep stirring and cooking on low heat until the mixture thickens and starts to leave the sides of the pan.",
+      "Pour the mixture onto the greased plate and spread evenly.",
+      "Allow it to cool slightly and then cut into pieces.",
+      "Let it cool completely before serving."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Mysore-Pak.jpg",
+    "category": "sweets",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 6,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 320,
+      "protein": 5,
+      "fat": 20,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Rava Kesari",
+    "ingredients": [
+      "1 cup semolina (rava)",
+      "1 cup sugar",
+      "2 1/2 cups water",
+      "1/4 cup ghee",
+      "A few saffron strands",
+      "1/2 teaspoon cardamom powder",
+      "10 cashew nuts",
+      "10 raisins"
+    ],
+    "instructions": [
+      "Heat ghee in a pan and fry cashew nuts and raisins until golden. Set aside.",
+      "In the same pan, roast the semolina on medium heat until aromatic, without browning.",
+      "Boil water in a separate pot with saffron strands.",
+      "Slowly add the hot water to the roasted semolina while stirring to avoid lumps.",
+      "Cook on low heat until the semolina absorbs all the water and thickens.",
+      "Add sugar and mix well; the mixture will become liquidy again.",
+      "Keep stirring until it thickens again.",
+      "Add cardamom powder, fried cashews, and raisins; mix well.",
+      "Turn off heat and cover for a few minutes before serving."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "Rava-Kesari.jpg",
+    "category": "sweets",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 250,
+      "protein": 4,
+      "fat": 10,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Boondi Ladoo",
+    "ingredients": [
+      "1 cup gram flour (besan)",
+      "3/4 cup sugar",
+      "1 cup water",
+      "1/4 teaspoon cardamom powder",
+      "Ghee or oil for frying",
+      "A pinch of saffron strands (optional)"
+    ],
+    "instructions": [
+      "Make a smooth batter by mixing gram flour with water.",
+      "Heat ghee or oil in a deep frying pan.",
+      "Pour batter through a perforated ladle or spoon to make small droplets into the hot oil.",
+      "Fry the boondi (small fried balls) until golden and crisp; drain and set aside.",
+      "In a pan, prepare sugar syrup by boiling sugar and water until one-string consistency is reached.",
+      "Add cardamom powder and saffron strands to the syrup.",
+      "Mix the fried boondi into the syrup quickly and turn off the heat.",
+      "Allow the mixture to cool slightly, then shape into round ladoos using greased hands.",
+      "Let the ladoos cool completely and set before serving."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Boondi-Ladoo.jpg",
+    "category": "sweets",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 6,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "North-Indian",
+    "nutrition": {
+      "calories": 350,
+      "protein": 6,
+      "fat": 15,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Obbattu (Puran Poli)",
+    "ingredients": [
+      "1 cup chana dal (split Bengal gram)",
+      "1 cup jaggery",
+      "1/2 teaspoon cardamom powder",
+      "1 1/2 cups wheat flour",
+      "1 tablespoon oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Cook chana dal in water until soft, then drain excess water.",
+      "Mash the cooked dal and cook it again with jaggery until the mixture thickens.",
+      "Add cardamom powder and mix well; let it cool.",
+      "Make a dough with wheat flour, oil, and water; knead until smooth.",
+      "Divide the dough and filling into equal portions.",
+      "Roll out a dough ball, place filling in the center, seal, and gently roll into a thin circle.",
+      "Cook on a hot griddle, applying ghee on both sides until golden brown spots appear.",
+      "Serve warm with ghee or milk."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Obbattu.jpg",
+    "category": "sweets",
+    "prepTime": 30,
+    "cookTime": 30,
+    "servings": 6,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 280,
+      "protein": 8,
+      "fat": 6,
+      "carbs": 50
+    }
+  },
+  {
+    "title": "Ariselu",
+    "ingredients": [
+      "1 cup rice flour",
+      "3/4 cup jaggery",
+      "1/2 cup water",
+      "1 tablespoon sesame seeds",
+      "Ghee for frying"
+    ],
+    "instructions": [
+      "Heat jaggery and water until the jaggery dissolves completely to form a syrup.",
+      "Add sesame seeds to the syrup and mix well.",
+      "Add rice flour gradually to the syrup to form a soft dough.",
+      "Divide the dough into small balls and flatten them into discs.",
+      "Heat ghee in a pan and fry the discs on medium heat until golden on both sides.",
+      "Drain excess ghee and let them cool before serving."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Ariselu.jpg",
+    "category": "sweets",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 6,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 300,
+      "protein": 3,
+      "fat": 15,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Kozhukattai (Modak)",
+    "ingredients": [
+      "1 cup rice flour",
+      "1 1/4 cups water",
+      "1 cup grated fresh coconut",
+      "3/4 cup jaggery",
+      "1/2 teaspoon cardamom powder",
+      "1 teaspoon ghee"
+    ],
+    "instructions": [
+      "Boil water with a pinch of salt and 1 teaspoon ghee.",
+      "Add rice flour gradually while stirring to avoid lumps and make a soft dough.",
+      "In another pan, cook grated coconut with jaggery and cardamom powder until the mixture thickens.",
+      "Divide the dough into small balls, flatten them, and fill with the coconut-jaggery mixture.",
+      "Seal the edges and shape into modak (dumpling) shape.",
+      "Steam the modaks for 10-15 minutes until cooked.",
+      "Serve warm with ghee."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Kozhukattai.jpg",
+    "category": "sweets",
+    "prepTime": 30,
+    "cookTime": 20,
+    "servings": 6,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 250,
+      "protein": 4,
+      "fat": 8,
+      "carbs": 45
+    }
+  },
+  {
+    "title": "Unniyappam",
+    "ingredients": [
+      "1 cup rice flour",
+      "1/2 cup jaggery",
+      "1/4 cup grated coconut",
+      "1/2 teaspoon cardamom powder",
+      "1/4 cup ripe mashed banana",
+      "1/4 cup water",
+      "Ghee or oil for frying"
+    ],
+    "instructions": [
+      "Dissolve jaggery in water to make syrup and strain.",
+      "Mix rice flour, grated coconut, mashed banana, cardamom powder, and jaggery syrup to form a batter.",
+      "Heat ghee or oil in a special unniyappam pan.",
+      "Pour spoonfuls of batter into each mold and fry until golden brown on all sides.",
+      "Remove and drain on paper towels.",
+      "Serve warm."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Unniyappam.jpg",
+    "category": "sweets",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 220,
+      "protein": 3,
+      "fat": 10,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Adhirasam",
+    "ingredients": [
+      "2 cups rice flour",
+      "1 cup jaggery",
+      "1/2 cup water",
+      "1/4 teaspoon cardamom powder",
+      "Oil or ghee for frying"
+    ],
+    "instructions": [
+      "Heat jaggery and water until jaggery dissolves completely to form a syrup.",
+      "Mix rice flour and cardamom powder into the syrup to form a dough.",
+      "Let the dough rest overnight.",
+      "Next day, make small balls and flatten them into discs.",
+      "Heat oil or ghee in a pan and deep fry the discs until golden brown on both sides.",
+      "Drain excess oil and cool before serving."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Hard",
+    "image": "Adhirasam.jpg",
+    "category": "sweets",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 6,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 350,
+      "protein": 4,
+      "fat": 18,
+      "carbs": 45
+    }
+  },
+  {
+    "title": "Badusha",
+    "ingredients": [
+      "1 cup all-purpose flour (maida)",
+      "1/4 cup semolina (rava)",
+      "1/2 cup yogurt",
+      "1/2 cup ghee or oil",
+      "1 cup sugar",
+      "1/2 cup water",
+      "1/2 teaspoon cardamom powder",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Mix flour, semolina, yogurt, and ghee to form a soft dough; let it rest for 15-20 minutes.",
+      "Divide dough into small balls and flatten slightly with a fork pattern on top.",
+      "Heat oil and deep fry on medium heat until golden and cooked through.",
+      "In another pan, prepare sugar syrup with sugar and water until one-string consistency.",
+      "Dip the fried badushas into warm sugar syrup briefly and remove.",
+      "Serve once they absorb the syrup and cool."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Badusha.jpg",
+    "category": "sweets",
+    "prepTime": 30,
+    "cookTime": 30,
+    "servings": 6,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 330,
+      "protein": 5,
+      "fat": 15,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Semiya Payasam (Vermicelli Kheer)",
+    "ingredients": [
+      "1 cup vermicelli (semiya)",
+      "4 cups milk",
+      "1.5 cups water",
+      "1/2 cup sugar",
+      "1/4 teaspoon cardamom powder",
+      "1 tablespoon ghee",
+      "10-12 cashew nuts",
+      "10-12 raisins"
+    ],
+    "instructions": [
+      "Heat ghee in a pan and roast the cashew nuts until golden brown. Remove and set aside.",
+      "In the same pan, roast the raisins until they puff up. Remove and set aside.",
+      "Add vermicelli to the pan and roast until golden brown.",
+      "Pour in water and cook the vermicelli until it softens.",
+      "Add milk and bring the mixture to a boil.",
+      "Reduce the heat and simmer for 5-7 minutes.",
+      "Add sugar and stir until it dissolves completely.",
+      "Sprinkle cardamom powder and mix well.",
+      "Garnish with roasted cashew nuts and raisins before serving."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "Semiya-Payasam.jpg",
+    "category": "sweets",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "fat": 8,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Paruppu Payasam (Moong Dal Kheer)",
+    "ingredients": [
+      "1/2 cup moong dal",
+      "1/2 cup jaggery",
+      "1 cup water",
+      "1 cup milk",
+      "1/4 teaspoon cardamom powder",
+      "1 tablespoon ghee",
+      "10-12 cashew nuts",
+      "10-12 raisins"
+    ],
+    "instructions": [
+      "Dry roast moong dal in a pan until aromatic.",
+      "Wash the roasted dal and pressure cook with water until soft.",
+      "In a separate pan, melt jaggery with a little water to make syrup. Strain to remove impurities.",
+      "Add the jaggery syrup to the cooked dal and mix well.",
+      "Pour in milk and simmer the mixture for 5-7 minutes.",
+      "Add cardamom powder and stir.",
+      "Heat ghee in a pan, fry cashew nuts and raisins until golden, and add to the payasam.",
+      "Serve warm or chilled."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Paruppu-Payasam.jpg",
+    "category": "sweets",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 220,
+      "protein": 7,
+      "fat": 6,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Palada Pradhaman",
+    "ingredients": [
+      "1/2 cup rice ada",
+      "1 liter milk",
+      "1 cup sugar",
+      "1/4 teaspoon cardamom powder",
+      "1 tablespoon ghee",
+      "10-12 cashew nuts",
+      "10-12 raisins"
+    ],
+    "instructions": [
+      "Boil water and soak rice ada for 10 minutes. Drain and rinse with cold water.",
+      "Boil milk in a heavy-bottomed pan.",
+      "Add the soaked ada to the boiling milk and cook until soft.",
+      "Stir in sugar and continue to cook until it dissolves.",
+      "Add cardamom powder and mix well.",
+      "Heat ghee in a pan, fry cashew nuts and raisins until golden, and add to the pradhaman.",
+      "Serve warm or chilled."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Palada-Pradhaman.jpg",
+    "category": "sweets",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 300,
+      "protein": 8,
+      "fat": 10,
+      "carbs": 45
+    }
+  },
+  {
+    "title": "Chakkara Pongal (Sweet Pongal)",
+    "ingredients": [
+      "1/2 cup raw rice",
+      "2 tablespoons moong dal",
+      "3/4 cup jaggery",
+      "2 cups water",
+      "1/4 teaspoon cardamom powder",
+      "2 tablespoons ghee",
+      "10-12 cashew nuts",
+      "10-12 raisins"
+    ],
+    "instructions": [
+      "Dry roast moong dal until aromatic.",
+      "Wash rice and roasted dal together.",
+      "Cook rice and dal with water in a pressure cooker until soft.",
+      "In a separate pan, melt jaggery with a little water to make syrup. Strain to remove impurities.",
+      "Add the jaggery syrup to the cooked rice-dal mixture and mix well.",
+      "Add cardamom powder and stir.",
+      "Heat ghee in a pan, fry cashew nuts and raisins until golden, and add to the pongal.",
+      "Serve warm."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Chakkara-Pongal.jpg",
+    "category": "sweets",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 280,
+      "protein": 6,
+      "fat": 9,
+      "carbs": 42
+    }
+  },
+  {
+    "title": "Kadalai Maavu Halwa (Besan Halwa)",
+    "ingredients": [
+      "1 cup besan (gram flour)",
+      "1 cup sugar",
+      "1/2 cup ghee",
+      "1 cup milk",
+      "1/4 teaspoon cardamom powder",
+      "10-12 cashew nuts"
+    ],
+    "instructions": [
+      "Heat ghee in a pan and roast besan on low flame until aromatic and golden.",
+      "Gradually add milk, stirring continuously to avoid lumps.",
+      "Add sugar and continue to stir until the mixture thickens.",
+      "Add cardamom powder and mix well.",
+      "Garnish with roasted cashew nuts.",
+      "Serve warm."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Kadalai-Maavu-Halwa.jpg",
+    "category": "sweets",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 320,
+      "protein": 7,
+      "fat": 15,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Elaneer Payasam (Tender Coconut Kheer)",
+    "ingredients": [
+      "1 cup tender coconut pulp",
+      "1 cup tender coconut water",
+      "1 cup milk",
+      "2 tablespoons condensed milk",
+      "1 tablespoon sugar",
+      "1/4 teaspoon cardamom powder"
+    ],
+    "instructions": [
+      "Blend tender coconut pulp with coconut water to a smooth paste.",
+      "In a pan, mix milk, condensed milk, and sugar. Bring to a boil and simmer for 5 minutes.",
+      "Add the blended coconut mixture to the milk and mix well.",
+      "Add cardamom powder and stir.",
+      "Chill the payasam before serving."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "Elaneer-Payasam.jpg",
+    "category": "sweets",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 4,
+    "dietType": "Low",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Banana Halwa",
+    "ingredients": [
+      "1 kg ripe bananas",
+      "1/2 kg jaggery",
+      "1/4 cup ghee",
+      "1/4 teaspoon cardamom powder",
+      "10-12 cashew nuts"
+    ],
+    "instructions": [
+      "Mash the ripe bananas to a smooth paste.",
+      "In a pan, melt jaggery with a little water to make syrup. Strain to remove impurities.",
+      "Add the banana paste to the jaggery syrup and cook on low flame.",
+      "Add ghee gradually while stirring continuously.",
+      "Cook until the mixture thickens and leaves the sides of the pan.",
+      "Add cardamom powder and mix well.",
+      "Garnish with roasted cashew nuts.",
+      "Allow to cool and set before cutting into pieces."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Banana-Halwa.jpg",
+    "category": "sweets",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "dietType": "High",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 350,
+      "protein": 3,
+      "fat": 12,
+      "carbs": 60
+    }
+  },
+  {
+    "title": "Paal Payasam (Milk Kheer)",
+    "ingredients": [
+      "1/2 cup raw rice",
+      "1 liter full-fat milk",
+      "3/4 cup sugar",
+      "1/4 teaspoon cardamom powder",
+      "1 tablespoon ghee",
+      "10-12 cashew nuts",
+      "10-12 raisins"
+    ],
+    "instructions": [
+      "Wash the raw rice thoroughly and soak it in water for 30 minutes.",
+      "Drain the rice and grind it coarsely or crush it lightly.",
+      "In a heavy-bottomed pan, bring the milk to a boil.",
+      "Add the crushed rice to the boiling milk and reduce the heat to low.",
+      "Simmer the mixture gently, stirring occasionally to prevent the rice from sticking to the bottom.",
+      "Cook until the rice is fully cooked and the milk thickens (about 30-40 minutes).",
+      "Add sugar and stir well until it dissolves completely.",
+      "Sprinkle cardamom powder and mix.",
+      "In a small pan, heat ghee and fry cashew nuts and raisins until golden brown.",
+      "Add the fried nuts and raisins to the payasam as garnish.",
+      "Serve warm or chilled."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "Paal-Payasam.jpg",
+    "category": "sweets",
+    "prepTime": 40,
+    "cookTime": 40,
+    "servings": 4,
+    "dietType": "Balanced",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 280,
+      "protein": 8,
+      "fat": 10,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Coconut Milk Pudding",
+    "ingredients": [
+      "2 cups coconut milk",
+      "1/4 cup sugar",
+      "2 tablespoons cornstarch",
+      "1/2 teaspoon vanilla extract",
+      "1/4 teaspoon salt",
+      "1/4 cup shredded coconut (optional, for garnish)",
+      "1 tablespoon toasted coconut flakes (optional)"
+    ],
+    "instructions": [
+      "In a small bowl, mix cornstarch with 1/4 cup of coconut milk to make a smooth slurry.",
+      "In a saucepan, combine the remaining coconut milk, sugar, and salt.",
+      "Heat the mixture over medium heat until it starts to simmer.",
+      "Slowly add the cornstarch slurry to the simmering coconut milk, stirring continuously to avoid lumps.",
+      "Continue stirring and cook until the mixture thickens to a pudding-like consistency (about 5-7 minutes).",
+      "Remove the pan from heat and stir in the vanilla extract.",
+      "Pour the pudding into serving bowls or molds.",
+      "Let it cool to room temperature, then refrigerate for at least 2 hours to set.",
+      "Before serving, garnish with shredded coconut and toasted coconut flakes if desired."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "Coconut-Milk-Pudding.jpg",
+    "category": "sweets",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "dietType": "Low",
+    "mealType": "dessert",
+    "mainCourseRegion": "South-Indian",
+    "nutrition": {
+      "calories": 180,
+      "protein": 2,
+      "fat": 12,
+      "carbs": 15
+    }
+  }
+]

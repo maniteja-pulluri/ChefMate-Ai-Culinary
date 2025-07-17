@@ -1,0 +1,1206 @@
+[
+  {
+    "title": "Egg Dosa",
+    "ingredients": [
+      "2 dosa batter ladles",
+      "1 egg",
+      "1 tbsp chopped onions",
+      "1 green chili (chopped)",
+      "Salt and pepper to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat tawa and pour dosa batter.",
+      "Break an egg on top and spread gently.",
+      "Sprinkle onions, chili, salt, and pepper.",
+      "Drizzle oil and cook until egg sets and dosa is crispy.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "egg_dosa.jpg",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 250,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Egg Appam",
+    "ingredients": [
+      "1 cup appam batter",
+      "1 egg",
+      "Salt and pepper to taste",
+      "Oil for greasing"
+    ],
+    "instructions": [
+      "Pour appam batter into heated appam pan.",
+      "Break an egg in the center, sprinkle salt and pepper.",
+      "Cover and cook on low flame till egg is set.",
+      "Serve hot with chutney or stew."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "egg_appam.jpg",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 240,
+      "protein": 9,
+      "fat": 7,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Egg Adai",
+    "ingredients": [
+      "1 cup adai batter",
+      "1 egg",
+      "1 tbsp chopped onions",
+      "1 green chili (chopped)",
+      "Oil for cooking",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat tawa and pour adai batter.",
+      "Break egg on top and spread gently.",
+      "Sprinkle onion, chili, and salt.",
+      "Cook both sides until golden and egg is cooked.",
+      "Serve with chutney or pickle."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "egg_adai.jpg",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 270,
+      "protein": 11,
+      "fat": 8,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Egg Upma",
+    "ingredients": [
+      "1 cup rava (sooji)",
+      "2 eggs",
+      "1 onion (chopped)",
+      "1 green chili",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp urad dal",
+      "Curry leaves",
+      "Salt to taste",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Roast rava and keep aside.",
+      "Heat oil, temper mustard, dal, curry leaves, sauté onion and chili.",
+      "Add beaten eggs and scramble.",
+      "Add water and bring to a boil.",
+      "Add rava slowly, stir continuously. Cook till done.",
+      "Serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "egg_upma.jpg",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 280,
+      "protein": 10,
+      "fat": 10,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Egg Pongal",
+    "ingredients": [
+      "1/2 cup rice",
+      "1/4 cup moong dal",
+      "2 eggs",
+      "1 tsp cumin seeds",
+      "1/2 tsp pepper",
+      "1 tbsp ghee",
+      "Salt to taste",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Cook rice and dal together till soft.",
+      "Heat ghee, temper cumin, pepper, curry leaves.",
+      "Scramble eggs and add to the tempering.",
+      "Mix into pongal and stir well.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "egg_pongal.webp",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 290,
+      "protein": 11,
+      "fat": 10,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Egg Idiyappam",
+    "ingredients": [
+      "2 cups idiyappam (string hoppers)",
+      "2 eggs",
+      "1 onion (sliced)",
+      "1 green chili",
+      "Salt to taste",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions and chili.",
+      "Add beaten eggs and scramble.",
+      "Add idiyappam and mix well with eggs.",
+      "Cook for a few minutes. Serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "egg_idiyappam.webp",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 270,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Egg Stuffed Uttapam",
+    "ingredients": [
+      "1 cup dosa batter",
+      "1 egg",
+      "1 tbsp chopped onion",
+      "1 tbsp chopped tomato",
+      "1 green chili",
+      "Coriander leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Pour batter on tawa and keep thick like uttapam.",
+      "Break egg on top and spread gently.",
+      "Sprinkle veggies, salt and cook covered.",
+      "Flip gently and cook till egg is done.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "egg_stuffed_uttapam.jpg",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 280,
+      "protein": 11,
+      "fat": 9,
+      "carbs": 33
+    }
+  },
+  {
+    "title": "Boiled Egg with Upma",
+    "ingredients": [
+      "1 cup rava (sooji)",
+      "1 onion (chopped)",
+      "1 green chili",
+      "1/2 tsp mustard seeds",
+      "Curry leaves",
+      "Salt to taste",
+      "2 boiled eggs (sliced)",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Roast rava and set aside.",
+      "Temper mustard, sauté onions and chili.",
+      "Add water, salt, and bring to boil.",
+      "Add rava slowly and cook.",
+      "Top with sliced boiled eggs and serve."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "boiled_egg_upma.jpg",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 290,
+      "protein": 12,
+      "fat": 9,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Scrambled Egg with Dosa",
+    "ingredients": [
+      "2 dosa",
+      "2 eggs",
+      "1 onion (chopped)",
+      "1 green chili",
+      "Salt and pepper to taste",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Scramble eggs with onion, chili, salt, and pepper.",
+      "Serve hot scrambled egg with crispy dosa.",
+      "Optionally place scrambled egg inside dosa like a roll."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "scrambled_egg_dosa.jpg",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 280,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Egg Bhurji Dosa",
+    "ingredients": [
+      "2 dosa",
+      "2 eggs",
+      "1 onion (finely chopped)",
+      "1 green chili",
+      "1/4 tsp turmeric",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Prepare egg bhurji by scrambling eggs with onion, chili, turmeric, and salt.",
+      "Spread bhurji on dosa and fold.",
+      "Serve hot with chutney or ketchup."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "egg_bhurji_dosa.jpg",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 300,
+      "protein": 13,
+      "fat": 10,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Egg Curry with Appam",
+    "ingredients": [
+      "2 boiled eggs",
+      "1 onion (sliced)",
+      "1 tomato (chopped)",
+      "1 tsp ginger garlic paste",
+      "1/2 tsp turmeric",
+      "1 tsp chili powder",
+      "1/2 tsp garam masala",
+      "1 cup coconut milk",
+      "2 tsp oil",
+      "Salt to taste",
+      "Appam for serving"
+    ],
+    "instructions": [
+      "Heat oil, sauté onions till golden.",
+      "Add ginger garlic paste and cook.",
+      "Add tomatoes, spices, and cook to a paste.",
+      "Pour coconut milk and bring to boil.",
+      "Add boiled eggs, simmer for 5 mins.",
+      "Serve hot with appam."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "egg_curry_appam.jpg",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 330,
+      "protein": 14,
+      "fat": 20,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Egg Paniyaram",
+    "ingredients": [
+      "2 eggs",
+      "1/4 cup chopped onions",
+      "1 green chili (chopped)",
+      "Coriander leaves",
+      "Salt to taste",
+      "Oil for greasing paniyaram pan"
+    ],
+    "instructions": [
+      "Beat eggs with chopped onion, chili, salt, and coriander.",
+      "Grease paniyaram pan and pour mixture into each mold.",
+      "Cook covered on low flame, flip and cook both sides.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "egg_paniyaram.jpg",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 200,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Masala Egg Dosa",
+    "ingredients": [
+      "1 dosa",
+      "1 egg",
+      "1 tbsp onion (chopped)",
+      "1 tbsp tomato (chopped)",
+      "1/2 tsp red chili powder",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat tawa, pour dosa batter and spread.",
+      "Break egg on dosa and spread evenly.",
+      "Top with onion, tomato, chili powder, and salt.",
+      "Cook until crisp and egg is cooked.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "masala_egg_dosa.jpg",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 260,
+      "protein": 11,
+      "fat": 9,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Fried Egg with Lemon Rice",
+    "ingredients": [
+      "1 cup cooked rice",
+      "1 egg",
+      "1/2 tsp mustard seeds",
+      "1 green chili",
+      "Few curry leaves",
+      "Juice of 1/2 lemon",
+      "Salt to taste",
+      "2 tsp oil"
+    ],
+    "instructions": [
+      "Heat oil, temper mustard, chili, and curry leaves.",
+      "Add cooked rice, salt, and lemon juice. Mix well.",
+      "Fry egg on side and place on top of lemon rice.",
+      "Serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "fried_egg_lemon_rice.jpg",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 290,
+      "protein": 9,
+      "fat": 10,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Omelette Dosa",
+    "ingredients": [
+      "1 cup dosa batter",
+      "2 eggs",
+      "1 tbsp onion (chopped)",
+      "1 green chili",
+      "Coriander leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Pour dosa batter on hot tawa.",
+      "Whisk eggs with onion, chili, and salt.",
+      "Pour egg mix over dosa and spread.",
+      "Cook covered, flip if needed.",
+      "Serve with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "omelette_dosa.jpg",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 290,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Anda Curry with Puttu",
+    "ingredients": [
+      "2 eggs",
+      "1 onion (sliced)",
+      "1 tomato (chopped)",
+      "1 tsp ginger garlic paste",
+      "1/2 tsp chili powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "1 tsp oil",
+      "1 cup puttu (steamed)"
+    ],
+    "instructions": [
+      "Make a simple egg curry with onion, tomato, spices, and boiled eggs.",
+      "Serve hot with soft puttu."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "anda_curry_puttu.webp",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 13,
+      "fat": 12,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Egg Masala Rice",
+    "ingredients": [
+      "1 cup cooked rice",
+      "2 boiled eggs (halved)",
+      "1 onion (sliced)",
+      "1 tomato (chopped)",
+      "Spices (turmeric, chili, garam masala)",
+      "Salt to taste",
+      "2 tsp oil"
+    ],
+    "instructions": [
+      "Sauté onions, tomatoes, and spices.",
+      "Add cooked rice and mix well.",
+      "Top with boiled eggs and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "egg_masala_rice.jpg",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 11,
+      "fat": 10,
+      "carbs": 36
+    }
+  },
+  {
+    "title": "Egg Rava Upma",
+    "ingredients": [
+      "1 cup rava (sooji)",
+      "2 eggs",
+      "1 onion (chopped)",
+      "1 green chili",
+      "Mustard seeds, curry leaves",
+      "Salt to taste",
+      "2 tsp oil"
+    ],
+    "instructions": [
+      "Dry roast rava and keep aside.",
+      "Sauté onion, chili, mustard, curry leaves.",
+      "Scramble eggs and add water.",
+      "Add rava slowly and stir till cooked.",
+      "Serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "egg_rava_upma.webp",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 310,
+      "protein": 11,
+      "fat": 10,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Egg Rice Upma",
+    "ingredients": [
+      "1 cup rice rava or cooked rice",
+      "2 eggs",
+      "1 onion (chopped)",
+      "1 green chili",
+      "Salt and spices to taste",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Cook rice rava or use leftover rice.",
+      "Sauté onion, chili, and scramble eggs.",
+      "Add rice and mix with spices.",
+      "Serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "egg_rice_upma.jpg",
+    "category": "Egg",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 10,
+      "fat": 9,
+      "carbs": 36
+    }
+  },
+  {
+    "title": "Egg Sandwich South Style",
+    "ingredients": [
+      "4 bread slices",
+      "2 eggs",
+      "1 onion (chopped)",
+      "1 green chili",
+      "Butter or ghee",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Scramble eggs with onion, chili, salt.",
+      "Stuff between bread slices and toast with butter.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "egg_sandwich_south.jpg",
+    "category": "Egg",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Chicken Dosa",
+    "ingredients": [
+      "2 dosa batter portions",
+      "1 cup cooked shredded chicken",
+      "1 onion (chopped)",
+      "1/2 tsp ginger garlic paste",
+      "1/4 tsp turmeric",
+      "1/2 tsp chili powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Sauté onion, ginger garlic paste, and spices.",
+      "Add shredded chicken and cook for 5 minutes.",
+      "Prepare dosa on tawa, add chicken filling, fold, and serve."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_dosa.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Chicken Curry with Appam",
+    "ingredients": [
+      "2 cups chicken pieces",
+      "1 onion (sliced)",
+      "2 tomatoes (chopped)",
+      "1 tsp ginger garlic paste",
+      "1/2 cup coconut milk",
+      "Spices (turmeric, chili, garam masala)",
+      "Salt to taste",
+      "Oil",
+      "Appams (for serving)"
+    ],
+    "instructions": [
+      "Sauté onion, ginger garlic paste, add tomatoes and spices.",
+      "Add chicken and cook until done.",
+      "Pour in coconut milk, simmer for 5 minutes.",
+      "Serve with hot appams."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_curry_appam.jpg",
+    "category": "Breakfast",
+    "prepTime": 25,
+    "cookTime": 25,
+    "servings": 3,
+    "nutrition": {
+      "calories": 400,
+      "protein": 25,
+      "fat": 18,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Idiyappam with Chicken Curry",
+    "ingredients": [
+      "2 cups idiyappam",
+      "1 cup chicken curry (prepared)",
+      "Coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Prepare idiyappam using rice flour.",
+      "Serve hot with chicken curry on the side or poured over."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "idiyappam_chicken_curry.jpg",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 20,
+      "fat": 10,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Puttu with Mutton Curry",
+    "ingredients": [
+      "1 cup puttu flour",
+      "1/2 cup coconut (grated)",
+      "1 cup mutton pieces",
+      "1 onion (sliced)",
+      "1 tomato (chopped)",
+      "Spices (turmeric, chili, coriander, garam masala)",
+      "Salt to taste",
+      "Oil"
+    ],
+    "instructions": [
+      "Make puttu using layered flour and coconut.",
+      "Cook mutton curry with onions, tomatoes, and spices.",
+      "Serve hot with puttu."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "puttu_mutton_curry.webp",
+    "category": "Breakfast",
+    "prepTime": 30,
+    "cookTime": 40,
+    "servings": 3,
+    "nutrition": {
+      "calories": 450,
+      "protein": 30,
+      "fat": 15,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Chicken Keema Dosa",
+    "ingredients": [
+      "2 dosa portions",
+      "1 cup chicken keema",
+      "1 onion (chopped)",
+      "1/2 tsp ginger garlic paste",
+      "Spices (turmeric, chili, garam masala)",
+      "Salt to taste",
+      "Oil"
+    ],
+    "instructions": [
+      "Cook keema with spices and onion.",
+      "Make dosa, stuff with keema, fold, and cook on both sides."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_keema_dosa.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 370,
+      "protein": 22,
+      "fat": 12,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Mutton Kheema Idiyappam",
+    "ingredients": [
+      "2 cups idiyappam",
+      "1 cup cooked mutton kheema",
+      "1 onion (chopped)",
+      "Spices and salt",
+      "Coriander for garnish"
+    ],
+    "instructions": [
+      "Cook mutton kheema with onion and spices.",
+      "Mix with hot idiyappam or serve as side.",
+      "Garnish and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_kheema_idiyappam.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 420,
+      "protein": 25,
+      "fat": 14,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Chicken Cutlet with Upma",
+    "ingredients": [
+      "1 cup upma",
+      "2 chicken cutlets",
+      "Oil for shallow frying"
+    ],
+    "instructions": [
+      "Prepare upma as usual.",
+      "Fry chicken cutlets until golden.",
+      "Serve hot with upma and chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "chicken_cutlet_upma.jpg",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 390,
+      "protein": 20,
+      "fat": 15,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Fish Curry with Dosa",
+    "ingredients": [
+      "2 dosas",
+      "1 cup fish curry (prepared)",
+      "Coriander for garnish"
+    ],
+    "instructions": [
+      "Make thin dosas and keep aside.",
+      "Serve with spicy fish curry on the side."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "fish_curry_dosa.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 410,
+      "protein": 24,
+      "fat": 12,
+      "carbs": 42
+    }
+  },
+  {
+    "title": "Prawn Upma",
+    "ingredients": [
+      "1 cup rava",
+      "1/2 cup cleaned prawns",
+      "1 onion (chopped)",
+      "Spices (turmeric, chili)",
+      "Salt to taste",
+      "Oil"
+    ],
+    "instructions": [
+      "Sauté onion and prawns with spices.",
+      "Add roasted rava and water.",
+      "Cook until fluffy. Serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "prawn_upma.jpg",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 370,
+      "protein": 18,
+      "fat": 8,
+      "carbs": 45
+    }
+  },
+  {
+    "title": "Egg & Chicken Masala Dosa",
+    "ingredients": [
+      "2 dosa portions",
+      "1 egg (beaten)",
+      "1/2 cup cooked chicken masala",
+      "Oil for cooking",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Spread dosa, pour beaten egg, cook for 1 minute.",
+      "Add chicken masala filling, fold and cook.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "egg_chicken_masala_dosa.webp",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 430,
+      "protein": 24,
+      "fat": 15,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Mutton Pepper Dosa",
+    "ingredients": [
+      "2 cups dosa batter",
+      "1 cup cooked shredded mutton",
+      "1 tsp black pepper powder",
+      "1 onion (finely chopped)",
+      "1 tsp ginger garlic paste",
+      "Salt (to taste)",
+      "Oil"
+    ],
+    "instructions": [
+      "Sauté onion and ginger garlic paste until golden.",
+      "Add shredded mutton, pepper powder, and salt. Cook for 5 mins.",
+      "Spread dosa batter on a hot tawa.",
+      "Top with mutton mixture, drizzle oil and cook till crispy.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_pepper_dosa.webp",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 22,
+      "fat": 10,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Chicken Adai",
+    "ingredients": [
+      "1 cup adai batter",
+      "1/2 cup cooked shredded chicken",
+      "1 onion (chopped)",
+      "Spices (turmeric, chili powder)",
+      "Salt (to taste)",
+      "Oil"
+    ],
+    "instructions": [
+      "Mix chicken, onion, spices, and salt into adai batter.",
+      "Heat tawa, pour batter and spread gently.",
+      "Drizzle oil, cook both sides until golden.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "chicken_adai.jpg",
+    "category": "Non-Veg",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 280,
+      "protein": 20,
+      "fat": 7,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Chicken Kurma with Idiyappam",
+    "ingredients": [
+      "1 cup idiyappam",
+      "1 cup chicken (cubed)",
+      "1 onion, 1 tomato",
+      "1 tbsp ginger garlic paste",
+      "1/2 cup coconut paste",
+      "Spices (turmeric, garam masala, chili)",
+      "Salt, oil"
+    ],
+    "instructions": [
+      "Sauté onion, ginger garlic paste, tomato and spices.",
+      "Add chicken and cook till tender.",
+      "Add coconut paste, simmer till gravy thickens.",
+      "Serve with idiyappam."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_kurma_idiyappam.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 390,
+      "protein": 23,
+      "fat": 14,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Mutton Gravy with Pongal",
+    "ingredients": [
+      "1 cup pongal",
+      "1 cup mutton (cubed)",
+      "1 onion, 1 tomato",
+      "1 tbsp ginger garlic paste",
+      "Spices (pepper, turmeric, garam masala)",
+      "Salt, oil"
+    ],
+    "instructions": [
+      "Pressure cook mutton with spices.",
+      "Sauté onion, tomato, paste and add mutton.",
+      "Simmer to thick gravy.",
+      "Serve with hot pongal."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_pongal.jpg",
+    "category": "Non-Veg",
+    "prepTime": 30,
+    "cookTime": 25,
+    "servings": 3,
+    "nutrition": {
+      "calories": 420,
+      "protein": 26,
+      "fat": 15,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Fish Fry with Lemon Rice",
+    "ingredients": [
+      "2 pieces fish",
+      "Spices (turmeric, chili, salt)",
+      "Oil for frying",
+      "1 cup lemon rice"
+    ],
+    "instructions": [
+      "Marinate fish in spices for 15 mins.",
+      "Shallow fry till golden.",
+      "Serve with lemon rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "fish_fry_lemon_rice.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 360,
+      "protein": 24,
+      "fat": 12,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Chicken Fry Dosa",
+    "ingredients": [
+      "1 cup dosa batter",
+      "1/2 cup chicken fry (boneless)",
+      "Oil"
+    ],
+    "instructions": [
+      "Spread dosa on tawa.",
+      "Top with chicken fry pieces.",
+      "Cook until crispy.",
+      "Serve with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "chicken_fry_dosa.jpg",
+    "category": "Non-Veg",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 340,
+      "protein": 22,
+      "fat": 10,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Egg-Chicken Mix Dosa",
+    "ingredients": [
+      "1 cup dosa batter",
+      "1 egg",
+      "1/2 cup shredded chicken",
+      "Oil"
+    ],
+    "instructions": [
+      "Spread dosa batter and break egg on top.",
+      "Add chicken and cook both sides.",
+      "Serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "egg_chicken_dosa.webp",
+    "category": "Non-Veg",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 20,
+      "fat": 9,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Prawns Dosa",
+    "ingredients": [
+      "1 cup dosa batter",
+      "1/2 cup prawns (cleaned)",
+      "1 onion, chopped",
+      "Spices (turmeric, chili)",
+      "Oil"
+    ],
+    "instructions": [
+      "Cook prawns with onion and spices.",
+      "Spread dosa and top with prawn mixture.",
+      "Cook till crispy and serve."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "prawns_dosa.webp",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 330,
+      "protein": 21,
+      "fat": 7,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Keema Paniyaram",
+    "ingredients": [
+      "1 cup paniyaram batter",
+      "1/2 cup cooked minced meat",
+      "1 onion, chopped",
+      "Spices (pepper, chili)",
+      "Oil"
+    ],
+    "instructions": [
+      "Mix minced meat, onion, and spices into batter.",
+      "Pour in paniyaram mould and cook till golden.",
+      "Serve with chutney."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "keema_paniyaram.jpg",
+    "category": "Non-Veg",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 3,
+    "nutrition": {
+      "calories": 310,
+      "protein": 19,
+      "fat": 10,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Chicken Stew with Appam",
+    "ingredients": [
+      "1 cup chicken (cubed)",
+      "1 cup thin coconut milk",
+      "1/2 cup thick coconut milk",
+      "1 onion, green chili",
+      "Spices (pepper, cinnamon, clove)",
+      "Salt, oil",
+      "1 cup appam"
+    ],
+    "instructions": [
+      "Sauté onion, chili, and spices.",
+      "Add chicken and thin coconut milk, cook till soft.",
+      "Add thick coconut milk, simmer and serve with appam."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_stew_appam.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 400,
+      "protein": 22,
+      "fat": 18,
+      "carbs": 32
+    }
+  }
+]

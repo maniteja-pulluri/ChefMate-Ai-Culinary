@@ -1,0 +1,36 @@
+.register-page {
+    position: relative;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #fff3e0, #ffcc80);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    padding: 20px;
+  }
+  
+  .bg-image {
+    position: absolute;
+    width: 550px; /* Increased size */
+    opacity: 0.15; /* Slightly transparent so the form stands out */
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+  }
+  
+  .bg-image.left {
+    left: -100px; /* Moved slightly more left */
+  }
+  
+  .bg-image.right {
+    right: -100px; /* Moved slightly more right */
+  }
+  
+  .form-container {
+    position: relative;
+    z-index: 2;
+    max-width: 450px;
+    background: #fff;
+    border-radius: 12px;
+  }
+  

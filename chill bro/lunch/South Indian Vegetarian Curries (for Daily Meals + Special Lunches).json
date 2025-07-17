@@ -1,0 +1,3122 @@
+[
+  {
+    "title": "Sambar (Classic, with vegetables)",
+    "ingredients": [
+      "1/2 cup toor dal",
+      "1.5 cups mixed vegetables (carrot, drumstick, beans, etc.)",
+      "1 small onion (sliced)",
+      "1 small tomato (chopped)",
+      "1 tbsp sambar powder",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "2 dried red chilies",
+      "A pinch of asafoetida",
+      "Curry leaves",
+      "2 tsp tamarind paste",
+      "2 tsp oil",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Pressure cook toor dal with turmeric until soft and mash it.",
+      "Boil chopped vegetables with salt and water until tender.",
+      "Add tamarind paste and sambar powder to the vegetables and simmer.",
+      "Add the mashed dal and mix well. Let it simmer for 5–10 minutes.",
+      "Heat oil, splutter mustard seeds, add red chilies, asafoetida, and curry leaves.",
+      "Pour the tempering over the sambar and mix well.",
+      "Serve hot with rice or idli/dosa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "sambar.jpg",
+    "category": "Lunch",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 6,
+      "fat": 4,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Tomato Pappu (Andhra)",
+    "ingredients": [
+      "1/2 cup toor dal",
+      "2 medium tomatoes (chopped)",
+      "2 green chilies (slit)",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "2 garlic cloves (crushed)",
+      "A pinch of asafoetida",
+      "Curry leaves",
+      "2 tsp oil",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Pressure cook toor dal with turmeric and chopped tomatoes until soft.",
+      "Mash the dal mixture and keep aside.",
+      "Heat oil, splutter mustard seeds and cumin seeds.",
+      "Add garlic, green chilies, curry leaves, and asafoetida. Sauté for a minute.",
+      "Add the mashed dal, salt, and some water to adjust consistency.",
+      "Simmer for 5 minutes and serve hot with rice."
+    ],
+    "cuisine": "Andhra",
+    "difficulty": "Easy",
+    "image": "tomato_pappu.jpg",
+    "category": "Lunch",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 7,
+      "fat": 3,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Gongura Pappu (Roselle Leaves Dal)",
+    "ingredients": [
+      "1/2 cup toor dal",
+      "1 cup gongura leaves (roselle leaves)",
+      "2 green chilies",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "2 garlic cloves",
+      "Dry red chilies",
+      "Curry leaves",
+      "2 tsp oil",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Pressure cook toor dal with turmeric until soft.",
+      "Cook gongura leaves with green chilies until wilted.",
+      "Mash dal and mix with cooked gongura.",
+      "Heat oil, splutter mustard and cumin seeds, add garlic, dry red chilies, and curry leaves.",
+      "Add the tempering to the dal, simmer for 5 minutes.",
+      "Serve with hot rice and ghee."
+    ],
+    "cuisine": "Andhra",
+    "difficulty": "Medium",
+    "image": "gongura_pappu.jpg",
+    "category": "Lunch",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 6,
+      "fat": 4,
+      "carbs": 29
+    }
+  },
+  {
+    "title": "Palak Pappu (Spinach Dal)",
+    "ingredients": [
+      "1/2 cup toor dal",
+      "1 cup spinach (chopped)",
+      "2 green chilies",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "2 garlic cloves",
+      "Curry leaves",
+      "2 tsp oil",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Pressure cook toor dal with turmeric until soft.",
+      "Add chopped spinach and green chilies to the dal and cook for 5 minutes.",
+      "Heat oil, splutter mustard and cumin seeds, add garlic and curry leaves.",
+      "Add the tempering to the dal and mix well.",
+      "Serve hot with rice and ghee."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "palak_pappu.jpg",
+    "category": "Lunch",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 165,
+      "protein": 6,
+      "fat": 3,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Toor Dal Rasam",
+    "ingredients": [
+      "1/4 cup toor dal",
+      "1 tomato (chopped)",
+      "1 tbsp tamarind pulp",
+      "1/2 tsp rasam powder",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "2 garlic cloves",
+      "2 dried red chilies",
+      "Curry leaves",
+      "A pinch of asafoetida",
+      "2 tsp ghee",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Cook and mash toor dal.",
+      "In a pan, add tomato, tamarind pulp, rasam powder, turmeric, and water. Boil until raw smell goes.",
+      "Add mashed dal and adjust consistency. Simmer for 5 minutes.",
+      "Heat ghee, splutter mustard, cumin, garlic, red chilies, asafoetida, and curry leaves.",
+      "Add tempering to rasam. Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "toor_dal_rasam.jpg",
+    "category": "Lunch",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 120,
+      "protein": 4,
+      "fat": 3,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Lemon Rasam",
+    "ingredients": [
+      "1/4 cup toor dal",
+      "1 small green chili",
+      "1/4 tsp turmeric powder",
+      "Juice of 1 lemon",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1 dried red chili",
+      "A pinch of asafoetida",
+      "Curry leaves",
+      "2 tsp ghee",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Pressure cook toor dal with turmeric and mash it.",
+      "Boil water with green chili and salt for 2-3 minutes.",
+      "Add mashed dal and simmer briefly. Turn off the heat.",
+      "Add lemon juice and mix well.",
+      "Heat ghee, splutter mustard, cumin, red chili, curry leaves, and asafoetida.",
+      "Add tempering to rasam. Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "lemon_rasam.webp",
+    "category": "Lunch",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 110,
+      "protein": 3,
+      "fat": 2,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Mysore Rasam",
+    "ingredients": [
+      "1/4 cup toor dal",
+      "1 small tomato",
+      "1 tbsp grated coconut",
+      "1 tsp rasam powder",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "2 dried red chilies",
+      "Curry leaves",
+      "1 tsp black pepper",
+      "1 tsp coriander seeds",
+      "1 tsp oil",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Cook toor dal and mash it.",
+      "Grind coconut, pepper, and coriander to a paste.",
+      "In a pot, cook tomato, turmeric, rasam powder, salt, and ground paste with water.",
+      "Add mashed dal and simmer.",
+      "Heat oil, splutter mustard, cumin, red chilies, and curry leaves.",
+      "Add tempering to rasam. Serve with rice."
+    ],
+    "cuisine": "Karnataka",
+    "difficulty": "Medium",
+    "image": "mysore_rasam.jpg",
+    "category": "Lunch",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 5,
+      "fat": 3,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Garlic Rasam",
+    "ingredients": [
+      "1/4 cup toor dal",
+      "4-5 garlic cloves",
+      "1 small tomato",
+      "1 tbsp tamarind pulp",
+      "1/2 tsp rasam powder",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "Curry leaves",
+      "2 dried red chilies",
+      "2 tsp ghee",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Cook and mash toor dal.",
+      "Crush garlic and set aside.",
+      "Boil tamarind, tomato, rasam powder, turmeric, and salt with water.",
+      "Add mashed dal and simmer.",
+      "Heat ghee, splutter mustard, cumin, add garlic, curry leaves, and red chilies.",
+      "Pour tempering over rasam. Serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "garlic_rasam.jpg",
+    "category": "Lunch",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 130,
+      "protein": 4,
+      "fat": 3,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Moong Dal Coconut Curry",
+    "ingredients": [
+      "1/2 cup moong dal",
+      "1/2 cup grated coconut",
+      "2 green chilies",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "Curry leaves",
+      "2 tsp oil",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Cook moong dal until soft.",
+      "Grind coconut and green chilies to a paste.",
+      "Add the paste to the cooked dal with turmeric and simmer.",
+      "Heat oil, splutter mustard, cumin, and add curry leaves.",
+      "Add tempering to curry and mix well.",
+      "Serve with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "moongdal_coconut_curry.jpg",
+    "category": "Lunch",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 7,
+      "fat": 4,
+      "carbs": 29
+    }
+  },
+  {
+    "title": "Drumstick Dal",
+    "ingredients": [
+      "1/2 cup toor dal",
+      "2 drumsticks (cut into pieces)",
+      "1 tomato",
+      "2 green chilies",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "2 garlic cloves",
+      "Curry leaves",
+      "2 tsp oil",
+      "Salt (to taste)",
+      "Water (as required)"
+    ],
+    "instructions": [
+      "Pressure cook toor dal with turmeric until soft.",
+      "Boil drumsticks with tomato and green chilies until tender.",
+      "Mix boiled vegetables with mashed dal and simmer.",
+      "Heat oil, splutter mustard and cumin, add garlic and curry leaves.",
+      "Add tempering to dal and mix well.",
+      "Serve with hot rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "drumstick_dal.jpg",
+    "category": "Lunch",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 6,
+      "fat": 3,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Horse Gram Dal (Kollu Paruppu)",
+    "ingredients": [
+      "1 cup horse gram (kollu)",
+      "1/2 onion, chopped",
+      "2 garlic cloves, crushed",
+      "1/4 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 dry red chili",
+      "Salt to taste",
+      "Water as required",
+      "1 tsp oil"
+    ],
+    "instructions": [
+      "Wash and soak horse gram for 6 hours or overnight.",
+      "Pressure cook with turmeric and water until soft.",
+      "Heat oil, add cumin, red chili, garlic, and onions, and sauté.",
+      "Add cooked horse gram and salt, simmer for 5-10 minutes.",
+      "Mash slightly and serve hot with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "horse_gram_dal.jpg",
+    "category": "Veg",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 12,
+      "fat": 2,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Mango Dal (Mamidi Kaya Pappu)",
+    "ingredients": [
+      "1 cup toor dal",
+      "1 raw mango, peeled and chopped",
+      "1/4 tsp turmeric powder",
+      "1 green chili, slit",
+      "Salt to taste",
+      "1 tsp mustard seeds",
+      "1 tsp cumin seeds",
+      "2 garlic cloves",
+      "Few curry leaves",
+      "1 tsp oil",
+      "Water as required"
+    ],
+    "instructions": [
+      "Pressure cook toor dal with turmeric until soft.",
+      "In a pot, cook raw mango pieces with green chili and little water.",
+      "Add the cooked dal and salt, and simmer until combined.",
+      "Prepare tempering with mustard, cumin, garlic, and curry leaves.",
+      "Add tempering to the dal and mix well. Serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "mango_dal.jpg",
+    "category": "Veg",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 8,
+      "fat": 3,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Aloo Tomato Curry",
+    "ingredients": [
+      "2 potatoes, boiled and cubed",
+      "2 tomatoes, chopped",
+      "1 onion, chopped",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp mustard seeds",
+      "Few curry leaves",
+      "Salt to taste",
+      "1 tbsp oil",
+      "Water as required"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds and curry leaves.",
+      "Add onions and sauté until translucent.",
+      "Add tomatoes, turmeric, chili powder, and cook till soft.",
+      "Add cubed potatoes, salt, and water. Simmer for 5-10 minutes.",
+      "Serve hot with chapati or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "aloo_tomato_curry.jpg",
+    "category": "Veg",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 190,
+      "protein": 3,
+      "fat": 6,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Aloo Beans Curry",
+    "ingredients": [
+      "2 potatoes, peeled and diced",
+      "1 cup chopped green beans",
+      "1 onion, chopped",
+      "1/2 tsp mustard seeds",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "Salt to taste",
+      "1 tbsp oil",
+      "Water as required"
+    ],
+    "instructions": [
+      "Heat oil and add mustard seeds.",
+      "Add onions and sauté until golden.",
+      "Add beans and potatoes, stir well.",
+      "Add turmeric, chili powder, salt, and little water.",
+      "Cover and cook until vegetables are tender.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "aloo_beans_curry.jpg",
+    "category": "Veg",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 5,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Potato Roast (Urulai Varuval)",
+    "ingredients": [
+      "3 medium potatoes, boiled and cubed",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp urad dal",
+      "1/4 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "Salt to taste",
+      "1 tbsp oil",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Heat oil, add mustard seeds, urad dal, and curry leaves.",
+      "Add potatoes, turmeric, chili powder, and salt.",
+      "Roast on medium flame until golden and crispy.",
+      "Serve hot as a side dish."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "potato_roast.jpg",
+    "category": "Veg",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 200,
+      "protein": 3,
+      "fat": 7,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Potato Kurma (with coconut)",
+    "ingredients": [
+      "2 potatoes, boiled and cubed",
+      "1/2 cup grated coconut",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "2 green chilies",
+      "1/2 tsp ginger-garlic paste",
+      "1/4 tsp turmeric powder",
+      "1 tsp fennel seeds",
+      "Salt to taste",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Grind coconut, green chilies, fennel to a smooth paste.",
+      "Heat oil, sauté onion, ginger-garlic paste, then add tomato.",
+      "Add turmeric, salt, and coconut paste.",
+      "Add potatoes and little water. Simmer for 10 minutes.",
+      "Serve with chapati or dosa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "potato_kurma.jpg",
+    "category": "Veg",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 4,
+      "fat": 10,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Brinjal Curry (Vankaya Kura)",
+    "ingredients": [
+      "4 small brinjals, chopped",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "Salt to taste",
+      "1/2 tsp mustard seeds",
+      "Few curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil, add mustard seeds and curry leaves.",
+      "Add onion, sauté till translucent. Add tomatoes and cook soft.",
+      "Add brinjal, turmeric, chili powder, salt and little water.",
+      "Cover and cook till brinjal is tender.",
+      "Serve with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "brinjal_curry.jpg",
+    "category": "Veg",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 3,
+      "fat": 6,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Gutti Vankaya (Stuffed Eggplant Andhra)",
+    "ingredients": [
+      "6 small brinjals",
+      "2 tbsp peanuts",
+      "1 tbsp sesame seeds",
+      "1 tbsp grated coconut",
+      "1 onion, chopped",
+      "1 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Dry roast peanuts, sesame, coconut and grind to powder.",
+      "Mix with chili powder, coriander powder, salt.",
+      "Slit brinjals and stuff with the mixture.",
+      "Heat oil, sauté onions, add stuffed brinjals.",
+      "Cook covered until tender, turning occasionally.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "gutti_vankaya.jpg",
+    "category": "Veg",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 230,
+      "protein": 6,
+      "fat": 12,
+      "carbs": 24
+    }
+  },
+  {
+    "title": "Brinjal Kara Kuzhambu",
+    "ingredients": [
+      "4 small brinjals",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "Tamarind extract (small lemon size)",
+      "1 tsp sambar powder",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "Few curry leaves",
+      "Salt to taste",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Sauté mustard seeds, curry leaves, onion, and tomato in oil.",
+      "Add chopped brinjal, turmeric, sambar powder.",
+      "Pour tamarind extract and salt, simmer until brinjals soften.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "brinjal_kara_kuzhambu.jpg",
+    "category": "Veg",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 190,
+      "protein": 4,
+      "fat": 7,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Bhindi Curry (Bendakaya Pulusu)",
+    "ingredients": [
+      "200g bhindi (okra), chopped",
+      "1 onion, sliced",
+      "1 tomato, chopped",
+      "Tamarind extract (small lemon size)",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp mustard seeds",
+      "Salt to taste",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Sauté mustard seeds and onion in oil.",
+      "Add chopped bhindi and sauté until no slime remains.",
+      "Add tomatoes, turmeric, chili powder, and cook for a few mins.",
+      "Pour tamarind extract, add salt, simmer until cooked.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "bhindi_curry.jpg",
+    "category": "Veg",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Beans Poriyal",
+    "ingredients": [
+      "2 cups chopped green beans",
+      "1 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "2 dried red chilies",
+      "A pinch of asafoetida",
+      "5-6 curry leaves",
+      "Salt to taste",
+      "2 tbsp grated coconut"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add mustard seeds.",
+      "Once they splutter, add urad dal, red chilies, asafoetida, and curry leaves.",
+      "Add the chopped beans and sauté for 2-3 minutes.",
+      "Add a little water, cover, and cook till beans are tender.",
+      "Add salt and grated coconut, mix well and cook for another 2 minutes.",
+      "Serve hot with rice and sambar."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "beans_poriyal.jpg",
+    "category": "Side Dish",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 100,
+      "protein": 3,
+      "fat": 5,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Cabbage Thoran",
+    "ingredients": [
+      "2 cups finely chopped cabbage",
+      "1/4 cup grated coconut",
+      "2 green chilies, chopped",
+      "1 tsp cumin seeds",
+      "1 tbsp coconut oil",
+      "1/2 tsp mustard seeds",
+      "A few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Grind coconut, green chilies, and cumin to a coarse paste.",
+      "Heat oil in a pan and splutter mustard seeds.",
+      "Add curry leaves and chopped cabbage.",
+      "Add the ground coconut mixture and mix well.",
+      "Cover and cook on low flame till cabbage is tender.",
+      "Serve hot as a side dish with rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Easy",
+    "image": "cabbage_thoran.jpg",
+    "category": "Side Dish",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 110,
+      "protein": 2,
+      "fat": 6,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Cabbage Kootu",
+    "ingredients": [
+      "2 cups chopped cabbage",
+      "1/4 cup moong dal",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp cumin seeds",
+      "2 green chilies",
+      "1/4 cup grated coconut",
+      "1 tsp oil",
+      "1/2 tsp mustard seeds",
+      "A few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook moong dal with turmeric until soft.",
+      "Add chopped cabbage and cook until tender.",
+      "Grind coconut, green chilies, and cumin seeds into a paste.",
+      "Add the paste and salt to the dal-cabbage mixture and simmer for 5 minutes.",
+      "In a small pan, heat oil and splutter mustard seeds with curry leaves.",
+      "Add the tempering to the kootu and mix well.",
+      "Serve hot with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "cabbage_kootu.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 6,
+      "fat": 5,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Carrot Beans Stir-Fry",
+    "ingredients": [
+      "1 cup chopped carrots",
+      "1 cup chopped beans",
+      "1 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 dried red chili",
+      "5 curry leaves",
+      "2 tbsp grated coconut",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil in a pan and splutter mustard seeds.",
+      "Add urad dal, red chili, and curry leaves.",
+      "Add carrots and beans and sauté for 2 minutes.",
+      "Sprinkle some water, cover and cook until vegetables are tender.",
+      "Add salt and grated coconut, mix well.",
+      "Serve as a side dish with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "carrot_beans_stir_fry.jpg",
+    "category": "Side Dish",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 105,
+      "protein": 3,
+      "fat": 4,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Capsicum Stir-Fry",
+    "ingredients": [
+      "2 cups sliced capsicum (bell peppers)",
+      "1 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 green chili, chopped",
+      "1 onion, sliced",
+      "Salt to taste",
+      "2 tbsp grated coconut"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add mustard seeds.",
+      "Once they splutter, add urad dal, green chili, and sliced onion.",
+      "Sauté till onions are soft, then add capsicum and stir-fry.",
+      "Cook for 5-7 minutes until capsicum is tender yet crunchy.",
+      "Add salt and grated coconut, mix well.",
+      "Serve hot with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "capsicum_stir_fry.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 4,
+    "nutrition": {
+      "calories": 90,
+      "protein": 2,
+      "fat": 4,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Beetroot Curry",
+    "ingredients": [
+      "2 cups grated beetroot",
+      "1 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "2 green chilies, chopped",
+      "1/4 tsp turmeric powder",
+      "Salt to taste",
+      "2 tbsp grated coconut"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add mustard seeds.",
+      "Add urad dal, green chilies, and turmeric.",
+      "Add grated beetroot and mix well.",
+      "Cover and cook on low flame till beetroot is soft.",
+      "Add salt and coconut, mix and cook for another 2 minutes.",
+      "Serve warm with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "beetroot_curry.jpg",
+    "category": "Side Dish",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 120,
+      "protein": 2,
+      "fat": 5,
+      "carbs": 16
+    }
+  },
+  {
+    "title": "Drumstick Curry (Murungakkai Kara Kuzhambu)",
+    "ingredients": [
+      "2 drumsticks, cut into 2-inch pieces",
+      "1 tbsp tamarind paste",
+      "1 tbsp sambar powder",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1/4 tsp turmeric powder",
+      "1 tsp mustard seeds",
+      "1 tbsp oil",
+      "Salt to taste",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add mustard seeds.",
+      "Add chopped onions and sauté until golden.",
+      "Add tomatoes and cook till soft.",
+      "Add turmeric, sambar powder, and tamarind paste.",
+      "Add drumstick pieces and enough water to cook.",
+      "Simmer for 10-15 minutes until drumsticks are tender.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Tamil",
+    "difficulty": "Medium",
+    "image": "drumstick_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Ridge Gourd Curry (Peerkangai Kootu)",
+    "ingredients": [
+      "2 cups peeled and chopped ridge gourd",
+      "1/4 cup moong dal",
+      "1/4 tsp turmeric powder",
+      "1/4 cup grated coconut",
+      "2 green chilies",
+      "1 tsp cumin seeds",
+      "1 tsp oil",
+      "1/2 tsp mustard seeds",
+      "Salt to taste",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Cook moong dal with turmeric until soft.",
+      "Add ridge gourd pieces and cook until tender.",
+      "Grind coconut, green chilies, and cumin into a paste.",
+      "Add the paste to the dal mixture with salt and simmer.",
+      "Temper mustard seeds and curry leaves in oil and pour over the curry.",
+      "Serve with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "ridge_gourd_kootu.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 130,
+      "protein": 5,
+      "fat": 5,
+      "carbs": 16
+    }
+  },
+  {
+    "title": "Bottle Gourd Curry (Sorakkai Kootu)",
+    "ingredients": [
+      "2 cups chopped bottle gourd",
+      "1/4 cup moong dal",
+      "1/4 tsp turmeric powder",
+      "1/4 cup grated coconut",
+      "2 green chilies",
+      "1 tsp cumin seeds",
+      "1 tsp oil",
+      "1/2 tsp mustard seeds",
+      "Few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook moong dal with turmeric until soft.",
+      "Add bottle gourd pieces and cook until tender.",
+      "Grind coconut, green chilies, and cumin to a paste.",
+      "Add paste and salt to the cooked dal and simmer.",
+      "Heat oil and splutter mustard seeds with curry leaves.",
+      "Add tempering to the kootu and mix well.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "bottle_gourd_kootu.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 125,
+      "protein": 5,
+      "fat": 5,
+      "carbs": 15
+    }
+  },
+  {
+    "title": "Snake Gourd Curry (Podalangai Poriyal)",
+    "ingredients": [
+      "2 cups chopped snake gourd",
+      "1 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "2 green chilies",
+      "1/4 cup grated coconut",
+      "Salt to taste",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds and let them splutter.",
+      "Add urad dal, green chilies, and curry leaves.",
+      "Add snake gourd and sauté for 2 minutes.",
+      "Cover and cook until tender.",
+      "Add salt and grated coconut, mix well and cook for another 2 minutes.",
+      "Serve with rice and sambar."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "snake_gourd_poriya.jpg",
+    "category": "Side Dish",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 95,
+      "protein": 2,
+      "fat": 4,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Raw Banana Curry",
+    "ingredients": [
+      "2 raw bananas",
+      "1 tsp mustard seeds",
+      "1 tsp cumin seeds",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp sambar powder",
+      "1 tbsp oil",
+      "Salt to taste",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Peel and chop raw bananas into cubes, boil with salt and turmeric till tender.",
+      "Heat oil in a pan, add mustard and cumin seeds.",
+      "Add curry leaves and cooked banana.",
+      "Add red chili powder and sambar powder.",
+      "Stir well and cook for 5 mins until flavors combine.",
+      "Serve hot with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "raw-banana-curry.webp",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 3,
+    "nutrition": {
+      "calories": 180,
+      "protein": 2,
+      "fat": 5,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Banana Stem Curry",
+    "ingredients": [
+      "1 cup chopped banana stem",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp urad dal",
+      "1 green chili, chopped",
+      "1/4 tsp turmeric",
+      "Salt to taste",
+      "1 tbsp oil",
+      "2 tbsp grated coconut"
+    ],
+    "instructions": [
+      "Chop banana stem and soak in buttermilk water to prevent darkening.",
+      "Heat oil, add mustard seeds and urad dal.",
+      "Add green chili and turmeric.",
+      "Add banana stem and salt. Cook covered until soft.",
+      "Add grated coconut and mix well.",
+      "Serve with rice."
+    ],
+    "cuisine": "Tamil",
+    "difficulty": "Medium",
+    "image": "banana-stem-curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 3,
+    "nutrition": {
+      "calories": 110,
+      "protein": 2,
+      "fat": 4,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Ash Gourd Curry",
+    "ingredients": [
+      "2 cups chopped ash gourd",
+      "1 tsp cumin seeds",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 cup coconut milk",
+      "Salt to taste",
+      "1 tbsp coconut oil",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Boil ash gourd with turmeric and salt till tender.",
+      "Heat oil, add mustard seeds, cumin, and curry leaves.",
+      "Add cooked ash gourd and chili powder.",
+      "Add coconut milk and simmer for 5 mins.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Easy",
+    "image": "ash-gourd-curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 90,
+      "protein": 1,
+      "fat": 5,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Yam Curry (Suran Masala)",
+    "ingredients": [
+      "2 cups yam cubes",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1/2 tsp red chili powder",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Boil yam cubes until soft and set aside.",
+      "Heat oil, sauté onions till golden.",
+      "Add ginger garlic paste, tomatoes, and spices.",
+      "Cook till oil separates, add yam and mix.",
+      "Cook covered for 10 mins and garnish.",
+      "Serve hot with roti or rice."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "yam-curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 3,
+      "fat": 7,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Cluster Beans Curry (Goruchikkudu Kura)",
+    "ingredients": [
+      "2 cups chopped cluster beans",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1 onion, chopped",
+      "1/2 tsp turmeric",
+      "1/2 tsp red chili powder",
+      "1 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Boil cluster beans until tender.",
+      "Heat oil and add mustard and cumin seeds.",
+      "Add onions and sauté till soft.",
+      "Add turmeric and chili powder.",
+      "Add cluster beans and salt, sauté for 5-6 mins.",
+      "Serve with chapati or rice."
+    ],
+    "cuisine": "Andhra",
+    "difficulty": "Easy",
+    "image": "cluster-beans-curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 100,
+      "protein": 2,
+      "fat": 3,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Broad Beans Curry (Avarakkai Poriyal)",
+    "ingredients": [
+      "2 cups chopped broad beans",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp urad dal",
+      "1 dry red chili",
+      "1/4 tsp turmeric powder",
+      "Salt to taste",
+      "1 tbsp oil",
+      "2 tbsp grated coconut",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Boil broad beans with salt and turmeric until tender.",
+      "Heat oil, add mustard seeds, urad dal, red chili, and curry leaves.",
+      "Add boiled broad beans and sauté for 5 minutes.",
+      "Add grated coconut and stir well.",
+      "Serve with steamed rice or sambar."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "broad_beans_poriyal.webp",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 3,
+    "nutrition": {
+      "calories": 120,
+      "protein": 4,
+      "fat": 4,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Turnip Curry",
+    "ingredients": [
+      "2 cups chopped turnip",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp cumin seeds",
+      "Salt to taste",
+      "1 tbsp oil",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds and sauté onions until translucent.",
+      "Add tomatoes and cook till soft.",
+      "Add spices and mix well.",
+      "Add turnips and salt, cook covered until tender.",
+      "Garnish with coriander and serve."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "turnip_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 3,
+      "fat": 5,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Pumpkin Erissery",
+    "ingredients": [
+      "2 cups chopped yellow pumpkin",
+      "1/2 cup grated coconut",
+      "1/2 tsp cumin seeds",
+      "2 dry red chilies",
+      "1/4 tsp turmeric powder",
+      "Salt to taste",
+      "1 tbsp coconut oil",
+      "1/2 tsp mustard seeds",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Cook pumpkin with turmeric and salt until soft.",
+      "Grind coconut, cumin, and one red chili into a coarse paste.",
+      "Add the paste to the pumpkin and simmer.",
+      "Heat oil, splutter mustard seeds, add red chili and curry leaves.",
+      "Pour tempering over the curry and mix.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "pumpkin_erissery.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 2,
+      "fat": 7,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Mixed Vegetable Kurma",
+    "ingredients": [
+      "1 cup chopped carrots",
+      "1/2 cup beans",
+      "1/2 cup cauliflower florets",
+      "1/2 cup peas",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp ginger garlic paste",
+      "1/4 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1/2 cup coconut paste",
+      "1 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Boil all vegetables till soft.",
+      "Heat oil, sauté onions, add ginger garlic paste and tomatoes.",
+      "Add spices and coconut paste, cook till fragrant.",
+      "Add boiled vegetables and salt, simmer for 10 mins.",
+      "Serve with chapati or pulao."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mixed_vegetable_kurma.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 200,
+      "protein": 4,
+      "fat": 8,
+      "carbs": 26
+    }
+  },
+  {
+    "title": "Avial",
+    "ingredients": [
+      "1/2 cup carrots",
+      "1/2 cup beans",
+      "1/2 cup ash gourd",
+      "1/2 cup yam",
+      "1/2 cup raw banana",
+      "1/2 tsp turmeric powder",
+      "1/2 cup grated coconut",
+      "2 green chilies",
+      "1/2 tsp cumin seeds",
+      "1 cup yogurt",
+      "1 tbsp coconut oil",
+      "Salt to taste",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Cook all vegetables with turmeric and salt until soft.",
+      "Grind coconut, green chilies, and cumin into a paste.",
+      "Add the paste and yogurt to cooked vegetables and simmer gently.",
+      "Add coconut oil and curry leaves as finishing touch.",
+      "Serve with rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "avial.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 5,
+    "nutrition": {
+      "calories": 210,
+      "protein": 5,
+      "fat": 9,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Kootu Curry (Kerala)",
+    "ingredients": [
+      "1 cup raw banana (cubed)",
+      "1 cup black chickpeas (soaked and cooked)",
+      "1/2 cup grated coconut",
+      "1/2 tsp cumin seeds",
+      "2 dry red chilies",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp black pepper powder",
+      "Salt to taste",
+      "1 tbsp coconut oil",
+      "1/2 tsp mustard seeds",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Cook raw banana with turmeric and salt until soft.",
+      "Grind coconut, cumin, and one red chili into a coarse paste.",
+      "Add cooked chickpeas and coconut paste to banana, simmer gently.",
+      "Heat oil, splutter mustard seeds, add red chili and curry leaves.",
+      "Pour tempering over the curry and mix well.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "kootu_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 6,
+      "fat": 9,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Kerala Theeyal",
+    "ingredients": [
+      "1 cup pearl onions (sliced)",
+      "1/2 cup grated coconut",
+      "1 tbsp coriander seeds",
+      "1 tsp fenugreek seeds",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 small ball of tamarind",
+      "1 tbsp coconut oil",
+      "1/2 tsp mustard seeds",
+      "Few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Roast coconut, coriander seeds, and fenugreek until dark brown and grind to a paste.",
+      "Soak tamarind in water and extract juice.",
+      "Sauté onions in oil until golden.",
+      "Add turmeric, chili powder, and ground paste, sauté well.",
+      "Add tamarind juice and salt, cook until oil separates.",
+      "Temper with mustard seeds and curry leaves.",
+      "Serve with rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "kerala_theeyal.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 230,
+      "protein": 4,
+      "fat": 12,
+      "carbs": 26
+    }
+  },
+  {
+    "title": "Vendakka Pachadi (Okra Yogurt Curry)",
+    "ingredients": [
+      "1 cup chopped okra",
+      "1 cup yogurt (whisked)",
+      "1/4 cup grated coconut",
+      "2 green chilies",
+      "1/2 tsp mustard seeds",
+      "1/4 tsp turmeric powder",
+      "1 tbsp coconut oil",
+      "Few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Fry chopped okra until crispy and keep aside.",
+      "Grind coconut, green chilies, and mustard seeds to a paste.",
+      "Mix ground paste with yogurt and add salt.",
+      "Add fried okra to the mixture and stir gently.",
+      "Temper mustard seeds and curry leaves in coconut oil.",
+      "Pour tempering over the pachadi and serve chilled."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Easy",
+    "image": "vendakka_pachadi.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 3,
+    "nutrition": {
+      "calories": 150,
+      "protein": 4,
+      "fat": 7,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Inji Puli (Ginger Tamarind Curry)",
+    "ingredients": [
+      "1/2 cup finely chopped ginger",
+      "1 small lemon-sized tamarind ball",
+      "2 green chilies (sliced)",
+      "1/4 tsp turmeric powder",
+      "1 tsp jaggery",
+      "1/2 tsp mustard seeds",
+      "1 tbsp coconut oil",
+      "Few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Soak tamarind in warm water and extract juice.",
+      "Fry ginger and green chilies in oil until browned.",
+      "Add turmeric, tamarind extract, salt, and jaggery.",
+      "Boil until thickened and oil begins to separate.",
+      "Temper with mustard seeds and curry leaves in oil.",
+      "Mix into the curry and store in a jar.",
+      "Serve as a condiment with rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "inji_puli.jpg",
+    "category": "Condiment",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 10,
+    "nutrition": {
+      "calories": 70,
+      "protein": 0,
+      "fat": 4,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Mango Pachadi (Tamil Nadu)",
+    "ingredients": [
+      "1 raw mango (peeled and sliced)",
+      "1/4 cup jaggery (grated)",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1 dry red chili",
+      "1 tbsp oil",
+      "Few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Boil mango pieces with turmeric and salt until soft.",
+      "Add jaggery and cook until it dissolves completely.",
+      "Heat oil, add mustard seeds, red chili, and curry leaves for tempering.",
+      "Add tempering to mango-jaggery mix and stir well.",
+      "Serve as a sweet-tangy side dish with rice."
+    ],
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Easy",
+    "image": "mango_pachadi.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 130,
+      "protein": 1,
+      "fat": 4,
+      "carbs": 24
+    }
+  },
+  {
+    "title": "Kovakkai Curry (Ivy Gourd)",
+    "ingredients": [
+      "2 cups sliced kovakkai (ivy gourd)",
+      "1 onion, chopped",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp urad dal",
+      "1 tbsp oil",
+      "Few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, add mustard seeds, urad dal, and curry leaves.",
+      "Add chopped onions and sauté till translucent.",
+      "Add ivy gourd, turmeric, chili powder, and salt.",
+      "Cook covered on low flame until tender and slightly crispy.",
+      "Serve hot with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "kovakkai_curry.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 110,
+      "protein": 2,
+      "fat": 5,
+      "carbs": 15
+    }
+  },
+  {
+    "title": "Paneer Kurma (Coconut-Based)",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1/2 cup grated coconut",
+      "1 onion (chopped)",
+      "2 green chilies",
+      "1 tsp fennel seeds",
+      "1/2 tsp garam masala",
+      "1/2 tsp turmeric powder",
+      "1 tsp ginger-garlic paste",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Grind coconut, green chilies, and fennel seeds into a smooth paste.",
+      "Heat oil, sauté onions and ginger-garlic paste until golden.",
+      "Add turmeric, garam masala, and coconut paste, cook well.",
+      "Add paneer cubes and little water, simmer for 5–7 minutes.",
+      "Add curry leaves, adjust salt, and serve hot with paratha or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "paneer_kurma.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 280,
+      "protein": 12,
+      "fat": 20,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Chettinad Paneer Masala",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1 onion (finely chopped)",
+      "1 tomato (chopped)",
+      "1 tbsp Chettinad masala",
+      "1/2 tsp turmeric powder",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp mustard seeds",
+      "2 tbsp oil",
+      "Few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, splutter mustard seeds and curry leaves.",
+      "Add onion and sauté till golden, add ginger-garlic paste.",
+      "Add tomatoes, turmeric, and Chettinad masala, cook till oil separates.",
+      "Add paneer cubes and a little water, simmer for 5 minutes.",
+      "Serve hot with dosa or rice."
+    ],
+    "cuisine": "Chettinad",
+    "difficulty": "Medium",
+    "image": "chettinad_paneer_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 300,
+      "protein": 13,
+      "fat": 22,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Paneer Tomato Curry",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "2 tomatoes (pureed)",
+      "1 onion (chopped)",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1/2 tsp cumin seeds",
+      "1 tsp ginger-garlic paste",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Fresh coriander leaves"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds and sauté onions until soft.",
+      "Add ginger-garlic paste, turmeric, and chili powder.",
+      "Add tomato puree, cook till oil separates.",
+      "Add paneer cubes and simmer for 5 minutes.",
+      "Garnish with coriander and serve with roti or rice."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "paneer_tomato_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 11,
+      "fat": 18,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Spicy Paneer Roast",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1 tbsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "1 tsp ginger-garlic paste",
+      "1 tbsp lemon juice",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate paneer with chili powder, turmeric, garam masala, lemon juice, and salt.",
+      "Heat oil in a pan, add ginger-garlic paste and sauté briefly.",
+      "Add marinated paneer and roast on medium flame until golden and crisp.",
+      "Serve hot as a starter or side dish."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "spicy_paneer_roast.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 3,
+    "nutrition": {
+      "calories": 270,
+      "protein": 14,
+      "fat": 20,
+      "carbs": 5
+    }
+  },
+  {
+    "title": "Pepper Paneer Curry",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1 onion (sliced)",
+      "1 tsp crushed black pepper",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp garam masala",
+      "1/2 tsp turmeric powder",
+      "1 tsp ginger-garlic paste",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds, and sauté onions.",
+      "Add ginger-garlic paste, turmeric, garam masala, and pepper.",
+      "Add paneer cubes and salt, sauté until coated and heated through.",
+      "Serve with chapati or pulao."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "pepper_paneer_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 260,
+      "protein": 13,
+      "fat": 19,
+      "carbs": 7
+    }
+  },
+  {
+    "title": "Paneer Stew (Kerala Style)",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1 onion (sliced)",
+      "1 cup coconut milk",
+      "2 green chilies (slit)",
+      "1/2 tsp ginger (chopped)",
+      "1/2 tsp peppercorns",
+      "1/2 tsp cinnamon",
+      "1/2 tsp cloves",
+      "1 tbsp coconut oil",
+      "Salt to taste",
+      "Few curry leaves"
+    ],
+    "instructions": [
+      "Heat coconut oil, sauté ginger, cinnamon, cloves, and peppercorns.",
+      "Add onions, curry leaves, and green chilies, sauté till soft.",
+      "Add paneer and cook for 2 minutes.",
+      "Pour in coconut milk and simmer gently without boiling.",
+      "Serve warm with appam or idiyappam."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "paneer_stew.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 290,
+      "protein": 12,
+      "fat": 22,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Paneer Sambar",
+    "ingredients": [
+      "1/2 cup toor dal",
+      "200g paneer (cubed)",
+      "1 small onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tbsp sambar powder",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "1 tbsp oil",
+      "Few curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook toor dal until soft and mash well.",
+      "In a pan, sauté onions, tomatoes, turmeric, and sambar powder.",
+      "Add cooked dal, paneer cubes, and water to desired consistency.",
+      "Boil for 5 minutes and adjust salt.",
+      "Temper mustard seeds and curry leaves, add to sambar.",
+      "Serve hot with rice or idli."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "paneer_sambar.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 16,
+      "fat": 14,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Muttai Paneer Kuzhambu (Egg-Paneer Curry Combo)",
+    "ingredients": [
+      "2 boiled eggs",
+      "150g paneer (cubed)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tbsp curry powder",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil, sauté onions, tomatoes, and ginger-garlic paste.",
+      "Add turmeric, curry powder, salt and mix well.",
+      "Add paneer cubes and water, simmer for 5 mins.",
+      "Add halved boiled eggs and cook for 2–3 mins.",
+      "Garnish and serve hot with rice or chapati."
+    ],
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Medium",
+    "image": "muttai_paneer_kuzhambu.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 20,
+      "fat": 22,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Paneer with Gongura",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1 cup gongura (sorrel leaves)",
+      "1 onion (chopped)",
+      "2 green chilies",
+      "1/2 tsp turmeric powder",
+      "1 tsp mustard seeds",
+      "1 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook gongura leaves with chilies until soft and mash well.",
+      "Heat oil, add mustard seeds and onions, sauté.",
+      "Add turmeric and paneer, sauté lightly.",
+      "Mix in mashed gongura and simmer for 5 minutes.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Andhra",
+    "difficulty": "Medium",
+    "image": "paneer_gongura.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 270,
+      "protein": 13,
+      "fat": 17,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Paneer and Drumstick Curry",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "2 drumsticks (cut into 2-inch pieces)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tsp sambar powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Boil drumstick pieces until tender.",
+      "Sauté onions and tomatoes with turmeric and sambar powder.",
+      "Add drumsticks and paneer, cook with a little water.",
+      "Simmer for 10 minutes, add salt and curry leaves.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "paneer_drumstick_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 280,
+      "protein": 14,
+      "fat": 18,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Mushroom Pepper Fry",
+    "ingredients": [
+      "200g mushrooms, sliced",
+      "1 onion, sliced",
+      "1 tsp crushed black pepper",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp fennel seeds",
+      "1 tsp ginger garlic paste",
+      "2 green chilies, slit",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add cumin, fennel seeds, and curry leaves.",
+      "Add sliced onions and green chilies, sauté until translucent.",
+      "Add ginger garlic paste and cook till raw smell disappears.",
+      "Add mushrooms and sauté on high flame for 5-7 minutes.",
+      "Add crushed pepper and salt, mix well and cook until dry.",
+      "Serve hot with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "mushroom_pepper_fry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 120,
+      "protein": 4,
+      "fat": 8,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Mushroom Kurma",
+    "ingredients": [
+      "200g mushrooms, chopped",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/4 cup grated coconut",
+      "5 cashews",
+      "1 tsp poppy seeds",
+      "1 tsp ginger garlic paste",
+      "1/2 tsp garam masala",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Grind coconut, cashews, and poppy seeds to a smooth paste.",
+      "Heat oil in a pan and sauté onions and ginger garlic paste.",
+      "Add tomatoes and cook until soft.",
+      "Add mushrooms, turmeric, coriander powder, and salt.",
+      "Add the ground paste and water. Cook covered until mushrooms are soft.",
+      "Sprinkle garam masala and garnish with coriander leaves."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mushroom_kurma.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 3,
+    "nutrition": {
+      "calories": 180,
+      "protein": 5,
+      "fat": 12,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Mushroom Coconut Masala",
+    "ingredients": [
+      "200g mushrooms, sliced",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1/2 cup coconut milk",
+      "1 tsp mustard seeds",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil, add mustard seeds and curry leaves.",
+      "Sauté onions until golden. Add tomatoes and cook until soft.",
+      "Add mushrooms, turmeric, chili powder, and salt. Cook for 10 minutes.",
+      "Pour in coconut milk and simmer for 5 minutes.",
+      "Add garam masala, stir, and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "mushroom_coconut_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 12,
+    "cookTime": 18,
+    "servings": 3,
+    "nutrition": {
+      "calories": 160,
+      "protein": 4,
+      "fat": 10,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Mushroom and Peas Curry",
+    "ingredients": [
+      "200g mushrooms, sliced",
+      "1/2 cup green peas",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 tsp ginger garlic paste",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds and sauté onions until golden.",
+      "Add ginger garlic paste and cook till raw smell disappears.",
+      "Add tomatoes and cook till mushy.",
+      "Add turmeric, coriander powder, salt and cook for 2 minutes.",
+      "Add mushrooms and green peas, mix well and cook for 10-12 minutes.",
+      "Add garam masala, stir and serve."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "mushroom_peas_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 3,
+    "nutrition": {
+      "calories": 170,
+      "protein": 6,
+      "fat": 9,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Mushroom Tomato Curry",
+    "ingredients": [
+      "200g mushrooms, chopped",
+      "2 tomatoes, chopped",
+      "1 onion, sliced",
+      "1 tsp ginger garlic paste",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp chili powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Heat oil, add mustard seeds and let them splutter.",
+      "Sauté onions and ginger garlic paste until golden.",
+      "Add tomatoes and cook until soft.",
+      "Add mushrooms, turmeric, chili powder, and salt.",
+      "Cook until mushrooms are tender and gravy thickens.",
+      "Garnish with coriander leaves and serve."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "mushroom_tomato_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 3,
+    "nutrition": {
+      "calories": 150,
+      "protein": 4,
+      "fat": 7,
+      "carbs": 13
+    }
+  },
+  {
+    "title": "Spicy Mushroom Roast",
+    "ingredients": [
+      "200g mushrooms, halved",
+      "1 onion, sliced",
+      "2 green chilies, slit",
+      "1 tsp red chili powder",
+      "1/2 tsp black pepper",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil, add curry leaves, onions and green chilies.",
+      "Sauté until golden brown.",
+      "Add mushrooms, salt, red chili powder and cook on medium flame.",
+      "Add pepper and garam masala, sauté until dry.",
+      "Serve hot as a side dish or with chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "spicy_mushroom_roast.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 140,
+      "protein": 4,
+      "fat": 8,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Chettinad Mushroom Curry",
+    "ingredients": [
+      "200g mushrooms, chopped",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 tsp Chettinad masala",
+      "1 tsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp mustard seeds",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil and add mustard seeds, curry leaves.",
+      "Sauté onions and ginger garlic paste.",
+      "Add tomatoes, turmeric, Chettinad masala and cook well.",
+      "Add mushrooms, salt, and cook till mushrooms soften.",
+      "Simmer until thick and flavorful."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chettinad_mushroom_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 12,
+    "cookTime": 18,
+    "servings": 3,
+    "nutrition": {
+      "calories": 175,
+      "protein": 5,
+      "fat": 10,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Mushroom Kurma with Cashew-Coconut Base",
+    "ingredients": [
+      "200g mushrooms, sliced",
+      "1/4 cup grated coconut",
+      "6 cashews",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger garlic paste",
+      "1 tsp poppy seeds",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Grind coconut, cashews, and poppy seeds to a fine paste.",
+      "Heat oil and sauté onions and ginger garlic paste.",
+      "Add tomatoes and cook until soft.",
+      "Add mushrooms, salt, and ground paste with water.",
+      "Cook covered until mushrooms are soft. Sprinkle garam masala and mix."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mushroom_kurma_cashew.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 3,
+    "nutrition": {
+      "calories": 190,
+      "protein": 5,
+      "fat": 13,
+      "carbs": 15
+    }
+  },
+  {
+    "title": "Mushroom Brinjal Curry",
+    "ingredients": [
+      "150g mushrooms, chopped",
+      "150g brinjal, chopped",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric powder",
+      "1 tsp chili powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil, sauté onions and curry leaves.",
+      "Add tomatoes and cook until soft.",
+      "Add brinjal, salt, turmeric and chili powder, cook for 5 mins.",
+      "Add mushrooms and cook until both are tender.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "mushroom_brinjal_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 3,
+    "nutrition": {
+      "calories": 160,
+      "protein": 4,
+      "fat": 9,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Gongura Mushroom Curry",
+    "ingredients": [
+      "200g mushrooms, chopped",
+      "1 cup gongura leaves (sorrel), chopped",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric powder",
+      "1 tsp chili powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Mustard seeds, curry leaves"
+    ],
+    "instructions": [
+      "Heat oil, add mustard seeds and curry leaves.",
+      "Sauté onions, add tomatoes and cook until soft.",
+      "Add gongura leaves and cook until wilted.",
+      "Add mushrooms, salt, turmeric and chili powder.",
+      "Cook until mushrooms are tender and curry thickens."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "gongura_mushroom_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 12,
+    "cookTime": 18,
+    "servings": 3,
+    "nutrition": {
+      "calories": 170,
+      "protein": 5,
+      "fat": 10,
+      "carbs": 13
+    }
+  },
+  {
+    "title": "Mor Kuzhambu (Buttermilk Curry)",
+    "ingredients": [
+      "1 cup sour buttermilk",
+      "1/2 cup cooked yellow moong dal",
+      "1 tbsp rice flour",
+      "1 tsp mustard seeds",
+      "1 tsp cumin seeds",
+      "1-2 dried red chilies",
+      "1/4 tsp turmeric powder",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan, and add mustard seeds, cumin seeds, dried red chilies, and curry leaves.",
+      "Once they splutter, add turmeric powder and cooked moong dal.",
+      "Add the buttermilk and rice flour mixture to the pan and stir well.",
+      "Simmer for 5-7 minutes, stirring occasionally.",
+      "Add salt to taste and cook for another 2 minutes.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mor_kuzhambu.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 120,
+      "protein": 5,
+      "fat": 6,
+      "carbs": 15
+    }
+  },
+  {
+    "title": "Rasavangi (Brinjal Coconut Curry)",
+    "ingredients": [
+      "2 medium brinjals (eggplants), chopped",
+      "1/4 cup grated coconut",
+      "1 tbsp roasted gram dal",
+      "2 dried red chilies",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Grind the coconut, roasted gram dal, and red chilies into a smooth paste.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add turmeric powder and chopped brinjals.",
+      "Sauté for 5-6 minutes until the brinjals soften.",
+      "Add the ground coconut paste and a little water, cook for 10 minutes.",
+      "Add salt and simmer for another 5 minutes.",
+      "Serve hot with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "rasavangi.webp",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 12,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Kalan Curry (Kerala Yogurt & Yam)",
+    "ingredients": [
+      "1 cup yam, peeled and cubed",
+      "1 cup thick yogurt",
+      "1 tbsp grated coconut",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp mustard seeds",
+      "2 dried red chilies",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp black pepper",
+      "1/2 tsp ginger paste",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Cook the yam cubes in water until soft.",
+      "In a blender, make a smooth paste of grated coconut, cumin seeds, and turmeric powder.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add ginger paste and dried red chilies.",
+      "Add the yam and coconut paste, stir well.",
+      "Add yogurt, black pepper, and salt. Cook for 5-7 minutes on low flame.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "kalan_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 5,
+      "fat": 8,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Kootu with Chow Chow (Chayote)",
+    "ingredients": [
+      "2 medium chayote (chow chow), peeled and chopped",
+      "1/2 cup moong dal",
+      "1/4 cup grated coconut",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp black pepper",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Cook the moong dal in a pressure cooker until soft.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add chopped chayote and turmeric powder.",
+      "Sauté for 5-7 minutes, add cooked moong dal and water.",
+      "Simmer for 10-12 minutes until the chayote is cooked.",
+      "Grind the coconut and black pepper into a smooth paste and add to the curry.",
+      "Cook for another 5 minutes and adjust salt.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "kootu_chow_chow.jpg",
+    "category": "Side Dish",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 6,
+      "fat": 5,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Senai Kizhangu Masiyal (Yam Mash Curry)",
+    "ingredients": [
+      "1 cup yam, peeled and boiled",
+      "1/4 cup grated coconut",
+      "1 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp black pepper",
+      "1 dried red chili",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Boil the yam until soft and mash it.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, dried red chili, and curry leaves.",
+      "Once they splutter, add turmeric powder and the mashed yam.",
+      "Add black pepper, salt, and stir well.",
+      "Grind the coconut into a smooth paste and add it to the mashed yam.",
+      "Cook for another 5 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "senai_kizhangu_masiyal.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 4,
+    "nutrition": {
+      "calories": 150,
+      "protein": 4,
+      "fat": 8,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Kathirikai Pitlai (Brinjal & Dal Curry)",
+    "ingredients": [
+      "2 medium brinjals (eggplants), chopped",
+      "1/2 cup toor dal",
+      "1 tbsp grated coconut",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp coriander powder",
+      "1-2 dried red chilies",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Cook the toor dal in a pressure cooker until soft.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, dried red chilies, and curry leaves.",
+      "Once they splutter, add chopped brinjals and sauté for 5-7 minutes.",
+      "Add the cooked dal, turmeric powder, coriander powder, and some water.",
+      "Simmer for 10-12 minutes, then add the grated coconut and cook for another 5 minutes.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "kathirikai_pitlai.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 7,
+      "fat": 8,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Thakkali Thokku (Tomato Curry)",
+    "ingredients": [
+      "4 medium tomatoes, chopped",
+      "1/4 cup tamarind extract",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "1/4 tsp hing (asafoetida)",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add turmeric powder, red chili powder, and coriander powder.",
+      "Add chopped tomatoes and cook for 5-7 minutes until they soften.",
+      "Add tamarind extract and salt, and simmer for 10 minutes.",
+      "Cook until the curry thickens and oil starts separating.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "thakkali_thokku.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 100,
+      "protein": 2,
+      "fat": 6,
+      "carbs": 15
+    }
+  },
+  {
+    "title": "Capsicum Potato Masala",
+    "ingredients": [
+      "2 medium potatoes, boiled and chopped",
+      "2 medium capsicums, chopped",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "1 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add turmeric powder, red chili powder, and garam masala.",
+      "Add chopped capsicums and sauté for 5 minutes.",
+      "Add boiled potatoes and salt, mix well, and cook for another 7-8 minutes.",
+      "Serve hot with roti or rice."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "capsicum_potato_masala.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 150,
+      "protein": 3,
+      "fat": 8,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Cauliflower Kurma",
+    "ingredients": [
+      "1 medium cauliflower, chopped",
+      "1/2 cup coconut milk",
+      "1/4 cup grated coconut",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "1/2 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add turmeric powder, garam masala, red chili powder, and coriander powder.",
+      "Add chopped cauliflower and sauté for 5 minutes.",
+      "Add coconut milk, grated coconut, and salt. Cook covered for 10-12 minutes.",
+      "Serve with roti or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "cauliflower_kurma.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 5,
+      "fat": 10,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Keerai Masiyal (Spinach Mash Curry)",
+    "ingredients": [
+      "2 cups spinach, washed and chopped",
+      "1/2 cup toor dal",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp black pepper",
+      "1/2 tsp red chili powder",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Cook the toor dal in a pressure cooker until soft.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add turmeric powder, black pepper, and red chili powder.",
+      "Add the chopped spinach and cook for 5-7 minutes until wilted.",
+      "Add the cooked dal, mix well, and mash the curry.",
+      "Cook for another 5 minutes and adjust salt.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "keerai_masiyal.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 120,
+      "protein": 6,
+      "fat": 6,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Puli Kuzhambu (Tamarind Curry)",
+    "ingredients": [
+      "1/4 cup tamarind pulp",
+      "1 medium onion, chopped",
+      "2 medium tomatoes, chopped",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "1/2 tsp fenugreek seeds",
+      "Salt to taste",
+      "Curry leaves",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and fenugreek seeds.",
+      "Once they splutter, add onions and sauté until translucent.",
+      "Add tomatoes, turmeric powder, red chili powder, coriander powder, and salt. Cook for 5 minutes.",
+      "Add tamarind pulp and water, and let it simmer for 10-15 minutes until it thickens.",
+      "Add curry leaves and cook for another 2-3 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "puli_kuzhambu.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 150,
+      "protein": 2,
+      "fat": 8,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Vendakkai Puli Kuzhambu (Okra Tamarind Curry)",
+    "ingredients": [
+      "1 cup okra (vendakkai), chopped",
+      "1/4 cup tamarind pulp",
+      "1 medium onion, chopped",
+      "2 medium tomatoes, chopped",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "Curry leaves",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add onions and sauté until translucent.",
+      "Add chopped okra and cook for 5-7 minutes.",
+      "Add tomatoes, turmeric powder, red chili powder, coriander powder, and salt. Cook for another 5 minutes.",
+      "Add tamarind pulp and water, and let it simmer for 10-15 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "vendakkai_puli_kuzhambu.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 3,
+      "fat": 8,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Onion Tomato Gravy",
+    "ingredients": [
+      "2 medium onions, chopped",
+      "2 medium tomatoes, chopped",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "1 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add chopped onions and sauté until golden brown.",
+      "Add chopped tomatoes, turmeric powder, red chili powder, coriander powder, and salt. Cook for 5-7 minutes.",
+      "Once the gravy thickens and the oil separates, remove from heat.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "onion_tomato_gravy.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 120,
+      "protein": 2,
+      "fat": 6,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Jeera Aloo South Style",
+    "ingredients": [
+      "3 medium potatoes, boiled and chopped",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "Salt to taste",
+      "1 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add turmeric powder and red chili powder.",
+      "Add boiled potatoes and sauté for 5-7 minutes, allowing them to crisp up.",
+      "Add salt and mix well. Cook for another 5 minutes.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "jeera_aloo_south_style.jpg",
+    "category": "Side Dish",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 8,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Paneer-Mushroom Mix Curry",
+    "ingredients": [
+      "1/2 cup paneer, cubed",
+      "1/2 cup mushrooms, sliced",
+      "1 medium onion, chopped",
+      "2 medium tomatoes, chopped",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "1 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add cumin seeds and curry leaves.",
+      "Once they splutter, add chopped onions and sauté until golden brown.",
+      "Add chopped tomatoes, turmeric powder, red chili powder, and garam masala. Cook until tomatoes soften.",
+      "Add sliced mushrooms and cook for 5-7 minutes.",
+      "Add cubed paneer and salt. Cook for another 5 minutes.",
+      "Serve with roti or rice."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "paneer_mushroom_mix_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 12,
+      "fat": 16,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Raw Mango Curry",
+    "ingredients": [
+      "1 raw mango, peeled and chopped",
+      "1 medium onion, chopped",
+      "2 medium tomatoes, chopped",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add onions and sauté until translucent.",
+      "Add tomatoes, turmeric powder, red chili powder, coriander powder, and salt. Cook for 5-7 minutes.",
+      "Add chopped raw mango and water, and cook for 10-12 minutes until the mango softens.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "raw_mango_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 2,
+      "fat": 8,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Curd Curry with Raw Mango",
+    "ingredients": [
+      "1/2 cup curd (yogurt)",
+      "1 raw mango, peeled and chopped",
+      "1 medium onion, chopped",
+      "2 medium tomatoes, chopped",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add onions and sauté until golden brown.",
+      "Add tomatoes, turmeric powder, red chili powder, and salt. Cook for 5-7 minutes.",
+      "Add chopped raw mango and cook for another 5 minutes.",
+      "Add curd and mix well. Let it simmer for 5-7 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "curd_curry_raw_mango.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 12,
+      "carbs": 15
+    }
+  },
+  {
+    "title": "Curry Leaves Masala Curry",
+    "ingredients": [
+      "1 cup curry leaves",
+      "1 medium onion, chopped",
+      "2 medium tomatoes, chopped",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds and cumin seeds.",
+      "Once they splutter, add onions and sauté until golden brown.",
+      "Add tomatoes, turmeric powder, red chili powder, coriander powder, and salt. Cook for 5-7 minutes.",
+      "Add curry leaves and cook for another 5-7 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "curry_leaves_masala_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 5,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 3,
+      "fat": 10,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Thavala Kuzhambu (Mixed Lentil Curry)",
+    "ingredients": [
+      "1/4 cup toor dal (pigeon pea lentils)",
+      "1/4 cup chana dal (split chickpeas)",
+      "1/4 cup moong dal (yellow lentils)",
+      "1 medium onion, chopped",
+      "2 medium tomatoes, chopped",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Cook the lentils in a pressure cooker with enough water for 3-4 whistles.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add onions and sauté until translucent.",
+      "Add tomatoes, turmeric powder, red chili powder, coriander powder, and salt. Cook for 5-7 minutes.",
+      "Add the cooked lentils, mix well, and let it simmer for 10 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "thavala_kuzhambu.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 15,
+      "fat": 8,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Tiffin Sambar (Thick, no vegetables)",
+    "ingredients": [
+      "1/2 cup toor dal (pigeon pea lentils)",
+      "1/4 cup tamarind pulp",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp sambar powder",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Cook the toor dal in a pressure cooker for 3-4 whistles.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add tamarind pulp, turmeric powder, red chili powder, sambar powder, and salt. Cook for 5 minutes.",
+      "Add the cooked dal and mix well. Simmer for 10 minutes.",
+      "Serve with idli or dosa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "tiffin_sambar.webp",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 8,
+      "fat": 6,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Kuzhi Curry (Kerala mixed lentil curry)",
+    "ingredients": [
+      "1/4 cup toor dal (pigeon pea lentils)",
+      "1/4 cup chana dal (split chickpeas)",
+      "1/4 cup moong dal (yellow lentils)",
+      "1 medium onion, chopped",
+      "2 medium tomatoes, chopped",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp coriander powder",
+      "Salt to taste",
+      "Curry leaves",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Cook the lentils in a pressure cooker with enough water for 3-4 whistles.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, and curry leaves.",
+      "Once they splutter, add onions and sauté until translucent.",
+      "Add tomatoes, turmeric powder, red chili powder, coriander powder, and salt. Cook for 5-7 minutes.",
+      "Add the cooked lentils, mix well, and let it simmer for 10 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "kuzhi_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 230,
+      "protein": 14,
+      "fat": 8,
+      "carbs": 32
+    }
+  }
+]

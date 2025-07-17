@@ -1,0 +1,71 @@
+for registration 
+POST http://localhost:5000/api/auth/register
+
+username
+email
+password
+
+for login
+POST http://localhost:5000/api/auth/login
+
+email and password
+
+
+🔹 Search & Filtering (Better search experience)
+🔹 Pagination & Sorting (Improve performance)
+🔹 User Authentication & Favorites (Personalization)
+🔹 AI-Based Recommendations (Smart suggestions)
+🔹 Nutritional Analysis (Health-focused users)
+🔹 Image Upload for Recipes (Better visuals)
+🔹 Voice Search & Cooking Assistant (Hands-free cooking)
+🔹 Webhooks & Notifications (User engagement)
+🔹 Meal Planning & Shopping List (Complete food experience)
+allergies
+
+
+
+
+
+ Step 1: Define Recipe Categories
+We will divide the recipes into major categories for better organization and retrieval.
+
+1️⃣ Meal Type-Based Categories
+🍳 Breakfast (Idli, Dosa, Poha, Pancakes, etc.)
+
+🍛 Lunch & Dinner (Biryani, Dal, Rice, Curries, etc.)
+
+🥪 Snacks & Fast Food (Samosa, Sandwich, Pizza, Burgers, etc.)
+
+🍲 Soups & Salads (Tomato Soup, Caesar Salad, etc.)
+
+🍰 Desserts & Sweets (Gulab Jamun, Ice Cream, Cakes, etc.)
+
+🍹 Beverages (Smoothies, Juices, Coffee, etc.)
+
+2️⃣ Cuisine-Based Categories
+Indian (North Indian, South Indian, Bengali, Gujarati, etc.)
+
+International (Italian, Chinese, Thai, Continental, etc.)
+
+3️⃣ Special Categories
+🥗 Healthy & Diet Recipes (Keto, Vegan, Low Carb)
+
+🚀 Quick & Easy (Recipes under 15 mins)
+
+🍱 Kids’ Special (Kid-friendly meals)
+
+🌱 Vegetarian & Non-Vegetarian
+
+🔥 Street Food & Regional Delicacies
+
+🔹 Step 2: Create Recipes in Batches
+We’ll add recipes category-wise to ensure a smooth database update.
+Each batch will be added as a separate recipes.json file and imported.
+
+🔹 Batch 1: South Indian Tiffins ✅ (Already started)
+🔹 Batch 2: Breakfast Recipes
+🔹 Batch 3: Lunch & Dinner
+🔹 Batch 4: Snacks & Fast Food
+🔹 Batch 5: Desserts & Beverages
+🔹 Batch 6: International Cuisines
+🔹 Batch 7: Diet & Healthy Recipes

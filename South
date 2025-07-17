@@ -1,0 +1,4401 @@
+// VEG
+[
+    {
+        "title": "Vegetable Kurma",
+        "ingredients": [
+            "1 cup chopped carrots",
+            "1 cup chopped beans",
+            "1 cup diced potatoes",
+            "1/2 cup green peas",
+            "1 onion, sliced",
+            "2 tomatoes, chopped",
+            "1 tbsp ginger-garlic paste",
+            "1/2 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1/2 tsp garam masala",
+            "1/2 cup thick coconut milk",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Water as needed"
+        ],
+        "instructions": [
+            "Heat oil in a pan and sauté onions until translucent.",
+            "Add ginger-garlic paste and cook until raw smell disappears.",
+            "Add tomatoes and cook until soft.",
+            "Add all the vegetables, turmeric, chili powder, and salt. Mix well.",
+            "Add water and cook covered until vegetables are tender.",
+            "Add coconut milk and garam masala. Simmer for a few minutes.",
+            "Serve hot with chapati or rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Vegetable-Kurma.jpg",
+        "category": "veg",
+        "prepTime": 20,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 220,
+            "protein": 5,
+            "fat": 12,
+            "carbs": 24
+        }
+    },
+    {
+        "title": "Avial",
+        "ingredients": [
+            "1 cup chopped raw banana",
+            "1 cup chopped yam",
+            "1/2 cup carrots",
+            "1/2 cup beans",
+            "1/4 cup grated coconut",
+            "2 green chilies",
+            "1 tsp cumin seeds",
+            "1/2 cup curd",
+            "1 tbsp coconut oil",
+            "Few curry leaves",
+            "Salt to taste",
+            "Water as required"
+        ],
+        "instructions": [
+            "Cook all vegetables with water and salt until tender.",
+            "Grind coconut, green chilies, and cumin to a coarse paste.",
+            "Mix the paste into the cooked vegetables and simmer.",
+            "Add beaten curd, mix gently and turn off heat.",
+            "Drizzle coconut oil and garnish with curry leaves.",
+            "Serve with steamed rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Avial.jpg",
+        "category": "veg",
+        "prepTime": 20,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 180,
+            "protein": 4,
+            "fat": 9,
+            "carbs": 22
+        }
+    },
+    {
+        "title": "Poriyal (Stir-fried Veggies)",
+        "ingredients": [
+            "1 cup chopped cabbage",
+            "1/4 cup grated coconut",
+            "1 tsp mustard seeds",
+            "1 tsp urad dal",
+            "2 dry red chilies",
+            "1 sprig curry leaves",
+            "1 tbsp oil",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Heat oil in a pan and add mustard seeds, urad dal, red chilies, and curry leaves.",
+            "Add cabbage and salt, stir well.",
+            "Cover and cook on low heat until tender.",
+            "Add grated coconut and sauté for 2 minutes.",
+            "Serve as a side dish with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Poriyal.jpg",
+        "category": "veg",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 3,
+        "dietType": "low",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 130,
+            "protein": 3,
+            "fat": 8,
+            "carbs": 10
+        }
+    },
+    {
+        "title": "Thoran (Kerala Veg Stir Fry)",
+        "ingredients": [
+            "1 cup chopped beans",
+            "1/4 cup grated coconut",
+            "2 green chilies",
+            "1/2 tsp mustard seeds",
+            "1 tsp urad dal",
+            "1 sprig curry leaves",
+            "1 tbsp coconut oil",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Heat coconut oil and splutter mustard seeds and urad dal.",
+            "Add curry leaves and green chilies.",
+            "Add beans and salt. Mix well and cook covered.",
+            "Once cooked, stir in grated coconut and sauté briefly.",
+            "Serve with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Thoran.jpg",
+        "category": "veg",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 3,
+        "dietType": "low",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 120,
+            "protein": 2,
+            "fat": 7,
+            "carbs": 12
+        }
+    },
+    {
+        "title": "Kathirikai Kara Kuzhambu (Spicy Brinjal Curry)",
+        "ingredients": [
+            "8 small brinjals",
+            "1 onion, chopped",
+            "1 tomato, chopped",
+            "2 tbsp tamarind paste",
+            "1 tsp sambar powder",
+            "1/2 tsp turmeric powder",
+            "1/2 tsp mustard seeds",
+            "1/2 tsp fenugreek seeds",
+            "1 sprig curry leaves",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Water as needed"
+        ],
+        "instructions": [
+            "Slit brinjals and soak in salt water.",
+            "Heat oil and temper mustard, fenugreek, and curry leaves.",
+            "Add onion and sauté till golden. Add tomatoes and cook till soft.",
+            "Add turmeric, sambar powder, and salt. Mix well.",
+            "Add brinjals and sauté for 2 minutes.",
+            "Add tamarind paste and water. Cook until brinjals are soft.",
+            "Serve with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "kathirikaikaracurry.jpg",
+        "category": "veg",
+        "prepTime": 15,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 180,
+            "protein": 3,
+            "fat": 10,
+            "carbs": 20
+        }
+    },
+    {
+        "title": "Sambar",
+        "ingredients": [
+            "1/2 cup toor dal",
+            "1 cup chopped vegetables (carrot, drumstick, pumpkin)",
+            "1 onion, chopped",
+            "1 tomato, chopped",
+            "2 tbsp tamarind extract",
+            "1 tbsp sambar powder",
+            "1/4 tsp turmeric powder",
+            "1/2 tsp mustard seeds",
+            "1/2 tsp cumin seeds",
+            "2 dry red chilies",
+            "1 sprig curry leaves",
+            "1 tbsp oil",
+            "Salt to taste",
+            "Water as needed"
+        ],
+        "instructions": [
+            "Cook toor dal with turmeric until soft. Mash and set aside.",
+            "Cook vegetables with salt and water until tender.",
+            "Add tamarind extract, sambar powder, and simmer.",
+            "Add mashed dal and bring to a boil.",
+            "Heat oil and temper mustard, cumin, red chilies, and curry leaves.",
+            "Pour over sambar. Mix well.",
+            "Serve with rice or idli/dosa."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Sambar.jpg",
+        "category": "veg",
+        "prepTime": 20,
+        "cookTime": 30,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 200,
+            "protein": 7,
+            "fat": 6,
+            "carbs": 28
+        }
+    },
+    {
+        "title": "Rasam",
+        "ingredients": [
+            "2 tomatoes, chopped",
+            "1/4 cup tamarind juice",
+            "1 tsp rasam powder",
+            "1/4 tsp turmeric powder",
+            "1/2 tsp mustard seeds",
+            "1/2 tsp cumin seeds",
+            "1/4 tsp black pepper",
+            "2 garlic cloves, crushed",
+            "1 sprig curry leaves",
+            "1 tbsp chopped coriander",
+            "1 tsp oil",
+            "Salt to taste",
+            "Water as needed"
+        ],
+        "instructions": [
+            "Boil tomatoes in water until soft. Mash and strain.",
+            "Add tamarind juice, rasam powder, turmeric, and salt. Bring to boil.",
+            "Simmer for 5 minutes. Add coriander and remove from heat.",
+            "Heat oil, temper mustard, cumin, pepper, garlic, and curry leaves.",
+            "Add to rasam. Mix and serve hot with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Rasam.jpg",
+        "category": "veg",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 3,
+        "dietType": "low",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 90,
+            "protein": 2,
+            "fat": 4,
+            "carbs": 10
+        }
+    },
+    {
+        "title": "Kootu",
+        "ingredients": [
+            "1/2 cup moong dal",
+            "1 cup chopped ash gourd or chow chow",
+            "1/4 tsp turmeric powder",
+            "1/4 cup grated coconut",
+            "1 tsp cumin seeds",
+            "2 green chilies",
+            "1 tsp oil",
+            "1/2 tsp mustard seeds",
+            "Few curry leaves",
+            "Salt to taste",
+            "Water as required"
+        ],
+        "instructions": [
+            "Cook moong dal and vegetable with turmeric and water until soft.",
+            "Grind coconut, cumin, and green chilies to a paste.",
+            "Add paste to cooked dal-veggie mix. Simmer for 5 mins.",
+            "Heat oil, temper mustard and curry leaves. Add to kootu.",
+            "Serve with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Kootu.jpg",
+        "category": "veg",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 150,
+            "protein": 6,
+            "fat": 5,
+            "carbs": 18
+        }
+    },
+    {
+        "title": "Puli Kuzhambu",
+        "ingredients": [
+            "6 small brinjals or 1/2 cup drumsticks",
+            "1/2 cup tamarind extract",
+            "1 tbsp sambar powder",
+            "1/4 tsp turmeric powder",
+            "1/2 tsp mustard seeds",
+            "1/2 tsp fenugreek seeds",
+            "1 sprig curry leaves",
+            "1/4 tsp asafoetida",
+            "2 tbsp sesame oil",
+            "Salt to taste",
+            "Water as needed"
+        ],
+        "instructions": [
+            "Heat oil and temper mustard, fenugreek, curry leaves, and asafoetida.",
+            "Add chopped veggies and sauté.",
+            "Add tamarind extract, turmeric, sambar powder, and salt.",
+            "Simmer until oil separates and veggies are cooked.",
+            "Serve with steamed rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Puli-Kuzhambu.jpg",
+        "category": "veg",
+        "prepTime": 15,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 170,
+            "protein": 3,
+            "fat": 10,
+            "carbs": 18
+        }
+    }
+]
+// NON - VEG
+[
+    {
+        "title": "Chicken Chettinad",
+        "ingredients": [
+            "500g chicken pieces",
+            "2 onions, finely chopped",
+            "2 tomatoes, chopped",
+            "1 tbsp ginger-garlic paste",
+            "2 tbsp Chettinad masala",
+            "1/2 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1/2 cup grated coconut",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Curry leaves"
+        ],
+        "instructions": [
+            "Dry roast grated coconut until golden brown and grind to a paste.",
+            "Heat oil in a pan, add curry leaves and sauté onions until translucent.",
+            "Add ginger-garlic paste and sauté until the raw smell disappears.",
+            "Add tomatoes and cook until soft.",
+            "Add turmeric, red chili powder, and Chettinad masala. Mix well.",
+            "Add chicken pieces and cook until they change color.",
+            "Add ground coconut paste and salt. Mix well.",
+            "Cover and cook until chicken is tender and oil separates.",
+            "Garnish with fresh curry leaves and serve hot with rice or roti."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Chicken-Chettinad.jpg",
+        "category": "non-veg",
+        "prepTime": 20,
+        "cookTime": 30,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 350,
+            "protein": 25,
+            "fat": 20,
+            "carbs": 15
+        }
+    },
+    {
+        "title": "Andhra Chicken Curry",
+        "ingredients": [
+            "500g chicken pieces",
+            "2 onions, finely chopped",
+            "2 tomatoes, chopped",
+            "2 tbsp ginger-garlic paste",
+            "2 tsp red chili powder",
+            "1/2 tsp turmeric powder",
+            "1 tsp garam masala",
+            "1/2 cup coconut milk",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Curry leaves"
+        ],
+        "instructions": [
+            "Heat oil in a pan, add curry leaves and sauté onions until golden brown.",
+            "Add ginger-garlic paste and sauté until the raw smell disappears.",
+            "Add tomatoes and cook until soft.",
+            "Add turmeric, red chili powder, and garam masala. Mix well.",
+            "Add chicken pieces and cook until they change color.",
+            "Add salt and coconut milk. Mix well.",
+            "Cover and cook until chicken is tender and oil separates.",
+            "Garnish with fresh coriander leaves and serve hot with rice or roti."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Andhra-Chicken-Curry.jpg",
+        "category": "non-veg",
+        "prepTime": 20,
+        "cookTime": 35,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 360,
+            "protein": 27,
+            "fat": 22,
+            "carbs": 12
+        }
+    },
+    {
+        "title": "Kerala Fish Curry",
+        "ingredients": [
+            "500g fish pieces (e.g., kingfish, seer fish)",
+            "2 tbsp coconut oil",
+            "1 tsp mustard seeds",
+            "1 sprig curry leaves",
+            "1 onion, sliced",
+            "2 green chilies, slit",
+            "1 tbsp ginger-garlic paste",
+            "1 tsp turmeric powder",
+            "2 tsp red chili powder",
+            "1 tsp coriander powder",
+            "1 cup thin coconut milk",
+            "1/2 cup thick coconut milk",
+            "Tamarind extract (from a small lemon-sized ball)",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Heat coconut oil in a clay pot, add mustard seeds and let them splutter.",
+            "Add curry leaves, sliced onions, and green chilies. Sauté until onions are translucent.",
+            "Add ginger-garlic paste and sauté until the raw smell disappears.",
+            "Add turmeric, red chili, and coriander powders. Mix well.",
+            "Add tamarind extract and thin coconut milk. Bring to a boil.",
+            "Add fish pieces and cook on medium heat until fish is cooked.",
+            "Add thick coconut milk, simmer for a few minutes, and turn off the heat.",
+            "Serve hot with steamed rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Kerala-Fish-Fry.jpg",
+        "category": "non-veg",
+        "prepTime": 15,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 320,
+            "protein": 30,
+            "fat": 18,
+            "carbs": 10
+        }
+    },
+    {
+        "title": "Mutton Sukka",
+        "ingredients": [
+            "500g mutton, cut into small pieces",
+            "2 onions, finely chopped",
+            "1 tomato, chopped",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp turmeric powder",
+            "2 tsp red chili powder",
+            "1 tsp coriander powder",
+            "1/2 tsp garam masala",
+            "1/2 cup grated coconut",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Curry leaves"
+        ],
+        "instructions": [
+            "Pressure cook mutton with turmeric and salt until tender.",
+            "Heat oil in a pan, add curry leaves and sauté onions until golden brown.",
+            "Add ginger-garlic paste and sauté until the raw smell disappears.",
+            "Add tomatoes and cook until soft.",
+            "Add red chili, coriander powders, and garam masala. Mix well.",
+            "Add cooked mutton pieces and mix thoroughly.",
+            "Add grated coconut and sauté until the mixture is dry.",
+            "Serve hot with rice or chapati."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Mutton-Sukka.jpg",
+        "category": "non-veg",
+        "prepTime": 20,
+        "cookTime": 40,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 400,
+            "protein": 35,
+            "fat": 25,
+            "carbs": 8
+        }
+    },
+    {
+        "title": "Chicken 65",
+        "ingredients": [
+            "500g boneless chicken, cut into small pieces",
+            "2 tbsp ginger-garlic paste",
+            "2 tsp red chili powder",
+            "1/2 tsp turmeric powder",
+            "1 tsp garam masala",
+            "2 tbsp cornflour",
+            "2 tbsp all-purpose flour",
+            "1 egg",
+            "Salt to taste",
+            "Oil for deep frying",
+            "Curry leaves",
+            "2 green chilies, slit",
+            "1 tbsp yogurt",
+            "1 tsp lemon juice"
+        ],
+        "instructions": [
+            "Marinate chicken with ginger-garlic paste, red chili powder, turmeric, garam masala, flours, egg, and salt. Let it rest for 1 hour.",
+            "Heat oil in a pan and deep fry the marinated chicken pieces until golden brown. Set aside.",
+            "In another pan, heat a little oil, add curry leaves and green chilies. Sauté briefly.",
+            "Add yogurt and lemon juice. Mix well.",
+            "Add the fried chicken pieces and toss until well coated.",
+            "Serve hot as a starter or snack."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Chicken-65.jpg",
+        "category": "non-veg",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "snack",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 300,
+            "protein": 28,
+            "fat": 15,
+            "carbs": 12
+        }
+    },
+    {
+        "title": "Prawn Masala",
+        "ingredients": [
+            "500g prawns, cleaned and deveined",
+            "2 onions, finely chopped",
+            "2 tomatoes, chopped",
+            "1 tbsp ginger-garlic paste",
+            "1/2 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp coriander powder",
+            "1/2 tsp garam masala",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Curry leaves",
+            "Fresh coriander leaves for garnish"
+        ],
+        "instructions": [
+            "Heat oil in a pan, add curry leaves and sauté onions until golden brown.",
+            "Add ginger-garlic paste and sauté until the raw smell disappears.",
+            "Add tomatoes and cook until soft.",
+            "Add turmeric, red chili, coriander powders, and garam masala. Mix well.",
+            "Add prawns and cook until they turn pink and are cooked through.",
+            "Garnish with fresh coriander leaves and serve hot with rice or roti."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Prawn-Masala.jpg",
+        "category": "non-veg",
+        "prepTime": 15,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 250,
+            "protein": 30,
+            "fat": 12,
+            "carbs": 6
+        }
+    },
+    {
+        "title": "Egg Curry (South Indian Style)",
+        "ingredients": [
+            "4 boiled eggs",
+            "2 onions, finely chopped",
+            "2 tomatoes, chopped",
+            "1 tbsp ginger-garlic paste",
+            "1/2 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp coriander powder",
+            "1/2 tsp garam masala",
+            "1/4 tsp mustard seeds",
+            "1/2 cup coconut milk",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Curry leaves",
+            "Fresh coriander leaves for garnish"
+        ],
+        "instructions": [
+            "Heat oil in a pan, add mustard seeds and let them splutter.",
+            "Add curry leaves and chopped onions. Sauté until golden brown.",
+            "Add ginger-garlic paste and sauté until raw smell disappears.",
+            "Add chopped tomatoes and cook until mushy.",
+            "Add turmeric, red chili, coriander powder and mix well.",
+            "Add coconut milk and bring it to a gentle boil.",
+            "Gently add boiled eggs (slit or whole), cover and simmer for 5–7 minutes.",
+            "Add garam masala, garnish with coriander leaves and serve hot with rice or chapati."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Egg-Curry.jpg",
+        "category": "non-veg",
+        "prepTime": 10,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 290,
+            "protein": 18,
+            "fat": 20,
+            "carbs": 8
+        }
+    },
+    {
+        "title": "Meen Pollichathu (Fish in Banana Leaf)",
+        "ingredients": [
+            "2 medium fish fillets (Pearl spot or Pomfret)",
+            "1 onion, thinly sliced",
+            "1 tomato, chopped",
+            "1 tbsp ginger-garlic paste",
+            "1/2 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp black pepper powder",
+            "1/2 tsp garam masala",
+            "1/2 cup coconut milk",
+            "Banana leaves (for wrapping)",
+            "2 tbsp coconut oil",
+            "Salt to taste",
+            "Curry leaves",
+            "Lemon juice"
+        ],
+        "instructions": [
+            "Marinate the fish with turmeric, red chili powder, pepper powder, salt, and lemon juice. Set aside for 20 minutes.",
+            "Heat coconut oil in a pan, sauté curry leaves and onions until golden brown.",
+            "Add ginger-garlic paste, chopped tomatoes, and sauté until oil separates.",
+            "Add garam masala and coconut milk. Cook for 2 minutes to make a thick masala.",
+            "Place each fish with masala onto a banana leaf, fold it, and secure with thread or a toothpick.",
+            "Cook the wrapped fish on a hot tawa or griddle, pressing gently on both sides for about 5 minutes each.",
+            "Unwrap and serve hot with rice or Kerala parotta."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Meen-Pollichattu.jpg",
+        "category": "non-veg",
+        "prepTime": 25,
+        "cookTime": 20,
+        "servings": 2,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 340,
+            "protein": 30,
+            "fat": 22,
+            "carbs": 10
+        }
+    },
+    {
+        "title": "Naatu Kozhi Kuzhambu (Country Chicken Curry)",
+        "ingredients": [
+            "500g country chicken, cleaned and cut",
+            "2 onions, finely chopped",
+            "2 tomatoes, chopped",
+            "2 tbsp ginger-garlic paste",
+            "1/2 tsp turmeric powder",
+            "2 tsp red chili powder",
+            "1 tsp coriander powder",
+            "1/2 tsp cumin powder",
+            "1/2 tsp garam masala",
+            "1/2 cup grated coconut",
+            "1 tsp fennel seeds",
+            "2 tbsp sesame oil",
+            "Salt to taste",
+            "Curry leaves",
+            "Fresh coriander leaves for garnish"
+        ],
+        "instructions": [
+            "Grind grated coconut and fennel seeds to a fine paste. Set aside.",
+            "Heat sesame oil in a pan, add curry leaves and onions. Sauté till golden.",
+            "Add ginger-garlic paste and sauté until raw smell fades.",
+            "Add tomatoes and cook until mushy.",
+            "Add turmeric, red chili, coriander, cumin powder and mix well.",
+            "Add chicken pieces and sauté until they are sealed and no longer pink.",
+            "Add enough water to cover the chicken, and salt. Cover and cook for 30–40 minutes until tender.",
+            "Add the coconut-fennel paste and simmer for 5–7 minutes.",
+            "Add garam masala, garnish with coriander and serve hot with rice or idli/dosa."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Hard",
+        "image": "Naatu-Kodi-Kuzhambu.jpg",
+        "category": "non-veg",
+        "prepTime": 25,
+        "cookTime": 45,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 420,
+            "protein": 33,
+            "fat": 28,
+            "carbs": 10
+        }
+    }
+]
+// Icecreamsa
+[
+    {
+        "title": "Tender Coconut Ice Cream",
+        "ingredients": [
+            "Tender coconut water",
+            "Tender coconut flesh",
+            "Sugar",
+            "Milk",
+            "Cream",
+            "Cardamom powder"
+        ],
+        "instructions": [
+            "Blend tender coconut water and flesh in a blender until smooth.",
+            "Add sugar and cardamom powder to the mixture and blend again.",
+            "In a separate bowl, mix the blended coconut with milk and cream.",
+            "Pour the mixture into a container and freeze for 1 hour.",
+            "Stir the mixture well, then return to the freezer.",
+            "Repeat stirring every 30 minutes for the next 2-3 hours until creamy and set."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Tender-Coconut-Ice-Cream.jpg",
+        "category": "ice creams",
+        "prepTime": 15,
+        "cookTime": 0,
+        "servings": 6,
+        "dietType": "Low",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 150,
+            "protein": 3,
+            "fat": 7,
+            "carbs": 18
+        }
+    },
+    {
+        "title": "Jackfruit Ice Cream",
+        "ingredients": [
+            "Ripe jackfruit pulp",
+            "Sugar",
+            "Milk",
+            "Cream",
+            "Cardamom powder"
+        ],
+        "instructions": [
+            "Blend ripe jackfruit pulp with sugar until smooth.",
+            "Add cardamom powder and mix well.",
+            "Combine with milk and cream in a mixing bowl.",
+            "Pour the mixture into a container and freeze for 1 hour.",
+            "Stir the mixture every 30 minutes for the next 2-3 hours until it becomes creamy and smooth."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Jackfruit-Ice-Cream.jpg",
+        "category": "ice creams",
+        "prepTime": 15,
+        "cookTime": 0,
+        "servings": 6,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 180,
+            "protein": 3,
+            "fat": 8,
+            "carbs": 22
+        }
+    },
+    {
+        "title": "Banana Ice Cream",
+        "ingredients": [
+            "Ripe bananas",
+            "Sugar",
+            "Milk",
+            "Cream",
+            "Vanilla essence"
+        ],
+        "instructions": [
+            "Mash ripe bananas until smooth.",
+            "Blend mashed bananas with sugar, milk, cream, and vanilla essence.",
+            "Pour the mixture into a container and freeze for 1 hour.",
+            "Stir well every 30 minutes for the next 2-3 hours until firm and creamy."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Banana-Ice-Cream.jpg",
+        "category": "ice creams",
+        "prepTime": 10,
+        "cookTime": 0,
+        "servings": 6,
+        "dietType": "Low",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 160,
+            "protein": 2,
+            "fat": 6,
+            "carbs": 24
+        }
+    },
+    {
+        "title": "Filter Coffee Ice Cream",
+        "ingredients": [
+            "Strong filter coffee",
+            "Sugar",
+            "Milk",
+            "Cream",
+            "Cardamom powder"
+        ],
+        "instructions": [
+            "Brew strong filter coffee and allow it to cool completely.",
+            "Mix the coffee with sugar, milk, and cream.",
+            "Add cardamom powder and stir well.",
+            "Pour into a container and freeze for 1 hour.",
+            "Stir the mixture every 30 minutes for the next 2-3 hours until creamy and set."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Filter-Coffee-Ice-Cream.jpg",
+        "category": "ice creams",
+        "prepTime": 20,
+        "cookTime": 0,
+        "servings": 6,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 220,
+            "protein": 4,
+            "fat": 12,
+            "carbs": 22
+        }
+    },
+    {
+        "title": "Mango Kulfi",
+        "ingredients": [
+            "Ripe mango pulp",
+            "Condensed milk",
+            "Milk",
+            "Sugar",
+            "Cardamom powder",
+            "Pistachios"
+        ],
+        "instructions": [
+            "Mix mango pulp, condensed milk, milk, sugar, and cardamom powder in a large bowl.",
+            "Whisk until smooth and well combined.",
+            "Pour into kulfi molds or a freezer-safe container.",
+            "Freeze until firm (6–8 hours or overnight).",
+            "Garnish with chopped pistachios before serving."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Mango-Kulfi.jpg",
+        "category": "ice creams",
+        "prepTime": 15,
+        "cookTime": 0,
+        "servings": 6,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 250,
+            "protein": 5,
+            "fat": 10,
+            "carbs": 30
+        }
+    },
+    {
+        "title": "Palm Fruit (Taal) Ice Cream",
+        "ingredients": [
+            "Palm fruit pulp",
+            "Sugar",
+            "Milk",
+            "Cream",
+            "Cardamom powder"
+        ],
+        "instructions": [
+            "Blend palm fruit pulp with sugar until smooth.",
+            "Mix with milk and cream in a bowl.",
+            "Add cardamom powder and stir until well combined.",
+            "Freeze the mixture, stirring every 30 minutes for 2–3 hours until creamy."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Palm-Fruit.jpg",
+        "category": "ice creams",
+        "prepTime": 15,
+        "cookTime": 0,
+        "servings": 6,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 180,
+            "protein": 3,
+            "fat": 8,
+            "carbs": 20
+        }
+    },
+    {
+        "title": "Coconut Jaggery Ice Cream",
+        "ingredients": [
+            "Grated coconut",
+            "Jaggery",
+            "Milk",
+            "Cream",
+            "Cardamom powder"
+        ],
+        "instructions": [
+            "In a pan, cook grated coconut with jaggery until melted and well combined.",
+            "Allow the mixture to cool completely.",
+            "Mix with milk, cream, and cardamom powder.",
+            "Freeze, stirring occasionally for 2–3 hours until set and creamy."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Coconut-Jaggery-Ice-Cream.jpg",
+        "category": "ice creams",
+        "prepTime": 20,
+        "cookTime": 0,
+        "servings": 6,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 230,
+            "protein": 4,
+            "fat": 11,
+            "carbs": 28
+        }
+    },
+    {
+        "title": "Fig & Honey Ice Cream",
+        "ingredients": [
+            "Dried figs",
+            "Honey",
+            "Milk",
+            "Cream",
+            "Vanilla essence"
+        ],
+        "instructions": [
+            "Soak dried figs in warm water until soft, then blend into a paste.",
+            "Mix fig paste with honey, milk, cream, and vanilla essence.",
+            "Pour into a container and freeze for 1 hour.",
+            "Stir every 30 minutes for 2–3 hours until creamy."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Fig & Honey-Ice-Cream.jpg",
+        "category": "ice creams",
+        "prepTime": 20,
+        "cookTime": 0,
+        "servings": 6,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 190,
+            "protein": 3,
+            "fat": 7,
+            "carbs": 25
+        }
+    },
+    {
+        "title": "Rosemilk Ice Cream",
+        "ingredients": [
+            "Rose syrup",
+            "Milk",
+            "Cream",
+            "Sugar",
+            "Cardamom powder"
+        ],
+        "instructions": [
+            "Mix rose syrup, milk, cream, sugar, and cardamom powder in a bowl.",
+            "Stir until the sugar dissolves completely.",
+            "Freeze the mixture, stirring every 30 minutes for 2–3 hours until creamy and set."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Rosemilk.jpg",
+        "category": "ice creams",
+        "prepTime": 10,
+        "cookTime": 0,
+        "servings": 6,
+        "dietType": "Low",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 140,
+            "protein": 2,
+            "fat": 6,
+            "carbs": 18
+        }
+    }
+]
+//SWEETS 
+[
+    {
+        "title": "Mysore Pak",
+        "ingredients": [
+            "1 cup gram flour (besan)",
+            "1 cup ghee",
+            "1 cup sugar",
+            "1/2 cup water"
+        ],
+        "instructions": [
+            "Grease a plate or tray and set aside.",
+            "In a pan, heat sugar and water to make a sugar syrup of one-string consistency.",
+            "Add the gram flour to the syrup and mix well to avoid lumps.",
+            "Slowly add ghee in small portions while continuously stirring.",
+            "Keep stirring and cooking on low heat until the mixture thickens and starts to leave the sides of the pan.",
+            "Pour the mixture onto the greased plate and spread evenly.",
+            "Allow it to cool slightly and then cut into pieces.",
+            "Let it cool completely before serving."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Mysore-Pak.jpg",
+        "category": "sweets",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 6,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 320,
+            "protein": 5,
+            "fat": 20,
+            "carbs": 30
+        }
+    },
+    {
+        "title": "Rava Kesari",
+        "ingredients": [
+            "1 cup semolina (rava)",
+            "1 cup sugar",
+            "2 1/2 cups water",
+            "1/4 cup ghee",
+            "A few saffron strands",
+            "1/2 teaspoon cardamom powder",
+            "10 cashew nuts",
+            "10 raisins"
+        ],
+        "instructions": [
+            "Heat ghee in a pan and fry cashew nuts and raisins until golden. Set aside.",
+            "In the same pan, roast the semolina on medium heat until aromatic, without browning.",
+            "Boil water in a separate pot with saffron strands.",
+            "Slowly add the hot water to the roasted semolina while stirring to avoid lumps.",
+            "Cook on low heat until the semolina absorbs all the water and thickens.",
+            "Add sugar and mix well; the mixture will become liquidy again.",
+            "Keep stirring until it thickens again.",
+            "Add cardamom powder, fried cashews, and raisins; mix well.",
+            "Turn off heat and cover for a few minutes before serving."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Rava-Kesari.jpg",
+        "category": "sweets",
+        "prepTime": 10,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 250,
+            "protein": 4,
+            "fat": 10,
+            "carbs": 35
+        }
+    },
+    {
+        "title": "Boondi Ladoo",
+        "ingredients": [
+            "1 cup gram flour (besan)",
+            "3/4 cup sugar",
+            "1 cup water",
+            "1/4 teaspoon cardamom powder",
+            "Ghee or oil for frying",
+            "A pinch of saffron strands (optional)"
+        ],
+        "instructions": [
+            "Make a smooth batter by mixing gram flour with water.",
+            "Heat ghee or oil in a deep frying pan.",
+            "Pour batter through a perforated ladle or spoon to make small droplets into the hot oil.",
+            "Fry the boondi (small fried balls) until golden and crisp; drain and set aside.",
+            "In a pan, prepare sugar syrup by boiling sugar and water until one-string consistency is reached.",
+            "Add cardamom powder and saffron strands to the syrup.",
+            "Mix the fried boondi into the syrup quickly and turn off the heat.",
+            "Allow the mixture to cool slightly, then shape into round ladoos using greased hands.",
+            "Let the ladoos cool completely and set before serving."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Boondi-Ladoo.jpg",
+        "category": "sweets",
+        "prepTime": 20,
+        "cookTime": 25,
+        "servings": 6,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "North-Indian",
+        "nutrition": {
+            "calories": 350,
+            "protein": 6,
+            "fat": 15,
+            "carbs": 40
+        }
+    },
+    {
+        "title": "Obbattu (Puran Poli)",
+        "ingredients": [
+            "1 cup chana dal (split Bengal gram)",
+            "1 cup jaggery",
+            "1/2 teaspoon cardamom powder",
+            "1 1/2 cups wheat flour",
+            "1 tablespoon oil",
+            "Water as needed"
+        ],
+        "instructions": [
+            "Cook chana dal in water until soft, then drain excess water.",
+            "Mash the cooked dal and cook it again with jaggery until the mixture thickens.",
+            "Add cardamom powder and mix well; let it cool.",
+            "Make a dough with wheat flour, oil, and water; knead until smooth.",
+            "Divide the dough and filling into equal portions.",
+            "Roll out a dough ball, place filling in the center, seal, and gently roll into a thin circle.",
+            "Cook on a hot griddle, applying ghee on both sides until golden brown spots appear.",
+            "Serve warm with ghee or milk."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Obbattu.jpg",
+        "category": "sweets",
+        "prepTime": 30,
+        "cookTime": 30,
+        "servings": 6,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 280,
+            "protein": 8,
+            "fat": 6,
+            "carbs": 50
+        }
+    },
+    {
+        "title": "Ariselu",
+        "ingredients": [
+            "1 cup rice flour",
+            "3/4 cup jaggery",
+            "1/2 cup water",
+            "1 tablespoon sesame seeds",
+            "Ghee for frying"
+        ],
+        "instructions": [
+            "Heat jaggery and water until the jaggery dissolves completely to form a syrup.",
+            "Add sesame seeds to the syrup and mix well.",
+            "Add rice flour gradually to the syrup to form a soft dough.",
+            "Divide the dough into small balls and flatten them into discs.",
+            "Heat ghee in a pan and fry the discs on medium heat until golden on both sides.",
+            "Drain excess ghee and let them cool before serving."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Ariselu.jpg",
+        "category": "sweets",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 6,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 300,
+            "protein": 3,
+            "fat": 15,
+            "carbs": 40
+        }
+    },
+    {
+        "title": "Kozhukattai (Modak)",
+        "ingredients": [
+            "1 cup rice flour",
+            "1 1/4 cups water",
+            "1 cup grated fresh coconut",
+            "3/4 cup jaggery",
+            "1/2 teaspoon cardamom powder",
+            "1 teaspoon ghee"
+        ],
+        "instructions": [
+            "Boil water with a pinch of salt and 1 teaspoon ghee.",
+            "Add rice flour gradually while stirring to avoid lumps and make a soft dough.",
+            "In another pan, cook grated coconut with jaggery and cardamom powder until the mixture thickens.",
+            "Divide the dough into small balls, flatten them, and fill with the coconut-jaggery mixture.",
+            "Seal the edges and shape into modak (dumpling) shape.",
+            "Steam the modaks for 10-15 minutes until cooked.",
+            "Serve warm with ghee."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Kozhukattai.jpg",
+        "category": "sweets",
+        "prepTime": 30,
+        "cookTime": 20,
+        "servings": 6,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 250,
+            "protein": 4,
+            "fat": 8,
+            "carbs": 45
+        }
+    },
+    {
+        "title": "Unniyappam",
+        "ingredients": [
+            "1 cup rice flour",
+            "1/2 cup jaggery",
+            "1/4 cup grated coconut",
+            "1/2 teaspoon cardamom powder",
+            "1/4 cup ripe mashed banana",
+            "1/4 cup water",
+            "Ghee or oil for frying"
+        ],
+        "instructions": [
+            "Dissolve jaggery in water to make syrup and strain.",
+            "Mix rice flour, grated coconut, mashed banana, cardamom powder, and jaggery syrup to form a batter.",
+            "Heat ghee or oil in a special unniyappam pan.",
+            "Pour spoonfuls of batter into each mold and fry until golden brown on all sides.",
+            "Remove and drain on paper towels.",
+            "Serve warm."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Unniyappam.jpg",
+        "category": "sweets",
+        "prepTime": 20,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 220,
+            "protein": 3,
+            "fat": 10,
+            "carbs": 30
+        }
+    },
+    {
+        "title": "Adhirasam",
+        "ingredients": [
+            "2 cups rice flour",
+            "1 cup jaggery",
+            "1/2 cup water",
+            "1/4 teaspoon cardamom powder",
+            "Oil or ghee for frying"
+        ],
+        "instructions": [
+            "Heat jaggery and water until jaggery dissolves completely to form a syrup.",
+            "Mix rice flour and cardamom powder into the syrup to form a dough.",
+            "Let the dough rest overnight.",
+            "Next day, make small balls and flatten them into discs.",
+            "Heat oil or ghee in a pan and deep fry the discs until golden brown on both sides.",
+            "Drain excess oil and cool before serving."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Hard",
+        "image": "Adhirasam.jpg",
+        "category": "sweets",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 6,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 350,
+            "protein": 4,
+            "fat": 18,
+            "carbs": 45
+        }
+    },
+    {
+        "title": "Badusha",
+        "ingredients": [
+            "1 cup all-purpose flour (maida)",
+            "1/4 cup semolina (rava)",
+            "1/2 cup yogurt",
+            "1/2 cup ghee or oil",
+            "1 cup sugar",
+            "1/2 cup water",
+            "1/2 teaspoon cardamom powder",
+            "Oil for deep frying"
+        ],
+        "instructions": [
+            "Mix flour, semolina, yogurt, and ghee to form a soft dough; let it rest for 15-20 minutes.",
+            "Divide dough into small balls and flatten slightly with a fork pattern on top.",
+            "Heat oil and deep fry on medium heat until golden and cooked through.",
+            "In another pan, prepare sugar syrup with sugar and water until one-string consistency.",
+            "Dip the fried badushas into warm sugar syrup briefly and remove.",
+            "Serve once they absorb the syrup and cool."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Badusha.jpg",
+        "category": "sweets",
+        "prepTime": 30,
+        "cookTime": 30,
+        "servings": 6,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 330,
+            "protein": 5,
+            "fat": 15,
+            "carbs": 40
+        }
+    }
+]
+//DESERTS
+[
+    {
+        "title": "Semiya Payasam (Vermicelli Kheer)",
+        "ingredients": [
+            "1 cup vermicelli (semiya)",
+            "4 cups milk",
+            "1.5 cups water",
+            "1/2 cup sugar",
+            "1/4 teaspoon cardamom powder",
+            "1 tablespoon ghee",
+            "10-12 cashew nuts",
+            "10-12 raisins"
+        ],
+        "instructions": [
+            "Heat ghee in a pan and roast the cashew nuts until golden brown. Remove and set aside.",
+            "In the same pan, roast the raisins until they puff up. Remove and set aside.",
+            "Add vermicelli to the pan and roast until golden brown.",
+            "Pour in water and cook the vermicelli until it softens.",
+            "Add milk and bring the mixture to a boil.",
+            "Reduce the heat and simmer for 5-7 minutes.",
+            "Add sugar and stir until it dissolves completely.",
+            "Sprinkle cardamom powder and mix well.",
+            "Garnish with roasted cashew nuts and raisins before serving."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Semiya-Payasam.jpg",
+        "category": "sweets",
+        "prepTime": 10,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 250,
+            "protein": 6,
+            "fat": 8,
+            "carbs": 38
+        }
+    },
+    {
+        "title": "Paruppu Payasam (Moong Dal Kheer)",
+        "ingredients": [
+            "1/2 cup moong dal",
+            "1/2 cup jaggery",
+            "1 cup water",
+            "1 cup milk",
+            "1/4 teaspoon cardamom powder",
+            "1 tablespoon ghee",
+            "10-12 cashew nuts",
+            "10-12 raisins"
+        ],
+        "instructions": [
+            "Dry roast moong dal in a pan until aromatic.",
+            "Wash the roasted dal and pressure cook with water until soft.",
+            "In a separate pan, melt jaggery with a little water to make syrup. Strain to remove impurities.",
+            "Add the jaggery syrup to the cooked dal and mix well.",
+            "Pour in milk and simmer the mixture for 5-7 minutes.",
+            "Add cardamom powder and stir.",
+            "Heat ghee in a pan, fry cashew nuts and raisins until golden, and add to the payasam.",
+            "Serve warm or chilled."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Paruppu-Payasam.jpg",
+        "category": "sweets",
+        "prepTime": 15,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 220,
+            "protein": 7,
+            "fat": 6,
+            "carbs": 35
+        }
+    },
+    {
+        "title": "Palada Pradhaman",
+        "ingredients": [
+            "1/2 cup rice ada",
+            "1 liter milk",
+            "1 cup sugar",
+            "1/4 teaspoon cardamom powder",
+            "1 tablespoon ghee",
+            "10-12 cashew nuts",
+            "10-12 raisins"
+        ],
+        "instructions": [
+            "Boil water and soak rice ada for 10 minutes. Drain and rinse with cold water.",
+            "Boil milk in a heavy-bottomed pan.",
+            "Add the soaked ada to the boiling milk and cook until soft.",
+            "Stir in sugar and continue to cook until it dissolves.",
+            "Add cardamom powder and mix well.",
+            "Heat ghee in a pan, fry cashew nuts and raisins until golden, and add to the pradhaman.",
+            "Serve warm or chilled."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Palada-Pradhaman.jpg",
+        "category": "sweets",
+        "prepTime": 15,
+        "cookTime": 30,
+        "servings": 4,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 300,
+            "protein": 8,
+            "fat": 10,
+            "carbs": 45
+        }
+    },
+    {
+        "title": "Chakkara Pongal (Sweet Pongal)",
+        "ingredients": [
+            "1/2 cup raw rice",
+            "2 tablespoons moong dal",
+            "3/4 cup jaggery",
+            "2 cups water",
+            "1/4 teaspoon cardamom powder",
+            "2 tablespoons ghee",
+            "10-12 cashew nuts",
+            "10-12 raisins"
+        ],
+        "instructions": [
+            "Dry roast moong dal until aromatic.",
+            "Wash rice and roasted dal together.",
+            "Cook rice and dal with water in a pressure cooker until soft.",
+            "In a separate pan, melt jaggery with a little water to make syrup. Strain to remove impurities.",
+            "Add the jaggery syrup to the cooked rice-dal mixture and mix well.",
+            "Add cardamom powder and stir.",
+            "Heat ghee in a pan, fry cashew nuts and raisins until golden, and add to the pongal.",
+            "Serve warm."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Chakkara-Pongal.jpg",
+        "category": "sweets",
+        "prepTime": 15,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 280,
+            "protein": 6,
+            "fat": 9,
+            "carbs": 42
+        }
+    },
+    {
+        "title": "Kadalai Maavu Halwa (Besan Halwa)",
+        "ingredients": [
+            "1 cup besan (gram flour)",
+            "1 cup sugar",
+            "1/2 cup ghee",
+            "1 cup milk",
+            "1/4 teaspoon cardamom powder",
+            "10-12 cashew nuts"
+        ],
+        "instructions": [
+            "Heat ghee in a pan and roast besan on low flame until aromatic and golden.",
+            "Gradually add milk, stirring continuously to avoid lumps.",
+            "Add sugar and continue to stir until the mixture thickens.",
+            "Add cardamom powder and mix well.",
+            "Garnish with roasted cashew nuts.",
+            "Serve warm."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Kadalai-Maavu-Halwa.jpg",
+        "category": "sweets",
+        "prepTime": 10,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 320,
+            "protein": 7,
+            "fat": 15,
+            "carbs": 40
+        }
+    },
+    {
+        "title": "Elaneer Payasam (Tender Coconut Kheer)",
+        "ingredients": [
+            "1 cup tender coconut pulp",
+            "1 cup tender coconut water",
+            "1 cup milk",
+            "2 tablespoons condensed milk",
+            "1 tablespoon sugar",
+            "1/4 teaspoon cardamom powder"
+        ],
+        "instructions": [
+            "Blend tender coconut pulp with coconut water to a smooth paste.",
+            "In a pan, mix milk, condensed milk, and sugar. Bring to a boil and simmer for 5 minutes.",
+            "Add the blended coconut mixture to the milk and mix well.",
+            "Add cardamom powder and stir.",
+            "Chill the payasam before serving."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Elaneer-Payasam.jpg",
+        "category": "sweets",
+        "prepTime": 10,
+        "cookTime": 10,
+        "servings": 4,
+        "dietType": "Low",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 180,
+            "protein": 4,
+            "fat": 6,
+            "carbs": 28
+        }
+    },
+    {
+        "title": "Banana Halwa",
+        "ingredients": [
+            "1 kg ripe bananas",
+            "1/2 kg jaggery",
+            "1/4 cup ghee",
+            "1/4 teaspoon cardamom powder",
+            "10-12 cashew nuts"
+        ],
+        "instructions": [
+            "Mash the ripe bananas to a smooth paste.",
+            "In a pan, melt jaggery with a little water to make syrup. Strain to remove impurities.",
+            "Add the banana paste to the jaggery syrup and cook on low flame.",
+            "Add ghee gradually while stirring continuously.",
+            "Cook until the mixture thickens and leaves the sides of the pan.",
+            "Add cardamom powder and mix well.",
+            "Garnish with roasted cashew nuts.",
+            "Allow to cool and set before cutting into pieces."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Banana-Halwa.jpg",
+        "category": "sweets",
+        "prepTime": 15,
+        "cookTime": 30,
+        "servings": 4,
+        "dietType": "High",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 350,
+            "protein": 3,
+            "fat": 12,
+            "carbs": 60
+        }
+    },
+    {
+        "title": "Paal Payasam (Milk Kheer)",
+        "ingredients": [
+            "1/2 cup raw rice",
+            "1 liter full-fat milk",
+            "3/4 cup sugar",
+            "1/4 teaspoon cardamom powder",
+            "1 tablespoon ghee",
+            "10-12 cashew nuts",
+            "10-12 raisins"
+        ],
+        "instructions": [
+            "Wash the raw rice thoroughly and soak it in water for 30 minutes.",
+            "Drain the rice and grind it coarsely or crush it lightly.",
+            "In a heavy-bottomed pan, bring the milk to a boil.",
+            "Add the crushed rice to the boiling milk and reduce the heat to low.",
+            "Simmer the mixture gently, stirring occasionally to prevent the rice from sticking to the bottom.",
+            "Cook until the rice is fully cooked and the milk thickens (about 30-40 minutes).",
+            "Add sugar and stir well until it dissolves completely.",
+            "Sprinkle cardamom powder and mix.",
+            "In a small pan, heat ghee and fry cashew nuts and raisins until golden brown.",
+            "Add the fried nuts and raisins to the payasam as garnish.",
+            "Serve warm or chilled."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "Paal-Payasam.jpg",
+        "category": "sweets",
+        "prepTime": 40,
+        "cookTime": 40,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 280,
+            "protein": 8,
+            "fat": 10,
+            "carbs": 38
+        }
+    },
+    {
+        "title": "Coconut Milk Pudding",
+        "ingredients": [
+            "2 cups coconut milk",
+            "1/4 cup sugar",
+            "2 tablespoons cornstarch",
+            "1/2 teaspoon vanilla extract",
+            "1/4 teaspoon salt",
+            "1/4 cup shredded coconut (optional, for garnish)",
+            "1 tablespoon toasted coconut flakes (optional)"
+        ],
+        "instructions": [
+            "In a small bowl, mix cornstarch with 1/4 cup of coconut milk to make a smooth slurry.",
+            "In a saucepan, combine the remaining coconut milk, sugar, and salt.",
+            "Heat the mixture over medium heat until it starts to simmer.",
+            "Slowly add the cornstarch slurry to the simmering coconut milk, stirring continuously to avoid lumps.",
+            "Continue stirring and cook until the mixture thickens to a pudding-like consistency (about 5-7 minutes).",
+            "Remove the pan from heat and stir in the vanilla extract.",
+            "Pour the pudding into serving bowls or molds.",
+            "Let it cool to room temperature, then refrigerate for at least 2 hours to set.",
+            "Before serving, garnish with shredded coconut and toasted coconut flakes if desired."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "Coconut-Milk-Pudding.jpg",
+        "category": "sweets",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Low",
+        "mealType": "dessert",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 180,
+            "protein": 2,
+            "fat": 12,
+            "carbs": 15
+        }
+    }
+]
+// SNACKS
+[
+    {
+        "title": "Medu Vada",
+        "ingredients": [
+            "1 cup urad dal (black gram split)",
+            "1 green chili",
+            "1 inch ginger",
+            "Salt to taste",
+            "Curry leaves",
+            "Oil for deep frying"
+        ],
+        "instructions": [
+            "Soak urad dal in water for 4-5 hours and grind to a smooth batter.",
+            "Add chopped green chili, ginger, curry leaves, and salt to the batter.",
+            "Heat oil in a deep frying pan.",
+            "Wet your hands, shape batter into doughnut-shaped vadas, and fry until golden brown.",
+            "Drain on paper towels and serve hot with chutney and sambar."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "snacks",
+        "difficulty": "Medium",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "snack",
+        "image": "https://example.com/images/medu_vada.jpg",
+        "nutrition": {
+            "calories": 180,
+            "protein": 6,
+            "fat": 8,
+            "carbs": 20
+        }
+    },
+    {
+        "title": "Murukku",
+        "ingredients": [
+            "2 cups rice flour",
+            "1 cup urad dal flour",
+            "1 teaspoon sesame seeds",
+            "1/2 teaspoon asafoetida",
+            "1 tablespoon butter",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for deep frying"
+        ],
+        "instructions": [
+            "Mix rice flour, urad dal flour, sesame seeds, asafoetida, salt, and melted butter.",
+            "Add water gradually and knead into a soft dough.",
+            "Fill murukku press with dough and press spirals into hot oil.",
+            "Fry until golden and crisp.",
+            "Drain and cool before serving."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "snacks",
+        "difficulty": "Medium",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 6,
+        "dietType": "Balanced",
+        "mealType": "snack",
+        "image": "https://example.com/images/murukku.jpg",
+        "nutrition": {
+            "calories": 200,
+            "protein": 4,
+            "fat": 10,
+            "carbs": 25
+        }
+    },
+    {
+        "title": "Banana Chips",
+        "ingredients": [
+            "3 raw bananas (plantain)",
+            "Salt to taste",
+            "Turmeric powder (optional)",
+            "Oil for deep frying"
+        ],
+        "instructions": [
+            "Peel and thinly slice raw bananas.",
+            "Soak slices in salted water with turmeric for 10 minutes.",
+            "Dry slices completely using a kitchen towel.",
+            "Heat oil and deep fry slices until crisp and golden.",
+            "Drain excess oil and cool before serving."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "snacks",
+        "difficulty": "Easy",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "snack",
+        "image": "https://example.com/images/banana_chips.jpg",
+        "nutrition": {
+            "calories": 150,
+            "protein": 1,
+            "fat": 12,
+            "carbs": 15
+        }
+    },
+    {
+        "title": "Sundal",
+        "ingredients": [
+            "1 cup boiled chickpeas",
+            "1 tablespoon oil",
+            "1 teaspoon mustard seeds",
+            "1 teaspoon urad dal",
+            "1-2 dried red chilies",
+            "Curry leaves",
+            "Grated coconut",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Heat oil and add mustard seeds, urad dal, red chilies, and curry leaves.",
+            "Add boiled chickpeas and salt, sauté for 5 minutes.",
+            "Mix in grated coconut and cook for 2 more minutes.",
+            "Serve warm or at room temperature."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "snacks",
+        "difficulty": "Easy",
+        "prepTime": 5,
+        "cookTime": 10,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "snack",
+        "image": "https://example.com/images/sundal.jpg",
+        "nutrition": {
+            "calories": 160,
+            "protein": 8,
+            "fat": 6,
+            "carbs": 18
+        }
+    },
+    {
+        "title": "Bonda",
+        "ingredients": [
+            "1 cup urad dal",
+            "1 boiled potato, mashed",
+            "1 green chili, chopped",
+            "1/2 teaspoon ginger paste",
+            "Curry leaves",
+            "Salt to taste",
+            "Oil for deep frying"
+        ],
+        "instructions": [
+            "Soak urad dal for 4 hours and grind to a thick batter.",
+            "Mix mashed potato, green chili, ginger, curry leaves, and salt in a bowl.",
+            "Shape potato mixture into balls.",
+            "Dip balls in urad dal batter and deep fry until golden brown.",
+            "Drain and serve hot."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "snacks",
+        "difficulty": "Medium",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "snack",
+        "image": "https://example.com/images/bonda.jpg",
+        "nutrition": {
+            "calories": 220,
+            "protein": 7,
+            "fat": 10,
+            "carbs": 25
+        }
+    },
+    {
+        "title": "Pakoda",
+        "ingredients": [
+            "1 cup chickpea flour (besan)",
+            "1 onion, sliced",
+            "1 green chili, chopped",
+            "1/2 teaspoon cumin seeds",
+            "1/2 teaspoon turmeric powder",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for deep frying"
+        ],
+        "instructions": [
+            "Mix chickpea flour, turmeric, cumin seeds, salt, and chili with water to make a thick batter.",
+            "Add sliced onions and mix well.",
+            "Drop spoonfuls of batter into hot oil and fry until crisp and golden.",
+            "Drain and serve hot with chutney."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "snacks",
+        "difficulty": "Easy",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "snack",
+        "image": "https://example.com/images/pakoda.jpg",
+        "nutrition": {
+            "calories": 180,
+            "protein": 6,
+            "fat": 8,
+            "carbs": 22
+        }
+    },
+    {
+        "title": "Masala Vada",
+        "ingredients": [
+            "1 cup chana dal",
+            "1 onion, finely chopped",
+            "2 green chilies, chopped",
+            "1/2 inch ginger, chopped",
+            "Curry leaves",
+            "Salt to taste",
+            "Oil for deep frying"
+        ],
+        "instructions": [
+            "Soak chana dal for 2 hours and coarsely grind without water.",
+            "Mix in onion, chilies, ginger, curry leaves, and salt.",
+            "Shape mixture into flat patties and deep fry until golden brown.",
+            "Drain and serve hot with chutney."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "snacks",
+        "difficulty": "Medium",
+        "prepTime": 15,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "snack",
+        "image": "https://example.com/images/masala_vada.jpg",
+        "nutrition": {
+            "calories": 210,
+            "protein": 8,
+            "fat": 10,
+            "carbs": 18
+        }
+    },
+    {
+        "title": "Ribbon Pakoda",
+        "ingredients": [
+            "1 cup rice flour",
+            "1/2 cup chickpea flour (besan)",
+            "1/4 teaspoon turmeric powder",
+            "1/2 teaspoon red chili powder",
+            "1 teaspoon sesame seeds",
+            "Salt to taste",
+            "2 tablespoons butter",
+            "Water as needed",
+            "Oil for deep frying"
+        ],
+        "instructions": [
+            "Mix rice flour, chickpea flour, turmeric, chili powder, sesame seeds, salt, and melted butter.",
+            "Add water gradually to form a stiff dough.",
+            "Fill dough into a ribbon pakoda mold and press into hot oil.",
+            "Fry until crisp and golden brown.",
+            "Drain and cool before serving."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "snacks",
+        "difficulty": "Medium",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 6,
+        "dietType": "Balanced",
+        "mealType": "snack",
+        "image": "https://example.com/images/ribbon_pakoda.jpg",
+        "nutrition": {
+            "calories": 200,
+            "protein": 5,
+            "fat": 12,
+            "carbs": 22
+        }
+    }
+]
+// bread
+[
+    {
+        "title": "Parotta",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 teaspoon sugar",
+            "1/2 teaspoon salt",
+            "2 tablespoons oil",
+            "Water as needed",
+            "Oil or ghee for cooking"
+        ],
+        "instructions": [
+            "Mix flour, sugar, salt, and oil in a bowl.",
+            "Gradually add water and knead into a soft dough.",
+            "Cover and rest the dough for 1 hour.",
+            "Divide dough into balls and roll each into a thin circle.",
+            "Spread oil on the circle, fold into layers, then roll again.",
+            "Cook on a hot griddle until golden and cooked through.",
+            "Serve hot with curry."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "main course",
+        "difficulty": "Medium",
+        "prepTime": 20,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "lunch",
+        "image": "https://example.com/images/parotta.jpg",
+        "nutrition": {
+            "calories": 250,
+            "protein": 6,
+            "fat": 8,
+            "carbs": 35
+        }
+    },
+    {
+        "title": "Appam",
+        "ingredients": [
+            "1 cup raw rice",
+            "1/4 cup cooked rice",
+            "1/2 cup coconut milk",
+            "1 teaspoon sugar",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon dry yeast",
+            "Water as needed"
+        ],
+        "instructions": [
+            "Soak raw rice for 4-5 hours and grind with cooked rice to a smooth batter.",
+            "Add yeast, sugar, salt, and coconut milk to the batter.",
+            "Allow batter to ferment overnight or for 8 hours.",
+            "Heat an appam pan or non-stick skillet.",
+            "Pour a ladle of batter, swirl to make thin edges and thick center.",
+            "Cover and cook until edges are crisp and center is cooked.",
+            "Serve hot with stew or curry."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "main course",
+        "difficulty": "Medium",
+        "prepTime": 15,
+        "cookTime": 10,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "breakfast",
+        "image": "https://example.com/images/appam.jpg",
+        "nutrition": {
+            "calories": 180,
+            "protein": 4,
+            "fat": 6,
+            "carbs": 30
+        }
+    },
+    {
+        "title": "Neer Dosa",
+        "ingredients": [
+            "1 cup rice",
+            "2 cups water",
+            "Salt to taste",
+            "Oil for greasing"
+        ],
+        "instructions": [
+            "Soak rice for 4 hours and grind with water to a thin batter (like milk consistency).",
+            "Add salt and mix well.",
+            "Heat a non-stick pan and grease lightly with oil.",
+            "Pour a ladle of batter and swirl to spread thinly.",
+            "Cook only on one side until edges lift.",
+            "Remove and serve hot with chutney or curry."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "main course",
+        "difficulty": "Easy",
+        "prepTime": 10,
+        "cookTime": 5,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "breakfast",
+        "image": "https://example.com/images/neer_dosa.jpg",
+        "nutrition": {
+            "calories": 140,
+            "protein": 3,
+            "fat": 2,
+            "carbs": 28
+        }
+    },
+    {
+        "title": "Chapati (South Indian Style)",
+        "ingredients": [
+            "2 cups whole wheat flour",
+            "1/2 teaspoon salt",
+            "Water as needed",
+            "Oil or ghee for cooking"
+        ],
+        "instructions": [
+            "Mix flour and salt in a bowl.",
+            "Gradually add water and knead to a smooth, soft dough.",
+            "Divide dough into small balls.",
+            "Roll each ball into a thin circle.",
+            "Cook on a hot griddle until brown spots appear on both sides.",
+            "Apply oil or ghee if desired.",
+            "Serve hot with curry."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "main course",
+        "difficulty": "Easy",
+        "prepTime": 10,
+        "cookTime": 10,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "lunch",
+        "image": "https://example.com/images/chapati.jpg",
+        "nutrition": {
+            "calories": 150,
+            "protein": 5,
+            "fat": 3,
+            "carbs": 27
+        }
+    },
+    {
+        "title": "Ragi Roti",
+        "ingredients": [
+            "1 cup ragi flour (finger millet flour)",
+            "1 onion, finely chopped",
+            "1 green chili, chopped",
+            "1/2 cup grated carrot",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for cooking"
+        ],
+        "instructions": [
+            "Mix ragi flour, chopped onion, green chili, carrot, and salt in a bowl.",
+            "Add water little by little to form a thick batter.",
+            "Heat a griddle and pour a ladle of batter.",
+            "Spread gently to form a thin roti.",
+            "Cook on both sides, applying oil, until cooked through and brown spots appear.",
+            "Serve hot with chutney or curry."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "main course",
+        "difficulty": "Easy",
+        "prepTime": 10,
+        "cookTime": 10,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "breakfast",
+        "image": "https://example.com/images/ragi_roti.jpg",
+        "nutrition": {
+            "calories": 160,
+            "protein": 6,
+            "fat": 4,
+            "carbs": 30
+        }
+    },
+    {
+        "title": "Akki Roti",
+        "ingredients": [
+            "2 cups rice flour",
+            "1 onion, chopped",
+            "2 green chilies, chopped",
+            "1/2 cup grated carrot",
+            "Coriander leaves",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for cooking"
+        ],
+        "instructions": [
+            "Mix rice flour, onion, chilies, carrot, coriander, and salt in a bowl.",
+            "Add water gradually to form a soft dough.",
+            "Divide into balls and flatten each on a greased plastic sheet.",
+            "Cook on a hot griddle on both sides until golden brown.",
+            "Serve hot with chutney or sambar."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "main course",
+        "difficulty": "Medium",
+        "prepTime": 15,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "breakfast",
+        "image": "https://example.com/images/akki_roti.jpg",
+        "nutrition": {
+            "calories": 180,
+            "protein": 5,
+            "fat": 3,
+            "carbs": 35
+        }
+    },
+    {
+        "title": "Pesarattu",
+        "ingredients": [
+            "1 cup green gram (moong dal)",
+            "1 green chili",
+            "1 inch ginger",
+            "Salt to taste",
+            "Oil for cooking",
+            "Onion (optional)"
+        ],
+        "instructions": [
+            "Soak green gram overnight and grind with chili, ginger, and salt to a smooth batter.",
+            "Heat a non-stick pan and pour a ladle of batter, spreading thin.",
+            "Add chopped onion on top if desired.",
+            "Cook on both sides until crisp and golden.",
+            "Serve hot with chutney or upma."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "main course",
+        "difficulty": "Medium",
+        "prepTime": 10,
+        "cookTime": 10,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "breakfast",
+        "image": "https://example.com/images/pesarattu.jpg",
+        "nutrition": {
+            "calories": 160,
+            "protein": 8,
+            "fat": 3,
+            "carbs": 25
+        }
+    },
+    {
+        "title": "Kal Dosa",
+        "ingredients": [
+            "1 cup rice",
+            "1/4 cup urad dal",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for cooking"
+        ],
+        "instructions": [
+            "Soak rice and urad dal separately for 4 hours.",
+            "Grind to a smooth batter and mix together with salt.",
+            "Ferment batter overnight.",
+            "Heat a non-stick pan and pour batter to form a thick dosa.",
+            "Cook on low heat covered until done.",
+            "Serve hot with chutney or sambar."
+        ],
+        "cuisine": "Indian",
+        "mainCourseRegion": "South Indian",
+        "category": "main course",
+        "difficulty": "Medium",
+        "prepTime": 15,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "breakfast",
+        "image": "https://example.com/images/kal_dosa.jpg",
+        "nutrition": {
+            "calories": 150,
+            "protein": 5,
+            "fat": 2,
+            "carbs": 28
+        }
+    }
+]
+// Drinks
+[
+    {
+        "title": "Filter Coffee",
+        "ingredients": [
+            "Coarse coffee powder",
+            "Water",
+            "Milk",
+            "Sugar"
+        ],
+        "instructions": [
+            "Boil water and pour it over the coffee powder in a filter.",
+            "Allow the coffee decoction to drip slowly into a container.",
+            "Heat milk and sugar in a separate pan until hot.",
+            "Mix the coffee decoction with the hot milk and sugar as per taste.",
+            "Serve hot with frothy top."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 10,
+        "cookTime": 10,
+        "servings": 2,
+        "dietType": "Low",
+        "mealType": "beverage",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 70,
+            "protein": 2,
+            "fat": 2,
+            "carbs": 10
+        }
+    },
+    {
+        "title": "Buttermilk (Neer Mor)",
+        "ingredients": [
+            "Curd (yogurt)",
+            "Water",
+            "Green chilies",
+            "Ginger",
+            "Curry leaves",
+            "Mustard seeds",
+            "Salt",
+            "Coriander leaves"
+        ],
+        "instructions": [
+            "Whisk curd with water until smooth.",
+            "Crush green chilies and ginger and add to the buttermilk.",
+            "Heat oil in a pan, add mustard seeds and curry leaves for tempering.",
+            "Pour the tempering into the buttermilk.",
+            "Add salt and chopped coriander leaves and mix well.",
+            "Serve chilled."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 5,
+        "cookTime": 5,
+        "servings": 4,
+        "dietType": "Low",
+        "mealType": "beverage",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 40,
+            "protein": 3,
+            "fat": 1,
+            "carbs": 5
+        }
+    },
+    {
+        "title": "Panakam",
+        "ingredients": [
+            "Jaggery",
+            "Water",
+            "Lemon juice",
+            "Black pepper powder",
+            "Cardamom powder",
+            "Dry ginger powder",
+            "Mint leaves"
+        ],
+        "instructions": [
+            "Dissolve jaggery in water completely.",
+            "Add lemon juice, black pepper powder, cardamom powder, and dry ginger powder.",
+            "Mix well and garnish with fresh mint leaves.",
+            "Serve chilled."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 5,
+        "cookTime": 0,
+        "servings": 4,
+        "dietType": "Low",
+        "mealType": "beverage",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 60,
+            "protein": 0,
+            "fat": 0,
+            "carbs": 15
+        }
+    },
+    {
+        "title": "Solkadhi",
+        "ingredients": [
+            "Kokum petals",
+            "Coconut milk",
+            "Green chilies",
+            "Garlic",
+            "Coriander leaves",
+            "Salt"
+        ],
+        "instructions": [
+            "Soak kokum petals in water and extract the juice.",
+            "Mix the kokum juice with coconut milk.",
+            "Grind green chilies and garlic to a paste and add to the mixture.",
+            "Add salt and chopped coriander leaves and mix well.",
+            "Serve chilled."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 10,
+        "cookTime": 0,
+        "servings": 4,
+        "dietType": "Low",
+        "mealType": "beverage",
+        "mainCourseRegion": "West-Indian",
+        "nutrition": {
+            "calories": 80,
+            "protein": 1,
+            "fat": 6,
+            "carbs": 5
+        }
+    },
+    {
+        "title": "Jeera Water",
+        "ingredients": [
+            "Cumin seeds",
+            "Water",
+            "Lemon juice",
+            "Salt"
+        ],
+        "instructions": [
+            "Roast cumin seeds lightly and crush them.",
+            "Boil water and add crushed cumin seeds to it.",
+            "Let it cool, then add lemon juice and salt to taste.",
+            "Serve chilled or at room temperature."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 5,
+        "cookTime": 10,
+        "servings": 2,
+        "dietType": "Low",
+        "mealType": "beverage",
+        "mainCourseRegion": "North-Indian",
+        "nutrition": {
+            "calories": 10,
+            "protein": 0,
+            "fat": 0,
+            "carbs": 1
+        }
+    },
+    {
+        "title": "Sukku Coffee (Dry Ginger Drink)",
+        "ingredients": [
+            "Dry ginger powder",
+            "Water",
+            "Jaggery",
+            "Milk"
+        ],
+        "instructions": [
+            "Boil water and add dry ginger powder.",
+            "Add jaggery and stir until dissolved.",
+            "Add hot milk and mix well.",
+            "Serve hot."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 5,
+        "cookTime": 10,
+        "servings": 2,
+        "dietType": "Low",
+        "mealType": "beverage",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 90,
+            "protein": 2,
+            "fat": 3,
+            "carbs": 15
+        }
+    },
+    {
+        "title": "Rasam Shot",
+        "ingredients": [
+            "Tamarind pulp",
+            "Tomato",
+            "Garlic",
+            "Mustard seeds",
+            "Curry leaves",
+            "Asafoetida",
+            "Red chili",
+            "Water",
+            "Salt",
+            "Coriander leaves"
+        ],
+        "instructions": [
+            "Soak tamarind in water and extract the juice.",
+            "Cook tomato, garlic, and red chili in the tamarind water.",
+            "Add mustard seeds, curry leaves, and asafoetida tempering.",
+            "Add salt and coriander leaves.",
+            "Strain and serve as a shot."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 15,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Low",
+        "mealType": "beverage",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 30,
+            "protein": 1,
+            "fat": 0,
+            "carbs": 7
+        }
+    },
+    {
+        "title": "Herbal Kashayam",
+        "ingredients": [
+            "Dry herbs (such as tulsi, cinnamon, ginger, black pepper)",
+            "Water",
+            "Jaggery (optional)"
+        ],
+        "instructions": [
+            "Boil water and add dry herbs.",
+            "Simmer for 15-20 minutes to extract flavors.",
+            "Strain the decoction.",
+            "Add jaggery if desired for sweetness.",
+            "Serve warm."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 5,
+        "cookTime": 20,
+        "servings": 2,
+        "dietType": "Low",
+        "mealType": "beverage",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 5,
+            "protein": 0,
+            "fat": 0,
+            "carbs": 1
+        }
+    }
+]
+// salads
+[
+    {
+        "title": "Kosambari",
+        "ingredients": [
+            "Split yellow moong dal",
+            "Grated carrot",
+            "Chopped cucumber",
+            "Chopped coriander leaves",
+            "Green chili",
+            "Lemon juice",
+            "Salt",
+            "Mustard seeds",
+            "Curry leaves",
+            "Oil"
+        ],
+        "instructions": [
+            "Soak split yellow moong dal in water for 30 minutes and drain.",
+            "Mix grated carrot, chopped cucumber, and coriander leaves in a bowl.",
+            "Add soaked moong dal to the vegetables.",
+            "Season with salt and lemon juice.",
+            "Heat oil in a pan, add mustard seeds and curry leaves for tempering.",
+            "Pour the tempering over the salad and mix well.",
+            "Serve fresh."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "salad",
+        "prepTime": 15,
+        "cookTime": 5,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 80,
+            "protein": 4,
+            "fat": 3,
+            "carbs": 10
+        }
+    },
+    {
+        "title": "Beetroot Thayir Pachadi",
+        "ingredients": [
+            "Grated beetroot",
+            "Curd (yogurt)",
+            "Green chili",
+            "Mustard seeds",
+            "Curry leaves",
+            "Salt",
+            "Oil"
+        ],
+        "instructions": [
+            "Cook grated beetroot until soft and let it cool.",
+            "Mix cooked beetroot with curd, salt, and finely chopped green chili.",
+            "Heat oil, add mustard seeds and curry leaves for tempering.",
+            "Pour tempering over the beetroot mixture and mix well.",
+            "Serve chilled or at room temperature."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "pachadi",
+        "prepTime": 15,
+        "cookTime": 10,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 70,
+            "protein": 3,
+            "fat": 3,
+            "carbs": 8
+        }
+    },
+    {
+        "title": "Cucumber Pachadi",
+        "ingredients": [
+            "Grated cucumber",
+            "Curd (yogurt)",
+            "Green chili",
+            "Mustard seeds",
+            "Curry leaves",
+            "Salt",
+            "Oil"
+        ],
+        "instructions": [
+            "Squeeze excess water from grated cucumber.",
+            "Mix grated cucumber with curd and salt.",
+            "Add finely chopped green chili.",
+            "Heat oil, add mustard seeds and curry leaves for tempering.",
+            "Pour tempering over the cucumber mixture and mix well.",
+            "Serve chilled."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "pachadi",
+        "prepTime": 10,
+        "cookTime": 5,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 50,
+            "protein": 3,
+            "fat": 2,
+            "carbs": 5
+        }
+    },
+    {
+        "title": "Carrot Kosambari",
+        "ingredients": [
+            "Grated carrot",
+            "Split yellow moong dal",
+            "Grated coconut",
+            "Green chili",
+            "Coriander leaves",
+            "Lemon juice",
+            "Salt",
+            "Mustard seeds",
+            "Curry leaves",
+            "Oil"
+        ],
+        "instructions": [
+            "Soak split yellow moong dal for 30 minutes and drain.",
+            "Mix grated carrot, grated coconut, and coriander leaves.",
+            "Add soaked moong dal to the mixture.",
+            "Season with salt and lemon juice.",
+            "Heat oil, add mustard seeds and curry leaves for tempering.",
+            "Pour tempering over the salad and mix well.",
+            "Serve fresh."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "salad",
+        "prepTime": 15,
+        "cookTime": 5,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 90,
+            "protein": 4,
+            "fat": 4,
+            "carbs": 12
+        }
+    },
+    {
+        "title": "Green Gram Sundal",
+        "ingredients": [
+            "Green gram (moong dal)",
+            "Grated coconut",
+            "Green chili",
+            "Mustard seeds",
+            "Curry leaves",
+            "Asafoetida",
+            "Salt",
+            "Oil"
+        ],
+        "instructions": [
+            "Cook green gram until soft but not mushy and drain.",
+            "Heat oil, add mustard seeds, curry leaves, green chili, and a pinch of asafoetida for tempering.",
+            "Add cooked green gram and salt to the tempering.",
+            "Mix well and cook for 2-3 minutes.",
+            "Add grated coconut and mix.",
+            "Serve warm or at room temperature."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "snack",
+        "prepTime": 20,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 120,
+            "protein": 7,
+            "fat": 5,
+            "carbs": 15
+        }
+    },
+    {
+        "title": "Cabbage Poriyal (Salad)",
+        "ingredients": [
+            "Shredded cabbage",
+            "Grated coconut",
+            "Green chili",
+            "Mustard seeds",
+            "Urad dal",
+            "Curry leaves",
+            "Salt",
+            "Oil"
+        ],
+        "instructions": [
+            "Heat oil in a pan and add mustard seeds and urad dal.",
+            "When mustard seeds splutter, add curry leaves and green chili.",
+            "Add shredded cabbage and salt.",
+            "Cook on medium heat until cabbage is tender but still crisp.",
+            "Add grated coconut and mix well.",
+            "Serve warm or at room temperature."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "side",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 60,
+            "protein": 2,
+            "fat": 4,
+            "carbs": 8
+        }
+    },
+    {
+        "title": "Radish Pachadi",
+        "ingredients": [
+            "Grated radish",
+            "Curd (yogurt)",
+            "Green chili",
+            "Mustard seeds",
+            "Curry leaves",
+            "Salt",
+            "Oil"
+        ],
+        "instructions": [
+            "Cook grated radish until soft and cool.",
+            "Mix cooked radish with curd and salt.",
+            "Add finely chopped green chili.",
+            "Heat oil, add mustard seeds and curry leaves for tempering.",
+            "Pour tempering over the mixture and mix well.",
+            "Serve chilled or at room temperature."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "pachadi",
+        "prepTime": 15,
+        "cookTime": 10,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 55,
+            "protein": 3,
+            "fat": 3,
+            "carbs": 6
+        }
+    },
+    {
+        "title": "Tomato Rasam Salad",
+        "ingredients": [
+            "Chopped tomatoes",
+            "Tamarind extract",
+            "Mustard seeds",
+            "Curry leaves",
+            "Dry red chili",
+            "Asafoetida",
+            "Salt",
+            "Coriander leaves",
+            "Oil"
+        ],
+        "instructions": [
+            "Heat oil and add mustard seeds, curry leaves, dry red chili, and asafoetida.",
+            "Add chopped tomatoes and salt, cook until soft.",
+            "Add tamarind extract and bring to a boil.",
+            "Simmer for 5 minutes and remove from heat.",
+            "Cool the mixture and garnish with coriander leaves.",
+            "Serve as a salad or side."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "salad",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 40,
+            "protein": 1,
+            "fat": 2,
+            "carbs": 6
+        }
+    }
+]
+// Starters
+[
+    {
+        "title": "Chicken 65",
+        "ingredients": [
+            "500g boneless chicken, cut into bite-sized pieces",
+            "2 tbsp yogurt",
+            "1 tbsp ginger-garlic paste",
+            "2 tsp red chili powder",
+            "1 tsp turmeric powder",
+            "1 tsp garam masala",
+            "2 tbsp cornflour",
+            "Salt to taste",
+            "Oil for frying",
+            "Curry leaves",
+            "Green chilies, slit"
+        ],
+        "instructions": [
+            "In a bowl, mix yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, cornflour, and salt.",
+            "Add chicken pieces to the marinade and coat well. Let it marinate for at least 1 hour.",
+            "Heat oil in a deep frying pan.",
+            "Fry the marinated chicken pieces in batches until crispy and cooked through. Drain on paper towels.",
+            "In a small pan, heat a little oil and fry curry leaves and slit green chilies.",
+            "Add fried chicken pieces to this tempering and toss well.",
+            "Serve hot as a snack or starter."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "starter",
+        "prepTime": 15,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "High",
+        "mealType": "starter",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 350,
+            "protein": 30,
+            "fat": 22,
+            "carbs": 8
+        }
+    },
+    {
+        "title": "Paneer Pepper Fry",
+        "ingredients": [
+            "250g paneer, cut into cubes",
+            "1 tbsp black pepper powder",
+            "1 tsp chili powder",
+            "1 tsp cumin powder",
+            "1 tbsp lemon juice",
+            "Salt to taste",
+            "2 tbsp oil",
+            "1 onion, sliced",
+            "2 green chilies, sliced",
+            "Curry leaves"
+        ],
+        "instructions": [
+            "Heat oil in a pan and sauté sliced onions until golden.",
+            "Add green chilies and curry leaves, sauté for 1 minute.",
+            "Add paneer cubes and stir-fry on medium heat.",
+            "Sprinkle black pepper powder, chili powder, cumin powder, salt, and lemon juice.",
+            "Mix well and cook until paneer is slightly browned and coated with spices.",
+            "Serve hot as an appetizer or side dish."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "side",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 3,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 250,
+            "protein": 18,
+            "fat": 18,
+            "carbs": 6
+        }
+    },
+    {
+        "title": "Mushroom Varuval",
+        "ingredients": [
+            "300g mushrooms, cleaned and sliced",
+            "2 tbsp oil",
+            "1 tsp mustard seeds",
+            "1 onion, finely chopped",
+            "2 green chilies, slit",
+            "1 tbsp ginger-garlic paste",
+            "1 tsp red chili powder",
+            "1/2 tsp turmeric powder",
+            "1 tsp coriander powder",
+            "Salt to taste",
+            "Curry leaves"
+        ],
+        "instructions": [
+            "Heat oil in a pan and add mustard seeds.",
+            "When they splutter, add curry leaves, onions, and green chilies.",
+            "Sauté until onions are translucent.",
+            "Add ginger-garlic paste and sauté until raw smell disappears.",
+            "Add red chili powder, turmeric powder, coriander powder, and salt.",
+            "Add mushrooms and stir well to coat with spices.",
+            "Cook on medium heat until mushrooms are cooked and slightly dry.",
+            "Serve hot as a side dish."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "side",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 3,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 150,
+            "protein": 5,
+            "fat": 8,
+            "carbs": 10
+        }
+    },
+    {
+        "title": "Fish Fry",
+        "ingredients": [
+            "500g fish fillets (kingfish or pomfret)",
+            "1 tbsp ginger-garlic paste",
+            "1 tsp turmeric powder",
+            "2 tsp red chili powder",
+            "1 tsp coriander powder",
+            "1 tbsp lemon juice",
+            "Salt to taste",
+            "Oil for frying",
+            "Curry leaves"
+        ],
+        "instructions": [
+            "Clean and pat dry the fish fillets.",
+            "Mix ginger-garlic paste, turmeric powder, red chili powder, coriander powder, lemon juice, and salt in a bowl.",
+            "Marinate the fish fillets with this mixture for at least 30 minutes.",
+            "Heat oil in a frying pan.",
+            "Fry the fish fillets on medium heat until golden brown and cooked through.",
+            "Add curry leaves in the last minute for aroma.",
+            "Serve hot with lemon wedges."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "main",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "High",
+        "mealType": "main",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 300,
+            "protein": 35,
+            "fat": 18,
+            "carbs": 5
+        }
+    },
+    {
+        "title": "Mutton Chukka",
+        "ingredients": [
+            "500g mutton, cut into small pieces",
+            "2 tbsp oil",
+            "2 onions, thinly sliced",
+            "2 tsp ginger-garlic paste",
+            "2 tsp red chili powder",
+            "1 tsp coriander powder",
+            "1/2 tsp turmeric powder",
+            "1 tsp garam masala",
+            "Salt to taste",
+            "Curry leaves"
+        ],
+        "instructions": [
+            "Heat oil in a heavy pan and sauté onions until golden brown.",
+            "Add ginger-garlic paste and sauté until raw smell disappears.",
+            "Add mutton pieces and cook until browned.",
+            "Add red chili powder, coriander powder, turmeric powder, salt, and garam masala.",
+            "Cook covered on low heat, stirring occasionally until mutton is tender and dry.",
+            "Add curry leaves in the last 5 minutes.",
+            "Serve hot with rice or chapati."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Hard",
+        "image": "",
+        "category": "main",
+        "prepTime": 15,
+        "cookTime": 90,
+        "servings": 4,
+        "dietType": "High",
+        "mealType": "main",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 450,
+            "protein": 40,
+            "fat": 30,
+            "carbs": 6
+        }
+    },
+    {
+        "title": "Veg Cutlet",
+        "ingredients": [
+            "2 cups boiled and mashed mixed vegetables (carrot, beans, peas, potato)",
+            "1 onion, finely chopped",
+            "2 green chilies, finely chopped",
+            "1 tsp ginger-garlic paste",
+            "1 tsp garam masala",
+            "1/2 cup bread crumbs",
+            "Salt to taste",
+            "Oil for frying",
+            "Coriander leaves, chopped"
+        ],
+        "instructions": [
+            "Mix boiled mashed vegetables with onions, green chilies, ginger-garlic paste, garam masala, salt, and coriander leaves.",
+            "Shape the mixture into small cutlets.",
+            "Coat the cutlets with bread crumbs.",
+            "Heat oil in a pan and shallow fry the cutlets until golden brown on both sides.",
+            "Drain on paper towels and serve hot with chutney."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "snack",
+        "prepTime": 20,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "snack",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 200,
+            "protein": 6,
+            "fat": 10,
+            "carbs": 22
+        }
+    },
+    {
+        "title": "Egg Pepper Fry",
+        "ingredients": [
+            "4 boiled eggs, peeled and halved",
+            "2 tbsp oil",
+            "1 tsp black pepper powder",
+            "1 tsp chili powder",
+            "1 onion, sliced",
+            "2 green chilies, sliced",
+            "Salt to taste",
+            "Curry leaves"
+        ],
+        "instructions": [
+            "Heat oil in a pan and sauté onions until golden brown.",
+            "Add green chilies and curry leaves, sauté for 1 minute.",
+            "Add boiled eggs and fry lightly on all sides.",
+            "Sprinkle black pepper powder, chili powder, and salt.",
+            "Toss gently to coat eggs with spices.",
+            "Cook for 2-3 minutes and serve hot."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "side",
+        "prepTime": 10,
+        "cookTime": 10,
+        "servings": 2,
+        "dietType": "Balanced",
+        "mealType": "side",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 180,
+            "protein": 12,
+            "fat": 14,
+            "carbs": 1
+        }
+    },
+    {
+        "title": "Gobi 65",
+        "ingredients": [
+            "1 medium cauliflower, cut into florets",
+            "2 tbsp yogurt",
+            "1 tbsp ginger-garlic paste",
+            "2 tsp red chili powder",
+            "1/2 tsp turmeric powder",
+            "1 tsp garam masala",
+            "2 tbsp cornflour",
+            "Salt to taste",
+            "Oil for frying",
+            "Curry leaves",
+            "Green chilies, slit"
+        ],
+        "instructions": [
+            "In a bowl, mix yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, cornflour, and salt.",
+            "Add cauliflower florets and coat well. Let it marinate for 30 minutes.",
+            "Heat oil in a deep frying pan.",
+            "Fry the marinated cauliflower in batches until crispy and golden.",
+            "Drain on paper towels.",
+            "Heat a little oil in a pan and fry curry leaves and slit green chilies.",
+            "Add fried cauliflower to the pan and toss well.",
+            "Serve hot as a snack or starter."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "starter",
+        "prepTime": 15,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "Balanced",
+        "mealType": "starter",
+        "mainCourseRegion": "South-Indian",
+        "nutrition": {
+            "calories": 280,
+            "protein": 6,
+            "fat": 20,
+            "carbs": 15
+        }
+    }
+]
+// JUICE
+[
+    {
+        "title": "Nannari Sherbet",
+        "ingredients": [
+            "2 tbsp Nannari syrup",
+            "1 glass chilled water",
+            "1 tsp lemon juice",
+            "Ice cubes"
+        ],
+        "instructions": [
+            "Add Nannari syrup to a glass.",
+            "Pour in chilled water and mix well.",
+            "Squeeze lemon juice and stir.",
+            "Add ice cubes and serve immediately."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 5,
+        "cookTime": 0,
+        "servings": 1,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 90,
+            "protein": 0,
+            "fat": 0,
+            "carbs": 23
+        }
+    },
+    {
+        "title": "Sugarcane Juice",
+        "ingredients": [
+            "2 cups fresh sugarcane (crushed)",
+            "1 tsp lemon juice",
+            "1/2 inch ginger (crushed)",
+            "Ice cubes"
+        ],
+        "instructions": [
+            "Crush sugarcane and extract the juice.",
+            "Add lemon juice and crushed ginger.",
+            "Stir well and strain the juice.",
+            "Serve with ice cubes."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 10,
+        "cookTime": 0,
+        "servings": 1,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "North",
+        "nutrition": {
+            "calories": 150,
+            "protein": 1,
+            "fat": 0,
+            "carbs": 37
+        }
+    },
+    {
+        "title": "Lemon Mint Juice",
+        "ingredients": [
+            "2 tbsp lemon juice",
+            "10 fresh mint leaves",
+            "1 tbsp sugar",
+            "1 glass cold water",
+            "Ice cubes"
+        ],
+        "instructions": [
+            "Grind mint leaves with a little water to make a paste.",
+            "Mix lemon juice, sugar, and mint paste in a glass.",
+            "Add cold water and stir well.",
+            "Serve with ice cubes."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 7,
+        "cookTime": 0,
+        "servings": 1,
+        "dietType": "low",
+        "mealType": "lunch",
+        "mainCourseRegion": "West",
+        "nutrition": {
+            "calories": 60,
+            "protein": 0,
+            "fat": 0,
+            "carbs": 15
+        }
+    },
+    {
+        "title": "Tender Coconut Water",
+        "ingredients": [
+            "1 tender coconut (water and malai)"
+        ],
+        "instructions": [
+            "Cut open the tender coconut.",
+            "Pour the coconut water into a glass.",
+            "Scoop out the malai and serve along with the water, chilled."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 2,
+        "cookTime": 0,
+        "servings": 1,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "Coastal",
+        "nutrition": {
+            "calories": 45,
+            "protein": 0,
+            "fat": 0,
+            "carbs": 11
+        }
+    },
+    {
+        "title": "Watermelon Juice",
+        "ingredients": [
+            "2 cups watermelon (deseeded and chopped)",
+            "1 tsp sugar (optional)",
+            "5 mint leaves",
+            "Ice cubes"
+        ],
+        "instructions": [
+            "Add watermelon and mint leaves to a blender.",
+            "Blend until smooth.",
+            "Strain the juice (optional).",
+            "Serve chilled with ice cubes."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 5,
+        "cookTime": 0,
+        "servings": 1,
+        "dietType": "low",
+        "mealType": "lunch",
+        "mainCourseRegion": "East",
+        "nutrition": {
+            "calories": 80,
+            "protein": 1,
+            "fat": 0,
+            "carbs": 20
+        }
+    },
+    {
+        "title": "Pineapple Juice",
+        "ingredients": [
+            "1 cup pineapple (peeled and chopped)",
+            "1 tbsp sugar (optional)",
+            "1/2 cup cold water",
+            "Ice cubes"
+        ],
+        "instructions": [
+            "Add pineapple, sugar, and water to a blender.",
+            "Blend to a smooth juice.",
+            "Strain the juice (optional).",
+            "Serve chilled with ice cubes."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 8,
+        "cookTime": 0,
+        "servings": 1,
+        "dietType": "low",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 100,
+            "protein": 1,
+            "fat": 0,
+            "carbs": 25
+        }
+    },
+    {
+        "title": "Muskmelon Juice",
+        "ingredients": [
+            "2 cups muskmelon (chopped)",
+            "1 tbsp sugar",
+            "1/2 cup cold water",
+            "Ice cubes"
+        ],
+        "instructions": [
+            "Add muskmelon, sugar, and water to a blender.",
+            "Blend until smooth.",
+            "Strain the juice if needed.",
+            "Serve chilled with ice cubes."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 5,
+        "cookTime": 0,
+        "servings": 1,
+        "dietType": "low",
+        "mealType": "lunch",
+        "mainCourseRegion": "North",
+        "nutrition": {
+            "calories": 90,
+            "protein": 1,
+            "fat": 0,
+            "carbs": 22
+        }
+    },
+    {
+        "title": "Ginger Lemon Juice",
+        "ingredients": [
+            "2 tbsp lemon juice",
+            "1/2 inch ginger (grated)",
+            "1 tbsp honey",
+            "1 glass cold water",
+            "Ice cubes"
+        ],
+        "instructions": [
+            "Grate ginger and extract the juice.",
+            "Mix lemon juice, ginger juice, and honey in a glass.",
+            "Add cold water and stir well.",
+            "Serve with ice cubes."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "drinks",
+        "prepTime": 5,
+        "cookTime": 0,
+        "servings": 1,
+        "dietType": "low",
+        "mealType": "lunch",
+        "mainCourseRegion": "North",
+        "nutrition": {
+            "calories": 70,
+            "protein": 0,
+            "fat": 0,
+            "carbs": 17
+        }
+    }
+]
+// BIRYANIS
+[
+    {
+        "title": "Ambur Chicken Biryani",
+        "ingredients": [
+            "500g chicken",
+            "2 cups seeraga samba rice",
+            "2 onions (sliced)",
+            "1 tomato (chopped)",
+            "2 tbsp ginger garlic paste",
+            "1/2 cup yogurt",
+            "1/4 cup chopped mint leaves",
+            "1/4 cup chopped coriander leaves",
+            "2-3 green chilies",
+            "2 tsp red chili powder",
+            "1/2 tsp turmeric",
+            "Whole spices (bay leaf, cinnamon, cloves, cardamom)",
+            "Salt to taste",
+            "Oil and ghee"
+        ],
+        "instructions": [
+            "Soak rice for 30 minutes.",
+            "Heat oil, add whole spices and sliced onions, sauté until golden.",
+            "Add ginger garlic paste, then tomatoes, green chilies, and sauté well.",
+            "Add chicken, spices, salt, yogurt, and cook until chicken is 80% done.",
+            "Add mint and coriander leaves.",
+            "In a separate vessel, boil water and cook rice till 70% done, drain.",
+            "Layer chicken and rice. Cover and dum cook for 20 minutes on low flame.",
+            "Gently mix and serve hot."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "non-veg",
+        "prepTime": 30,
+        "cookTime": 45,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 480,
+            "protein": 28,
+            "fat": 15,
+            "carbs": 55
+        }
+    },
+    {
+        "title": "Thalassery Mutton Biryani",
+        "ingredients": [
+            "500g mutton",
+            "2 cups jeerakasala rice",
+            "2 onions (sliced)",
+            "2 tomatoes",
+            "2 tbsp ginger garlic paste",
+            "1/2 cup yogurt",
+            "Mint and coriander leaves",
+            "Garam masala, chili powder, turmeric",
+            "Whole spices (bay leaf, cinnamon, cloves, cardamom)",
+            "Salt, oil, ghee"
+        ],
+        "instructions": [
+            "Cook mutton with spices and yogurt till tender.",
+            "Fry onions until crisp for garnishing.",
+            "Cook rice separately with ghee and whole spices until 80% done.",
+            "Layer mutton and rice with fried onions and herbs.",
+            "Dum cook for 15–20 minutes.",
+            "Serve hot with raita."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "non-veg",
+        "prepTime": 40,
+        "cookTime": 60,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 520,
+            "protein": 30,
+            "fat": 18,
+            "carbs": 58
+        }
+    },
+    {
+        "title": "Hyderabadi Dum Biryani",
+        "ingredients": [
+            "500g chicken or mutton",
+            "2 cups basmati rice",
+            "2 onions (fried)",
+            "1/2 cup yogurt",
+            "Ginger garlic paste",
+            "Mint and coriander",
+            "Whole spices",
+            "Saffron milk",
+            "Lemon juice",
+            "Salt, oil, ghee"
+        ],
+        "instructions": [
+            "Marinate meat with yogurt, spices, herbs, lemon juice for 1 hour.",
+            "Soak and cook rice till 70% done.",
+            "Layer rice and marinated meat with fried onions and saffron milk.",
+            "Seal pot with dough and dum cook for 30–40 minutes.",
+            "Mix gently and serve."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "non-veg",
+        "prepTime": 60,
+        "cookTime": 40,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 550,
+            "protein": 32,
+            "fat": 20,
+            "carbs": 60
+        }
+    },
+    {
+        "title": "Kuska",
+        "ingredients": [
+            "2 cups basmati rice",
+            "2 onions (sliced)",
+            "2 tomatoes (chopped)",
+            "1 tbsp ginger garlic paste",
+            "Mint and coriander leaves",
+            "Spices: bay leaf, cinnamon, cloves, cardamom, biryani masala",
+            "Salt, oil, ghee"
+        ],
+        "instructions": [
+            "Sauté whole spices and onions in oil/ghee.",
+            "Add ginger garlic paste and tomatoes, cook until soft.",
+            "Add herbs and spices, then rice.",
+            "Add water, cook on low heat till rice is done.",
+            "Serve hot with raita or kurma."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "veg",
+        "prepTime": 20,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 390,
+            "protein": 6,
+            "fat": 10,
+            "carbs": 65
+        }
+    },
+    {
+        "title": "Vegetable Biryani",
+        "ingredients": [
+            "1.5 cups basmati rice",
+            "Mixed vegetables (carrot, beans, peas, potato)",
+            "2 onions",
+            "1 tomato",
+            "Yogurt",
+            "Ginger garlic paste",
+            "Spices and herbs",
+            "Salt, oil, ghee"
+        ],
+        "instructions": [
+            "Sauté spices and onions, add ginger garlic paste and tomato.",
+            "Add chopped vegetables, cook with spices and yogurt.",
+            "Add soaked rice, cook with water till done.",
+            "Serve with raita or gravy."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "veg",
+        "prepTime": 20,
+        "cookTime": 30,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "North",
+        "nutrition": {
+            "calories": 360,
+            "protein": 7,
+            "fat": 9,
+            "carbs": 60
+        }
+    },
+    {
+        "title": "Prawn Biryani",
+        "ingredients": [
+            "500g prawns",
+            "2 cups basmati rice",
+            "2 onions",
+            "1 tomato",
+            "Ginger garlic paste",
+            "Yogurt",
+            "Mint and coriander",
+            "Spices, lemon juice",
+            "Salt, oil, ghee"
+        ],
+        "instructions": [
+            "Marinate prawns with spices and lemon juice.",
+            "Cook rice until 70% done.",
+            "Sauté onions, add tomato, paste, yogurt, and prawns.",
+            "Layer rice and prawn masala, dum cook for 15 minutes.",
+            "Serve hot with salad."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "non-veg",
+        "prepTime": 30,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 430,
+            "protein": 25,
+            "fat": 14,
+            "carbs": 50
+        }
+    },
+    {
+        "title": "Egg Biryani",
+        "ingredients": [
+            "4 boiled eggs",
+            "2 cups basmati rice",
+            "2 onions",
+            "1 tomato",
+            "Yogurt",
+            "Ginger garlic paste",
+            "Spices, herbs",
+            "Salt, oil, ghee"
+        ],
+        "instructions": [
+            "Prepare masala with onions, tomato, paste, and yogurt.",
+            "Add boiled eggs and simmer with masala.",
+            "Cook rice separately.",
+            "Layer rice and egg masala, dum cook for 15 minutes.",
+            "Serve hot with raita."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "non-veg",
+        "prepTime": 20,
+        "cookTime": 30,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 410,
+            "protein": 20,
+            "fat": 14,
+            "carbs": 48
+        }
+    },
+    {
+        "title": "Chettinad Biryani",
+        "ingredients": [
+            "500g chicken/mutton",
+            "2 cups seeraga samba rice",
+            "Onions, tomatoes",
+            "Ginger garlic paste",
+            "Chettinad masala (dry roasted and ground)",
+            "Yogurt, lemon juice",
+            "Mint, coriander, whole spices",
+            "Salt, oil, ghee"
+        ],
+        "instructions": [
+            "Prepare Chettinad masala separately.",
+            "Cook meat with masala, yogurt, and herbs.",
+            "Cook rice separately till 70% done.",
+            "Layer rice and masala, dum cook for 20 minutes.",
+            "Serve with onion raita."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Hard",
+        "image": "",
+        "category": "non-veg",
+        "prepTime": 40,
+        "cookTime": 50,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 540,
+            "protein": 30,
+            "fat": 22,
+            "carbs": 55
+        }
+    }
+]
+// CURRIES
+[
+    {
+        "title": "Sambar",
+        "ingredients": [
+            "1 cup toor dal",
+            "1 drumstick, 1 brinjal, 1 carrot (chopped)",
+            "1 onion (sliced)",
+            "1 tomato (chopped)",
+            "2 tbsp sambar powder",
+            "Tamarind extract",
+            "Mustard seeds, curry leaves, dry red chilies",
+            "Hing (asafoetida), turmeric, salt, oil"
+        ],
+        "instructions": [
+            "Pressure cook toor dal with turmeric until soft.",
+            "Boil vegetables with tamarind extract, salt, and sambar powder.",
+            "Add cooked dal and let it simmer.",
+            "Temper mustard seeds, curry leaves, red chilies, hing in oil and pour over sambar.",
+            "Serve hot with rice or idli/dosa."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "veg",
+        "prepTime": 20,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 200,
+            "protein": 9,
+            "fat": 5,
+            "carbs": 30
+        }
+    },
+    {
+        "title": "Kara Kuzhambu",
+        "ingredients": [
+            "1 onion (chopped)",
+            "1 tomato (chopped)",
+            "Tamarind extract",
+            "2 tsp kuzhambu powder or sambar powder",
+            "1/4 tsp turmeric",
+            "Mustard seeds, fenugreek seeds, curry leaves",
+            "Oil, salt",
+            "Optional: small eggplants or drumstick"
+        ],
+        "instructions": [
+            "Heat oil and temper mustard, fenugreek, curry leaves.",
+            "Sauté onions and tomatoes till soft.",
+            "Add kuzhambu powder, turmeric, salt, tamarind extract, and boil.",
+            "Add vegetables if using and cook until tender.",
+            "Simmer till oil separates and serve with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "veg",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 180,
+            "protein": 3,
+            "fat": 8,
+            "carbs": 24
+        }
+    },
+    {
+        "title": "Chettinad Gravy",
+        "ingredients": [
+            "500g chicken/mutton or vegetables",
+            "1 onion, 1 tomato (chopped)",
+            "Chettinad masala (dry roasted and ground spices with coconut)",
+            "Ginger garlic paste",
+            "Curry leaves",
+            "Oil, salt"
+        ],
+        "instructions": [
+            "Prepare Chettinad masala and set aside.",
+            "Heat oil, sauté onions and tomatoes with ginger garlic paste.",
+            "Add meat/veg, Chettinad masala, and cook well.",
+            "Add water and simmer till cooked.",
+            "Serve hot with rice or chapati."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "non-veg",
+        "prepTime": 30,
+        "cookTime": 30,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 400,
+            "protein": 22,
+            "fat": 18,
+            "carbs": 30
+        }
+    },
+    {
+        "title": "Egg Curry",
+        "ingredients": [
+            "4 boiled eggs",
+            "1 onion, 1 tomato",
+            "Ginger garlic paste",
+            "Chili powder, turmeric, coriander powder",
+            "Curry leaves",
+            "Oil, salt"
+        ],
+        "instructions": [
+            "Sauté onions and tomatoes in oil.",
+            "Add ginger garlic paste and spices, cook till oil separates.",
+            "Add water, bring to boil and add eggs.",
+            "Simmer for 10 minutes and serve hot."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "non-veg",
+        "prepTime": 10,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 300,
+            "protein": 16,
+            "fat": 14,
+            "carbs": 15
+        }
+    },
+    {
+        "title": "Meen Kuzhambu",
+        "ingredients": [
+            "500g fish (seer, tilapia, or sardine)",
+            "Tamarind extract",
+            "Onion, tomato",
+            "Chili powder, turmeric, coriander powder",
+            "Mustard, fenugreek seeds, curry leaves",
+            "Oil, salt"
+        ],
+        "instructions": [
+            "Sauté onions and tomatoes with spices.",
+            "Add tamarind extract and bring to boil.",
+            "Add fish and cook gently for 10–12 minutes.",
+            "Serve hot with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "non-veg",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 330,
+            "protein": 28,
+            "fat": 12,
+            "carbs": 15
+        }
+    },
+    {
+        "title": "Paruppu Urundai Kuzhambu",
+        "ingredients": [
+            "1 cup toor dal (soaked)",
+            "Dry red chilies, fennel seeds, hing",
+            "Onion, tomato, tamarind extract",
+            "Chili powder, turmeric",
+            "Mustard, curry leaves, oil, salt"
+        ],
+        "instructions": [
+            "Grind soaked dal with chilies, fennel, and salt.",
+            "Make balls (urundais) and steam them.",
+            "Make kuzhambu with onion, tomato, tamarind, spices.",
+            "Add urundais into kuzhambu and simmer for 10 minutes.",
+            "Serve hot with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Hard",
+        "image": "",
+        "category": "veg",
+        "prepTime": 40,
+        "cookTime": 30,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 290,
+            "protein": 12,
+            "fat": 10,
+            "carbs": 36
+        }
+    },
+    {
+        "title": "Kootu Curry",
+        "ingredients": [
+            "Chopped vegetables (ash gourd, yam, raw banana)",
+            "1/2 cup cooked chana dal",
+            "Grated coconut",
+            "Cumin seeds, dry red chilies",
+            "Mustard seeds, curry leaves",
+            "Salt, oil"
+        ],
+        "instructions": [
+            "Cook vegetables with salt and turmeric.",
+            "Grind coconut, cumin, chilies into paste and add to vegetables.",
+            "Add cooked chana dal and simmer.",
+            "Temper mustard seeds and curry leaves in oil and mix in.",
+            "Serve hot with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "veg",
+        "prepTime": 20,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 250,
+            "protein": 9,
+            "fat": 8,
+            "carbs": 35
+        }
+    },
+    {
+        "title": "Mor Kuzhambu",
+        "ingredients": [
+            "2 cups buttermilk",
+            "Chopped ash gourd or okra",
+            "Grated coconut, cumin, green chilies (for paste)",
+            "Turmeric, salt",
+            "Mustard seeds, curry leaves",
+            "Oil"
+        ],
+        "instructions": [
+            "Cook vegetables with turmeric and salt.",
+            "Grind coconut, cumin, and green chilies to a paste.",
+            "Mix paste and buttermilk, add to vegetables.",
+            "Simmer gently without boiling.",
+            "Temper mustard and curry leaves in oil and add on top.",
+            "Serve with rice."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "veg",
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 4,
+        "dietType": "low",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 180,
+            "protein": 5,
+            "fat": 6,
+            "carbs": 20
+        }
+    }
+]
+// BREAKFAST
+[
+    {
+        "title": "Idli",
+        "ingredients": [
+            "1 cup urad dal",
+            "3 cups idli rice",
+            "1 tsp fenugreek seeds",
+            "Salt",
+            "Water"
+        ],
+        "instructions": [
+            "Soak rice and dal with fenugreek seeds separately for 4-6 hours.",
+            "Grind to a smooth batter, mix, and ferment overnight.",
+            "Add salt, pour into idli moulds, and steam for 10–12 minutes.",
+            "Serve hot with chutney and sambar."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "veg",
+        "prepTime": 480,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "low",
+        "mealType": "breakfast",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 150,
+            "protein": 4,
+            "fat": 1,
+            "carbs": 30
+        }
+    },
+    {
+        "title": "Dosa",
+        "ingredients": [
+            "1 cup urad dal",
+            "3 cups dosa rice",
+            "1/2 tsp fenugreek seeds",
+            "Salt",
+            "Water",
+            "Oil or ghee for frying"
+        ],
+        "instructions": [
+            "Soak rice and dal with fenugreek seeds for 6 hours.",
+            "Grind to smooth batter, mix and ferment overnight.",
+            "Add salt, pour batter on hot tawa, spread thin.",
+            "Drizzle oil, cook until crisp. Serve with chutney or sambar."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "veg",
+        "prepTime": 480,
+        "cookTime": 10,
+        "servings": 4,
+        "dietType": "low",
+        "mealType": "breakfast",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 180,
+            "protein": 4,
+            "fat": 2,
+            "carbs": 35
+        }
+    },
+    {
+        "title": "Pongal",
+        "ingredients": [
+            "1 cup raw rice",
+            "1/4 cup moong dal",
+            "2 tbsp ghee",
+            "1 tsp peppercorns",
+            "1 tsp cumin seeds",
+            "Cashews, curry leaves, ginger",
+            "Salt"
+        ],
+        "instructions": [
+            "Dry roast moong dal, mix with rice and cook with 4 cups water.",
+            "Mash lightly after cooking.",
+            "Heat ghee, fry pepper, cumin, cashews, ginger, curry leaves.",
+            "Mix into the cooked rice-dal. Serve hot with chutney or sambar."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "veg",
+        "prepTime": 10,
+        "cookTime": 25,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "breakfast",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 250,
+            "protein": 6,
+            "fat": 8,
+            "carbs": 36
+        }
+    },
+    {
+        "title": "Upma",
+        "ingredients": [
+            "1 cup rava (semolina)",
+            "2 cups water",
+            "1 onion (chopped)",
+            "Green chilies, ginger",
+            "Mustard seeds, urad dal, curry leaves",
+            "Oil or ghee, salt"
+        ],
+        "instructions": [
+            "Roast rava until light golden and set aside.",
+            "Heat oil, temper mustard, urad dal, curry leaves, sauté onion and chilies.",
+            "Add water and salt. When it boils, add rava slowly while stirring.",
+            "Cook until thickened. Serve hot."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "veg",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "low",
+        "mealType": "breakfast",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 220,
+            "protein": 5,
+            "fat": 6,
+            "carbs": 34
+        }
+    },
+    {
+        "title": "Pesarattu",
+        "ingredients": [
+            "1 cup green gram (moong dal, soaked overnight)",
+            "1 green chili, 1-inch ginger",
+            "1 onion (finely chopped)",
+            "Cumin seeds, salt, oil"
+        ],
+        "instructions": [
+            "Grind soaked moong with ginger, chili, and cumin to a batter.",
+            "Heat tawa, pour batter and spread like dosa.",
+            "Sprinkle chopped onion, drizzle oil.",
+            "Cook both sides till crisp. Serve with chutney."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "veg",
+        "prepTime": 480,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "high",
+        "mealType": "breakfast",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 210,
+            "protein": 10,
+            "fat": 4,
+            "carbs": 28
+        }
+    },
+    {
+        "title": "Appam with Stew",
+        "ingredients": [
+            "1 cup raw rice",
+            "1/2 cup coconut milk",
+            "1/4 cup cooked rice",
+            "1/2 tsp yeast",
+            "Sugar, salt",
+            "Vegetables or chicken for stew",
+            "Coconut milk, spices"
+        ],
+        "instructions": [
+            "Soak rice, grind with cooked rice and coconut milk to a smooth batter.",
+            "Add yeast, sugar and ferment overnight.",
+            "Make appams in appachatti and cook till edges are crisp.",
+            "Prepare stew by sautéing onions, ginger, veg/chicken and spices in coconut milk.",
+            "Serve appam with hot stew."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Hard",
+        "image": "",
+        "category": "veg",
+        "prepTime": 480,
+        "cookTime": 30,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "breakfast",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 320,
+            "protein": 6,
+            "fat": 12,
+            "carbs": 45
+        }
+    },
+    {
+        "title": "Rava Dosa",
+        "ingredients": [
+            "1 cup rava (semolina)",
+            "1/4 cup rice flour",
+            "1/4 cup maida",
+            "Cumin seeds, crushed pepper",
+            "Finely chopped onion, green chili, coriander",
+            "Salt, water, oil"
+        ],
+        "instructions": [
+            "Mix rava, rice flour, maida with water to form a thin batter.",
+            "Add spices, onion, and let it rest for 15 minutes.",
+            "Pour batter on hot tawa, drizzle oil and cook until crisp.",
+            "Serve with chutney or sambar."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "image": "",
+        "category": "veg",
+        "prepTime": 15,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "low",
+        "mealType": "breakfast",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 250,
+            "protein": 4,
+            "fat": 6,
+            "carbs": 42
+        }
+    },
+    {
+        "title": "Uthappam",
+        "ingredients": [
+            "Idli/dosa batter (fermented)",
+            "Onion, tomato, green chili, coriander (finely chopped)",
+            "Oil"
+        ],
+        "instructions": [
+            "Pour thick batter on tawa and don’t spread much.",
+            "Top with chopped onion, tomato, chili, coriander.",
+            "Drizzle oil and cook both sides on medium heat.",
+            "Serve hot with chutney and sambar."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "image": "",
+        "category": "veg",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "dietType": "balanced",
+        "mealType": "breakfast",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 230,
+            "protein": 6,
+            "fat": 4,
+            "carbs": 40
+        }
+    }
+]
+// LUNCH OR DINNER
+[
+    {
+        "title": "Curd Rice",
+        "ingredients": [
+            "1 cup cooked rice",
+            "1 cup yogurt (curd)",
+            "1 tbsp mustard seeds",
+            "1 tsp urad dal",
+            "1 tsp chana dal",
+            "2 dried red chilies",
+            "1-2 green chilies, chopped",
+            "1-inch ginger, grated",
+            "Few curry leaves",
+            "2 tbsp coriander leaves, chopped",
+            "Salt to taste",
+            "1 tbsp oil"
+        ],
+        "instructions": [
+            "Mash the cooked rice slightly and keep aside.",
+            "Heat oil in a pan; add mustard seeds, urad dal, chana dal, dried red chilies, green chilies, ginger, and curry leaves. Sauté till aromatic.",
+            "Add the tempering to the mashed rice.",
+            "Mix yogurt and salt with the rice mixture.",
+            "Garnish with chopped coriander leaves and serve chilled or at room temperature."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "category": "main course",
+        "prepTime": 10,
+        "cookTime": 0,
+        "servings": 2,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 220,
+            "protein": 6,
+            "fat": 5,
+            "carbs": 35
+        }
+    },
+    {
+        "title": "Lemon Rice",
+        "ingredients": [
+            "1 cup cooked rice",
+            "1 tbsp mustard seeds",
+            "1 tsp chana dal",
+            "1 tsp urad dal",
+            "2 green chilies, chopped",
+            "10-12 curry leaves",
+            "1/4 tsp turmeric powder",
+            "2 tbsp roasted peanuts",
+            "Juice of 1 lemon",
+            "Salt to taste",
+            "2 tbsp oil"
+        ],
+        "instructions": [
+            "Heat oil in a pan; add mustard seeds, chana dal, urad dal, green chilies, and curry leaves. Sauté till golden.",
+            "Add turmeric powder and sauté briefly.",
+            "Add cooked rice, salt, and roasted peanuts; mix well.",
+            "Remove from heat; add lemon juice and mix thoroughly.",
+            "Serve warm or at room temperature."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Easy",
+        "category": "main course",
+        "prepTime": 10,
+        "cookTime": 5,
+        "servings": 2,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 280,
+            "protein": 6,
+            "fat": 10,
+            "carbs": 42
+        }
+    },
+    {
+        "title": "Tamarind Rice",
+        "ingredients": [
+            "1 cup cooked rice",
+            "2 tbsp tamarind paste",
+            "1 tbsp mustard seeds",
+            "1 tsp chana dal",
+            "1 tsp urad dal",
+            "2 dried red chilies",
+            "10-12 curry leaves",
+            "1/4 tsp turmeric powder",
+            "1 tbsp jaggery or sugar",
+            "2 tbsp roasted peanuts",
+            "Salt to taste",
+            "2 tbsp oil"
+        ],
+        "instructions": [
+            "Heat oil in a pan; add mustard seeds, chana dal, urad dal, dried red chilies, and curry leaves. Sauté until golden brown.",
+            "Add tamarind paste, turmeric powder, jaggery, and salt; cook for 5 minutes until oil separates.",
+            "Add cooked rice and roasted peanuts; mix well to coat the rice with tamarind mixture.",
+            "Cook for another 2-3 minutes on low heat.",
+            "Serve warm."
+        ],
+        "cuisine": "Indian",
+        "difficulty": "Medium",
+        "category": "main course",
+        "prepTime": 15,
+        "cookTime": 10,
+        "servings": 2,
+        "dietType": "balanced",
+        "mealType": "lunch",
+        "mainCourseRegion": "South",
+        "nutrition": {
+            "calories": 320,
+            "protein": 7,
+            "fat": 12,
+            "carbs": 45
+        }
+    }
+]

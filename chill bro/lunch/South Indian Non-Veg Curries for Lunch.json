@@ -1,0 +1,2804 @@
+[
+  {
+    "title": "Andhra Kodi Kura (Andhra Chicken Curry)",
+    "ingredients": [
+      "500g chicken (cut into pieces)",
+      "2 onions (finely chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp ginger-garlic paste",
+      "2 tbsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1/2 cup oil",
+      "Salt to taste",
+      "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until golden brown.",
+      "Add ginger-garlic paste and fry until the raw smell disappears.",
+      "Add tomatoes and cook until soft.",
+      "Add red chili powder, turmeric, salt, and garam masala.",
+      "Add chicken pieces and mix well.",
+      "Cook on medium heat until chicken is tender and gravy thickens.",
+      "Garnish with coriander leaves and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "andhra_kodi_kura.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 40,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 28,
+      "fat": 18,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Chicken Chettinad",
+    "ingredients": [
+      "500g chicken (cut into pieces)",
+      "2 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "2 tbsp ginger-garlic paste",
+      "2 tbsp Chettinad masala",
+      "1 tsp turmeric powder",
+      "2 tbsp oil",
+      "Curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions and curry leaves.",
+      "Add ginger-garlic paste and cook till fragrant.",
+      "Add tomatoes and cook until mushy.",
+      "Add Chettinad masala, turmeric, and salt.",
+      "Add chicken and mix well.",
+      "Cook covered until chicken is done and masala thickens.",
+      "Serve hot with rice or parotta."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_chettinad.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Chicken Sukka (Dry Mangalorean Style)",
+    "ingredients": [
+      "500g chicken (cut into small pieces)",
+      "1 onion (sliced)",
+      "2 tbsp grated coconut",
+      "2 tsp coriander powder",
+      "1 tsp red chili powder",
+      "1 tsp turmeric",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, add onions and curry leaves, sauté until golden.",
+      "Add spices and mix well.",
+      "Add chicken and cook covered till nearly done.",
+      "Add coconut and sauté on high heat till dry and coated.",
+      "Serve hot as a side with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_sukka.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 27,
+      "fat": 16,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Chicken Kurma (Tamil Nadu style)",
+    "ingredients": [
+      "500g chicken",
+      "2 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "1/2 cup coconut paste",
+      "1 tsp fennel seeds",
+      "2 tsp ginger-garlic paste",
+      "1 tsp turmeric",
+      "2 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Oil and salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, sauté fennel seeds, onions and ginger-garlic paste.",
+      "Add tomatoes and cook till soft.",
+      "Add turmeric, coriander powder, and chicken pieces.",
+      "Cook till chicken is half done.",
+      "Add coconut paste, salt, and cook until thick and creamy.",
+      "Sprinkle garam masala and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "chicken_kurma.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 350,
+      "protein": 29,
+      "fat": 22,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Kerala Chicken Stew",
+    "ingredients": [
+      "500g chicken",
+      "1 onion (sliced)",
+      "2 green chilies",
+      "1 cup thin coconut milk",
+      "1/2 cup thick coconut milk",
+      "1-inch ginger (sliced)",
+      "Whole spices (cloves, cardamom, cinnamon)",
+      "1 tbsp oil or ghee",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, sauté whole spices, onions, ginger, and chilies.",
+      "Add chicken and cook for a few minutes.",
+      "Add thin coconut milk and salt, simmer till chicken is done.",
+      "Add thick coconut milk and heat gently without boiling.",
+      "Serve with appam or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "kerala_chicken_stew.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 290,
+      "protein": 25,
+      "fat": 18,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Nadan Chicken Curry (Kerala)",
+    "ingredients": [
+      "500g chicken",
+      "2 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tbsp chili powder",
+      "1 tbsp coriander powder",
+      "1/2 cup coconut paste",
+      "Curry leaves, oil, salt"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions, curry leaves, and ginger-garlic paste.",
+      "Add tomatoes and cook till soft.",
+      "Add spices and sauté well.",
+      "Add chicken and mix thoroughly.",
+      "Cook till chicken is done, then add coconut paste and simmer.",
+      "Serve hot with rice or parotta."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "nadan_chicken_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 28,
+      "fat": 19,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Chicken Gassi (Mangalorean Coconut Curry)",
+    "ingredients": [
+      "500g chicken",
+      "1/2 cup grated coconut",
+      "1 onion (sliced)",
+      "1 tsp cumin seeds",
+      "1 tsp coriander seeds",
+      "1 tbsp red chili powder",
+      "1 tsp tamarind paste",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Dry roast coconut, cumin, coriander and grind to a paste.",
+      "Heat oil and sauté onions.",
+      "Add chicken and cook till half done.",
+      "Add masala paste, chili powder, tamarind, salt and simmer till cooked.",
+      "Serve with rice or neer dosa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_gassi.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 11
+    }
+  },
+  {
+    "title": "Pepper Chicken Masala",
+    "ingredients": [
+      "500g chicken",
+      "1 onion (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1 tbsp crushed pepper",
+      "1 tsp cumin powder",
+      "1/2 tsp turmeric powder",
+      "Curry leaves",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions and curry leaves.",
+      "Add ginger-garlic paste and cook till raw smell goes.",
+      "Add chicken and spices, mix well.",
+      "Cook till chicken is soft and coated with pepper masala.",
+      "Serve hot with chapati or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "pepper_chicken_masala.jpg",
+    "category": "Non-Veg",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 29,
+      "fat": 18,
+      "carbs": 7
+    }
+  },
+  {
+    "title": "Gongura Chicken (Andhra)",
+    "ingredients": [
+      "500g chicken",
+      "1 cup gongura (sorrel) leaves",
+      "2 onions (chopped)",
+      "2 green chilies",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp chili powder",
+      "1/2 tsp turmeric powder",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook gongura leaves separately and mash.",
+      "Heat oil, sauté onions, green chilies, and ginger-garlic paste.",
+      "Add chicken and spices, cook till half done.",
+      "Add mashed gongura, mix well, and cook till chicken is done.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "gongura_chicken.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 28,
+      "fat": 17,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Chicken Chinthakaya Curry (Raw Tamarind Chicken)",
+    "ingredients": [
+      "500g chicken",
+      "1/2 cup chinthakaya (raw tamarind)",
+      "2 onions (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp chili powder",
+      "1/2 tsp turmeric",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Boil and extract juice from raw tamarind.",
+      "Heat oil and sauté onions, ginger-garlic paste.",
+      "Add chicken and spices, cook until half done.",
+      "Add tamarind juice, cook till chicken is tender and gravy thickens.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chinthakaya_chicken.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 325,
+      "protein": 28,
+      "fat": 17,
+      "carbs": 11
+    }
+  },
+  {
+    "title": "Chicken Puli Kuzhambu",
+    "ingredients": [
+      "500g chicken pieces",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1 lemon-sized tamarind ball, soaked",
+      "1 tbsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tbsp red chili powder",
+      "1 tbsp coriander powder",
+      "1 tsp mustard seeds",
+      "A few curry leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat oil in a pan and splutter mustard seeds.",
+      "Add chopped onions and curry leaves; sauté until golden brown.",
+      "Add ginger garlic paste and cook until raw smell disappears.",
+      "Add chopped tomatoes and cook until soft.",
+      "Add turmeric, chili, and coriander powders; mix well.",
+      "Add chicken pieces and sauté for a few minutes.",
+      "Pour in tamarind extract and water as required.",
+      "Cover and simmer until chicken is cooked and gravy thickens.",
+      "Serve hot with rice or idli."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_puli_kuzhambu.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 380,
+      "protein": 28,
+      "fat": 25,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Chicken Roast (Semi-Gravy Kerala)",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger garlic paste",
+      "1 tsp black pepper",
+      "1 tsp garam masala",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "Few curry leaves",
+      "Salt to taste",
+      "Coconut oil for cooking"
+    ],
+    "instructions": [
+      "Marinate chicken with turmeric, chili powder, and salt for 30 minutes.",
+      "Heat oil in a pan and sauté onions and curry leaves until golden brown.",
+      "Add ginger garlic paste and sauté for a minute.",
+      "Add chopped tomatoes and cook until soft.",
+      "Add marinated chicken and cook on medium heat.",
+      "Add pepper and coriander powder; mix well.",
+      "Cover and cook until chicken is done and semi-dry.",
+      "Sprinkle garam masala and serve hot with appam or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_roast_kerala.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 400,
+      "protein": 30,
+      "fat": 28,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Chicken Varutharacha Curry",
+    "ingredients": [
+      "500g chicken",
+      "1 cup grated coconut",
+      "1 onion, sliced",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1 tsp fennel seeds",
+      "1/2 tsp garam masala",
+      "Few curry leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Dry roast coconut, fennel seeds, and curry leaves until brown; grind to a paste.",
+      "Heat oil in a pan and sauté onions until golden.",
+      "Add ginger garlic paste and cook until raw smell goes.",
+      "Add tomatoes, turmeric, chili, and coriander powders; cook well.",
+      "Add chicken pieces and mix thoroughly.",
+      "Add water and cook covered until chicken is tender.",
+      "Stir in the roasted coconut paste and simmer for 5 minutes.",
+      "Finish with garam masala and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_varutharacha.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 430,
+      "protein": 29,
+      "fat": 30,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Chicken Thokku",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, finely chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger garlic paste",
+      "1 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "Few curry leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat oil and splutter mustard seeds.",
+      "Add onions and curry leaves; sauté until golden.",
+      "Add ginger garlic paste and cook for a minute.",
+      "Add tomatoes, turmeric, chili, and coriander powders; cook until thick.",
+      "Add chicken pieces and mix well.",
+      "Cover and cook until chicken is done and thokku is thick.",
+      "Serve with dosa, chapati, or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "chicken_thokku.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 370,
+      "protein": 27,
+      "fat": 24,
+      "carbs": 7
+    }
+  },
+  {
+    "title": "Chicken Keema Curry",
+    "ingredients": [
+      "500g minced chicken",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tbsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions until golden brown.",
+      "Add ginger garlic paste and cook till raw smell goes.",
+      "Add tomatoes, turmeric, and chili powder; cook until soft.",
+      "Add minced chicken and cook on low flame.",
+      "Sprinkle garam masala and cook until fully done.",
+      "Garnish and serve with chapati or dosa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "chicken_keema.jpg",
+    "category": "Non-Veg",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 350,
+      "protein": 26,
+      "fat": 23,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Drumstick Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "2 drumsticks, cut into pieces",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1 tbsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "Few curry leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until golden.",
+      "Add ginger garlic paste and cook until raw smell disappears.",
+      "Add tomatoes and cook till mushy.",
+      "Add spices and mix well.",
+      "Add chicken and drumstick pieces and sauté for few minutes.",
+      "Add water, cover, and cook until chicken and drumsticks are done.",
+      "Serve hot with rice or dosa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "drumstick_chicken.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 390,
+      "protein": 28,
+      "fat": 26,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Aatukal Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "2 goat trotters (cleaned)",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger garlic paste",
+      "1 tsp pepper powder",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Few curry leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Pressure cook goat trotters with turmeric and salt until soft.",
+      "In a separate pan, sauté onions and curry leaves.",
+      "Add ginger garlic paste and tomatoes; cook till soft.",
+      "Add spices and chicken pieces.",
+      "Mix in the cooked trotters along with broth.",
+      "Simmer until chicken is done and flavors combine well.",
+      "Serve with idli or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Hard",
+    "image": "aatukal_chicken.jpg",
+    "category": "Non-Veg",
+    "prepTime": 30,
+    "cookTime": 45,
+    "servings": 5,
+    "nutrition": {
+      "calories": 480,
+      "protein": 32,
+      "fat": 33,
+      "carbs": 7
+    }
+  },
+  {
+    "title": "Chicken Kurma with Coconut Poppy Seed",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, sliced",
+      "1 tomato, chopped",
+      "1/4 cup grated coconut",
+      "1 tbsp poppy seeds",
+      "1 tbsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "Few curry leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Grind coconut and poppy seeds into a smooth paste.",
+      "Heat oil and sauté onions and curry leaves until golden.",
+      "Add ginger garlic paste and tomatoes; cook well.",
+      "Add turmeric and coriander powders; mix.",
+      "Add chicken and cook for a few minutes.",
+      "Add the coconut-poppy paste and water.",
+      "Cover and cook until chicken is tender and kurma thickens.",
+      "Serve with parotta or idiyappam."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_kurma_poppy.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 410,
+      "protein": 27,
+      "fat": 29,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Tomato Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "3 tomatoes, pureed",
+      "2 onions, chopped",
+      "1 tbsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until golden.",
+      "Add ginger garlic paste and cook until fragrant.",
+      "Add tomato puree and cook till oil separates.",
+      "Add spices and mix well.",
+      "Add chicken and cook until tender.",
+      "Simmer until curry thickens.",
+      "Serve hot with rice or roti."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "tomato_chicken.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 360,
+      "protein": 26,
+      "fat": 22,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Chicken Kurma with Potato",
+    "ingredients": [
+      "500g chicken",
+      "2 potatoes, cubed",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1 tbsp ginger garlic paste",
+      "1/4 cup coconut milk",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until soft.",
+      "Add ginger garlic paste and cook for a minute.",
+      "Add tomatoes and cook until mushy.",
+      "Add turmeric and coriander powder; mix well.",
+      "Add chicken and potatoes, cook for 5 minutes.",
+      "Add coconut milk and water as required.",
+      "Simmer until chicken and potatoes are fully cooked.",
+      "Serve hot with chapati or dosa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chicken_kurma_potato.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 410,
+      "protein": 27,
+      "fat": 28,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Andhra Mutton Curry",
+    "ingredients": [
+      "500g mutton",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "2 tsp ginger garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "Fresh coriander leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until golden brown.",
+      "Add ginger garlic paste and sauté till the raw smell disappears.",
+      "Add tomatoes and cook till they turn mushy.",
+      "Add turmeric, chili, coriander powders and sauté well.",
+      "Add mutton pieces and cook for 5-7 minutes.",
+      "Add water, cover and cook until the mutton is tender.",
+      "Finish with garam masala and garnish with coriander leaves.",
+      "Serve hot with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "andhra_mutton_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 420,
+      "protein": 35,
+      "fat": 28,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Mutton Rogan Josh (South-Indian Spiced)",
+    "ingredients": [
+      "500g mutton",
+      "1 cup yogurt",
+      "2 onions, sliced",
+      "2 tsp ginger garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp fennel powder",
+      "2 tsp garam masala",
+      "Oil for cooking",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate mutton with yogurt, turmeric, chili powder, and salt for 1 hour.",
+      "Heat oil in a pan and sauté onions until golden.",
+      "Add ginger garlic paste and sauté until fragrant.",
+      "Add marinated mutton and cook on high heat for 5 minutes.",
+      "Add fennel powder and garam masala, mix well.",
+      "Add water and pressure cook or simmer until mutton is tender.",
+      "Serve hot with roti or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_rogan_josh.jpg",
+    "category": "Non-Veg",
+    "prepTime": 30,
+    "cookTime": 40,
+    "servings": 4,
+    "nutrition": {
+      "calories": 430,
+      "protein": 36,
+      "fat": 27,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Mutton Chettinad",
+    "ingredients": [
+      "500g mutton",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "2 tsp ginger garlic paste",
+      "1 tsp turmeric powder",
+      "1 tsp pepper powder",
+      "1 tsp fennel seeds",
+      "2 tsp Chettinad masala",
+      "Curry leaves",
+      "Oil and salt to taste"
+    ],
+    "instructions": [
+      "Dry roast and grind Chettinad spices if making fresh masala.",
+      "Heat oil, sauté onions and curry leaves.",
+      "Add ginger garlic paste and sauté until raw smell goes.",
+      "Add tomatoes and cook till soft.",
+      "Add turmeric, pepper, and Chettinad masala.",
+      "Add mutton and cook for a few minutes.",
+      "Add water, cover and cook until tender.",
+      "Serve hot with rice or dosa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_chettinad.jpg",
+    "category": "Non-Veg",
+    "prepTime": 30,
+    "cookTime": 50,
+    "servings": 4,
+    "nutrition": {
+      "calories": 460,
+      "protein": 38,
+      "fat": 30,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Mutton Sukka",
+    "ingredients": [
+      "500g mutton",
+      "2 onions, chopped",
+      "2 tsp ginger garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp coriander powder",
+      "Fresh grated coconut",
+      "Curry leaves",
+      "Oil and salt to taste"
+    ],
+    "instructions": [
+      "Cook mutton with turmeric and salt until tender.",
+      "Heat oil and sauté onions, curry leaves and ginger garlic paste.",
+      "Add chili powder and coriander powder.",
+      "Add cooked mutton and fry until dry.",
+      "Add grated coconut and sauté until roasted.",
+      "Serve hot as a dry side dish."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_sukka.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 40,
+    "servings": 4,
+    "nutrition": {
+      "calories": 400,
+      "protein": 34,
+      "fat": 26,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Mutton Kurma (Coconut-Based)",
+    "ingredients": [
+      "500g mutton",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "1/2 cup grated coconut",
+      "1 tbsp poppy seeds",
+      "2 tsp ginger garlic paste",
+      "1 tsp garam masala",
+      "Oil and salt to taste"
+    ],
+    "instructions": [
+      "Grind coconut and poppy seeds into a fine paste.",
+      "Heat oil and sauté onions and ginger garlic paste.",
+      "Add tomatoes and cook till mushy.",
+      "Add mutton and sauté for 5 minutes.",
+      "Add coconut paste and garam masala.",
+      "Add water and cook until mutton is tender.",
+      "Serve with parotta or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_kurma.jpg",
+    "category": "Non-Veg",
+    "prepTime": 30,
+    "cookTime": 50,
+    "servings": 4,
+    "nutrition": {
+      "calories": 450,
+      "protein": 36,
+      "fat": 29,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Nadan Mutton Curry (Kerala)",
+    "ingredients": [
+      "500g mutton",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "2 tsp ginger garlic paste",
+      "1/2 cup coconut milk",
+      "1 tsp garam masala",
+      "1 tsp black pepper",
+      "Curry leaves",
+      "Oil and salt to taste"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions and curry leaves.",
+      "Add ginger garlic paste and cook until fragrant.",
+      "Add tomatoes and cook till soft.",
+      "Add mutton, pepper and garam masala, sauté for few minutes.",
+      "Add water and cook till mutton is soft.",
+      "Add coconut milk and simmer for 5 minutes.",
+      "Serve with rice or appam."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "nadan_mutton_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 440,
+      "protein": 37,
+      "fat": 28,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Aatukal Kuzhambu (Goat Trotters Curry)",
+    "ingredients": [
+      "4 goat trotters (aatukal), cleaned",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "2 tsp ginger garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp chili powder",
+      "1 tsp coriander powder",
+      "Oil and salt to taste"
+    ],
+    "instructions": [
+      "Boil the goat trotters until soft and gelatinous.",
+      "Heat oil and sauté onions and ginger garlic paste.",
+      "Add tomatoes and cook till mushy.",
+      "Add spices and mix well.",
+      "Add the cooked trotters and simmer for 15-20 minutes.",
+      "Serve hot with rice or idli."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Hard",
+    "image": "aatukal_kuzhambu.jpg",
+    "category": "Non-Veg",
+    "prepTime": 30,
+    "cookTime": 60,
+    "servings": 4,
+    "nutrition": {
+      "calories": 480,
+      "protein": 32,
+      "fat": 35,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Mutton Stew (Kerala Style)",
+    "ingredients": [
+      "500g mutton",
+      "1 cup thin coconut milk",
+      "1/2 cup thick coconut milk",
+      "2 green chilies, slit",
+      "1 onion, sliced",
+      "1 tsp black pepper",
+      "Curry leaves",
+      "Cinnamon and cloves",
+      "Oil and salt to taste"
+    ],
+    "instructions": [
+      "Heat oil and sauté cinnamon, cloves, onions and curry leaves.",
+      "Add green chilies and mutton; sauté for a few minutes.",
+      "Add thin coconut milk and cook until meat is tender.",
+      "Add thick coconut milk and simmer briefly.",
+      "Finish with crushed black pepper.",
+      "Serve with appam or idiyappam."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_stew_kerala.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 40,
+    "servings": 4,
+    "nutrition": {
+      "calories": 430,
+      "protein": 35,
+      "fat": 27,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Mutton Chops Masala",
+    "ingredients": [
+      "500g mutton chops",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "2 tsp ginger garlic paste",
+      "1 tsp chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Oil and salt to taste"
+    ],
+    "instructions": [
+      "Pressure cook mutton chops with salt and turmeric.",
+      "Heat oil, sauté onions, ginger garlic paste.",
+      "Add tomatoes and cook until soft.",
+      "Add chili powder, garam masala and mix well.",
+      "Add chops and fry till masala coats well.",
+      "Serve hot with chapati or parotta."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_chops_masala.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 40,
+    "servings": 4,
+    "nutrition": {
+      "calories": 450,
+      "protein": 34,
+      "fat": 30,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Gongura Mutton",
+    "ingredients": [
+      "500g mutton",
+      "1 cup gongura (sorrel leaves)",
+      "2 onions, chopped",
+      "2 tsp ginger garlic paste",
+      "2 green chilies",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "Oil and salt to taste"
+    ],
+    "instructions": [
+      "Pressure cook mutton until tender.",
+      "Sauté onions, green chilies and ginger garlic paste.",
+      "Add cooked mutton and sauté with turmeric and chili powder.",
+      "Add chopped gongura and cook until leaves are soft and mixed.",
+      "Simmer until thick and oil separates.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "gongura_mutton.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 440,
+      "protein": 36,
+      "fat": 28,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Mutton Dalcha (Hyderabadi Influence)",
+    "ingredients": [
+      "500g mutton (bone-in)",
+      "1 cup toor dal",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "2 green chilies, slit",
+      "1 tbsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "1 tbsp tamarind pulp",
+      "Salt (to taste)",
+      "Coriander leaves for garnish",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Cook toor dal until soft and mash it.",
+      "Pressure cook mutton with turmeric and salt until tender.",
+      "In a pan, heat oil, sauté onions, green chilies, and ginger garlic paste.",
+      "Add tomatoes and cook until soft.",
+      "Add spices and mix well.",
+      "Add cooked dal and mutton, followed by tamarind pulp.",
+      "Simmer for 10 minutes and garnish with coriander leaves."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_dalcha.jpg",
+    "category": "Non-Veg",
+    "prepTime": 30,
+    "cookTime": 40,
+    "servings": 4,
+    "nutrition": {
+      "calories": 420,
+      "protein": 28,
+      "fat": 22,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Mutton Bone Gravy (Mutton Elumbu Curry)",
+    "ingredients": [
+      "500g mutton bones",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp black pepper powder",
+      "Salt (to taste)",
+      "Curry leaves",
+      "Coriander leaves",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Heat oil in a pressure cooker and sauté curry leaves and onions.",
+      "Add ginger garlic paste and cook until raw smell goes.",
+      "Add tomatoes and cook until soft.",
+      "Add spices and mutton bones, mix well.",
+      "Add water and pressure cook for 4-5 whistles.",
+      "Simmer the gravy until desired consistency is reached.",
+      "Garnish with coriander leaves and serve."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "mutton_elumbu_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 380,
+      "protein": 26,
+      "fat": 20,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Pepper Mutton Fry",
+    "ingredients": [
+      "500g mutton, boneless",
+      "2 onions, sliced",
+      "1 tbsp ginger garlic paste",
+      "1 tsp black pepper powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1 tsp fennel seeds",
+      "Salt (to taste)",
+      "Curry leaves",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Pressure cook mutton with turmeric and salt until tender.",
+      "Heat oil in a pan and add fennel seeds and curry leaves.",
+      "Add onions and sauté until golden brown.",
+      "Add ginger garlic paste and cook till raw smell goes.",
+      "Add cooked mutton and pepper powder.",
+      "Fry on medium flame until mutton is roasted and dry.",
+      "Sprinkle garam masala and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "pepper_mutton_fry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 450,
+      "protein": 30,
+      "fat": 25,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Mutton Paya (Leg Soup Curry Style)",
+    "ingredients": [
+      "4 goat legs (paya), cleaned",
+      "2 onions, sliced",
+      "1 tbsp ginger garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt (to taste)",
+      "Coriander leaves",
+      "Oil (for cooking)",
+      "Water (as needed)"
+    ],
+    "instructions": [
+      "Pressure cook goat legs with turmeric and salt for 5-6 whistles.",
+      "In another pan, heat oil and sauté onions until golden.",
+      "Add ginger garlic paste, chili powder, and cook until fragrant.",
+      "Add the cooked paya with broth and simmer for 20 minutes.",
+      "Add garam masala and garnish with coriander leaves.",
+      "Serve hot with rice or idli."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mutton_paya.jpg",
+    "category": "Non-Veg",
+    "prepTime": 30,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 380,
+      "protein": 20,
+      "fat": 28,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Mutton Keema Curry (Minced Meat)",
+    "ingredients": [
+      "500g minced mutton (keema)",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Salt (to taste)",
+      "Green peas (optional)",
+      "Oil (for cooking)",
+      "Coriander leaves"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions until golden brown.",
+      "Add ginger garlic paste and cook till raw smell disappears.",
+      "Add tomatoes and cook until soft.",
+      "Add turmeric, chili powder, and mix well.",
+      "Add minced mutton and cook for 20–25 minutes until done.",
+      "Add garam masala and garnish with coriander leaves.",
+      "Serve with roti or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "mutton_keema_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 400,
+      "protein": 28,
+      "fat": 22,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Meen Kuzhambu (Tamil Nadu Tamarind Curry)",
+    "ingredients": [
+      "500g fish (seer or king fish)",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp tamarind paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp fenugreek seeds",
+      "1 sprig curry leaves",
+      "Salt (to taste)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Soak tamarind in warm water and extract juice.",
+      "Heat oil and add fenugreek seeds and curry leaves.",
+      "Add onions, sauté till golden, then add tomatoes and cook till soft.",
+      "Add chili, turmeric, and coriander powders. Mix well.",
+      "Add tamarind extract and bring to a boil.",
+      "Add fish pieces and simmer for 10–15 minutes till cooked.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "meen_kuzhambu.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 28,
+      "fat": 18,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Kerala Fish Curry with Kokum",
+    "ingredients": [
+      "500g fish (seer or pomfret)",
+      "3-4 kokum pieces",
+      "2 onions, sliced",
+      "1 tbsp ginger garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "Salt (to taste)",
+      "Curry leaves",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Soak kokum in warm water.",
+      "Heat oil, add curry leaves and onions, sauté till translucent.",
+      "Add ginger garlic paste, turmeric, chili powder and sauté.",
+      "Add kokum water and bring to boil.",
+      "Add fish and simmer until cooked through.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "kerala_fish_kokum.jpg",
+    "category": "Non-Veg",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 300,
+      "protein": 26,
+      "fat": 16,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Malabar Fish Curry (Coconut + Kudampuli)",
+    "ingredients": [
+      "500g fish (pomfret or seer)",
+      "1/2 cup grated coconut",
+      "2-3 kudampuli (gambooge)",
+      "2 green chilies, slit",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp mustard seeds",
+      "Curry leaves",
+      "Salt (to taste)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Soak kudampuli in water.",
+      "Grind coconut with turmeric and chili powder to a smooth paste.",
+      "Heat oil, splutter mustard seeds and add curry leaves.",
+      "Add the ground paste, kudampuli, green chilies, and salt.",
+      "Add water and bring to a boil.",
+      "Add fish and cook for 10–12 minutes.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "malabar_fish_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 350,
+      "protein": 27,
+      "fat": 20,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Andhra Chepala Pulusu (Tangy Tamarind Fish Curry)",
+    "ingredients": [
+      "500g fish (rohu or catla)",
+      "1 cup tamarind pulp",
+      "2 onions, chopped",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "Salt (to taste)",
+      "Curry leaves",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions and curry leaves.",
+      "Add chili, turmeric, and coriander powders. Mix well.",
+      "Add tamarind pulp and cook for 5 minutes.",
+      "Add fish and cook covered for 10–15 minutes.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "chepala_pulusu.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 29,
+      "fat": 17,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Mangalore Fish Curry",
+    "ingredients": [
+      "500g fish (pomfret or mackerel)",
+      "1/2 cup grated coconut",
+      "1 tbsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp mustard seeds",
+      "1 small ball tamarind",
+      "Salt (to taste)",
+      "Curry leaves",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Grind coconut with chili powder, turmeric, and tamarind into a paste.",
+      "Heat oil, splutter mustard seeds and add curry leaves.",
+      "Add ground masala and water. Bring to a boil.",
+      "Add fish and simmer until done.",
+      "Serve with rice or neer dosa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "mangalore_fish_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 28,
+      "fat": 18,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Fish Moilee (Light Coconut Gravy)",
+    "ingredients": [
+      "500g fish (seer or king fish)",
+      "1 cup thin coconut milk",
+      "1/2 cup thick coconut milk",
+      "2 green chilies, slit",
+      "1 onion, sliced",
+      "1/2 tsp turmeric powder",
+      "1 tsp black pepper powder",
+      "Salt (to taste)",
+      "Curry leaves",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Heat oil, sauté curry leaves, onions, and green chilies.",
+      "Add turmeric and pepper powder, mix well.",
+      "Add thin coconut milk and bring to a simmer.",
+      "Add fish pieces and cook till done.",
+      "Stir in thick coconut milk and turn off heat.",
+      "Serve hot with appam or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "fish_moilee.jpg",
+    "category": "Non-Veg",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 27,
+      "fat": 15,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Ayala Meen Curry (Mackerel Kerala Style)",
+    "ingredients": [
+      "500g mackerel (ayala), cleaned",
+      "2 onions, sliced",
+      "1 tbsp ginger garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp fenugreek seeds",
+      "1 tbsp tamarind pulp",
+      "Curry leaves",
+      "Salt (to taste)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Heat oil, add fenugreek seeds and curry leaves.",
+      "Add onions and sauté till soft.",
+      "Add ginger garlic paste and spices. Cook well.",
+      "Add tamarind pulp and water. Bring to a boil.",
+      "Add fish and simmer for 15 minutes.",
+      "Serve with steamed rice or kappa."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "ayala_meen_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 26,
+      "fat": 19,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Fish Mango Curry (Raw Mango Kerala)",
+    "ingredients": [
+      "500g fish (pomfret or seer)",
+      "1 raw mango, sliced",
+      "1/2 cup grated coconut",
+      "1 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "2 green chilies",
+      "Salt (to taste)",
+      "Curry leaves",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Grind coconut, turmeric, and green chilies into a paste.",
+      "Heat oil, add mustard seeds and curry leaves.",
+      "Add mango pieces, salt, and a bit of water. Simmer till soft.",
+      "Add coconut paste and cook briefly.",
+      "Add fish and cook until done.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "fish_mango_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 25,
+      "fat": 18,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Fish Kurma (Coconut & Cashew Based)",
+    "ingredients": [
+      "500g fish (any boneless variety)",
+      "1/2 cup grated coconut",
+      "10 cashew nuts",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "Oil (for cooking)",
+      "Coriander leaves"
+    ],
+    "instructions": [
+      "Grind coconut and cashews into a fine paste.",
+      "Heat oil, sauté onion and tomato until soft.",
+      "Add turmeric and garam masala. Mix well.",
+      "Add ground paste and cook till oil separates.",
+      "Add fish and simmer for 10–12 minutes.",
+      "Garnish with coriander and serve."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "fish_kurma.jpg",
+    "category": "Non-Veg",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 360,
+      "protein": 26,
+      "fat": 21,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Sardine Curry (Kerala Style)",
+    "ingredients": [
+      "500g sardines, cleaned",
+      "1/2 cup grated coconut",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp fenugreek seeds",
+      "1 tbsp tamarind pulp",
+      "Salt (to taste)",
+      "Curry leaves",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Grind coconut with chili and turmeric powder to a paste.",
+      "Heat oil, add fenugreek seeds and curry leaves.",
+      "Add coconut paste, tamarind, salt and bring to boil.",
+      "Add sardines and cook for 10–12 minutes.",
+      "Serve hot with kappa or rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "sardine_curry.jpg",
+    "category": "Non-Veg",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 24,
+      "fat": 17,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Tilapia Curry with Tamarind",
+    "ingredients": [
+      "4 tilapia fillets",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1/2 tsp fenugreek seeds",
+      "1 sprig curry leaves",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "2 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "Tamarind pulp (small lemon size ball)",
+      "Salt to taste",
+      "Water as needed",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Soak tamarind in warm water and extract pulp.",
+      "Heat oil in a pan, add mustard and fenugreek seeds. Let them splutter.",
+      "Add curry leaves, chopped onion, and sauté till golden.",
+      "Add tomatoes and cook till soft.",
+      "Add chili, turmeric, coriander powder, and cook till oil separates.",
+      "Add tamarind pulp, water, salt, and bring to a boil.",
+      "Add tilapia fillets and cook till fish is done.",
+      "Garnish with fresh coriander and serve hot with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "tilapia_curry_tamarind.jpg",
+    "category": "Non-Veg (Fish)",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 260,
+      "protein": 28,
+      "fat": 12,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Seer Fish Curry (Vanjaram Meen Kuzhambu)",
+    "ingredients": [
+      "500g seer fish slices",
+      "2 tbsp sesame oil",
+      "1 tsp mustard seeds",
+      "1/2 tsp fenugreek seeds",
+      "1 sprig curry leaves",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "2 tsp chili powder",
+      "1 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "Tamarind extract from lemon-sized ball",
+      "Salt to taste",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Heat oil in a clay pot, add mustard and fenugreek seeds.",
+      "Add curry leaves and sliced onions, sauté till translucent.",
+      "Add chopped tomatoes and cook till soft.",
+      "Mix in chili, turmeric, and coriander powders.",
+      "Add tamarind extract, salt, and bring to a boil.",
+      "Gently add fish slices and simmer until cooked.",
+      "Let the curry rest for 1 hour before serving with rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "seer_fish_curry.jpg",
+    "category": "Non-Veg (Fish)",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 34,
+      "fat": 18,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Pomfret Curry (Coastal Style)",
+    "ingredients": [
+      "3 pomfrets, cleaned and sliced",
+      "2 tbsp coconut oil",
+      "1 tsp mustard seeds",
+      "1 sprig curry leaves",
+      "2 onions, finely chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "1 tbsp red chili powder",
+      "1 tbsp coriander powder",
+      "1 cup coconut milk",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds and curry leaves.",
+      "Add onions and sauté till golden brown.",
+      "Add tomato and cook till mushy.",
+      "Add ginger-garlic paste and spices. Sauté well.",
+      "Add a little water and bring to boil.",
+      "Add pomfret slices and cook for 5-6 mins.",
+      "Pour in coconut milk and simmer for another 5 mins.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "pomfret_curry.jpg",
+    "category": "Non-Veg (Fish)",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 3,
+    "nutrition": {
+      "calories": 300,
+      "protein": 30,
+      "fat": 15,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Dry Fish Curry (Karuvadu Kuzhambu)",
+    "ingredients": [
+      "150g dry fish (karuvadu), soaked",
+      "2 tbsp sesame oil",
+      "1 tsp mustard seeds",
+      "1 sprig curry leaves",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "Tamarind extract (small ball)",
+      "Salt to taste",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Soak dry fish in water for 30 minutes and clean well.",
+      "Heat oil, splutter mustard seeds and curry leaves.",
+      "Add onions and sauté till soft.",
+      "Add tomatoes, cook till mushy.",
+      "Add all spice powders and sauté well.",
+      "Add tamarind extract and bring to a boil.",
+      "Add soaked dry fish and simmer for 15-20 minutes.",
+      "Serve hot with rice or idli."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "dry_fish_curry.jpg",
+    "category": "Non-Veg (Fish)",
+    "prepTime": 30,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 280,
+      "protein": 25,
+      "fat": 14,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Spicy Fish Fry Curry (Fry with thick gravy)",
+    "ingredients": [
+      "500g fish (any variety), cut into slices",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 sprig curry leaves",
+      "1 onion, finely chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "2 tsp chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "Water as needed",
+      "Fresh coriander leaves"
+    ],
+    "instructions": [
+      "Fry fish slices with salt, turmeric, and chili powder. Set aside.",
+      "Heat oil in another pan, add mustard seeds and curry leaves.",
+      "Add onion and sauté till brown. Add tomatoes and cook till soft.",
+      "Add ginger-garlic paste, spices, and cook till oil separates.",
+      "Add a little water to make thick gravy.",
+      "Add fried fish to the gravy and simmer for 5 minutes.",
+      "Garnish with coriander and serve hot with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "spicy_fish_fry_curry.jpg",
+    "category": "Non-Veg (Fish)",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 350,
+      "protein": 32,
+      "fat": 18,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Andhra Royyala Iguru (Dry Prawn Curry)",
+    "ingredients": [
+      "500g prawns, cleaned and deveined",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 sprig curry leaves",
+      "2 onions, finely chopped",
+      "2 tomatoes, chopped",
+      "1 tsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "Salt to taste",
+      "Fresh coriander leaves"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add mustard seeds and curry leaves.",
+      "Add chopped onions and sauté till golden.",
+      "Add tomatoes and cook till soft.",
+      "Mix in ginger-garlic paste and sauté till raw smell goes.",
+      "Add turmeric, red chili, and coriander powder. Mix well.",
+      "Add prawns, salt, and cook on medium heat till dry and cooked through.",
+      "Garnish with coriander leaves and serve hot."
+    ],
+    "cuisine": "Andhra",
+    "difficulty": "Medium",
+    "image": "andhra_royyala_iguru.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 28,
+      "fat": 16,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Kerala Chemmeen Curry (Spicy Coconut Gravy)",
+    "ingredients": [
+      "500g prawns, cleaned",
+      "2 tbsp coconut oil",
+      "1 tsp mustard seeds",
+      "1 sprig curry leaves",
+      "1 onion, sliced",
+      "2 green chilies, slit",
+      "1 tsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 cup grated coconut",
+      "1 tsp tamarind paste",
+      "Salt to taste",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Grind grated coconut with some water into a paste.",
+      "Heat oil in a pan and add mustard seeds and curry leaves.",
+      "Sauté onions, green chilies, and ginger-garlic paste till soft.",
+      "Add chili powder and turmeric, cook for a minute.",
+      "Add coconut paste, tamarind, salt, and enough water to make gravy.",
+      "Bring to a boil, add prawns, and simmer till cooked.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "kerala_chemmeen_curry.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 26,
+      "fat": 20,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Malabar Prawn Masala",
+    "ingredients": [
+      "500g prawns, cleaned",
+      "2 tbsp coconut oil",
+      "1 onion, finely chopped",
+      "2 tomatoes, chopped",
+      "1 tsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1 cup thick coconut milk",
+      "Salt to taste",
+      "Fresh coriander leaves"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions till golden brown.",
+      "Add ginger-garlic paste and sauté till fragrant.",
+      "Add tomatoes and cook till mushy.",
+      "Add spices and cook till oil separates.",
+      "Add prawns and mix well.",
+      "Pour in coconut milk and simmer till prawns are cooked.",
+      "Garnish with coriander and serve hot."
+    ],
+    "cuisine": "Malabar",
+    "difficulty": "Medium",
+    "image": "malabar_prawn_masala.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 360,
+      "protein": 27,
+      "fat": 22,
+      "carbs": 11
+    }
+  },
+  {
+    "title": "Prawn Thokku",
+    "ingredients": [
+      "500g prawns, cleaned",
+      "2 tbsp oil",
+      "1 tsp fennel seeds",
+      "2 onions, sliced",
+      "2 tomatoes, pureed",
+      "1 tsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "Fresh curry leaves"
+    ],
+    "instructions": [
+      "Heat oil and add fennel seeds.",
+      "Add onions and sauté till golden.",
+      "Add ginger-garlic paste and cook till raw smell disappears.",
+      "Mix in tomato puree and spices. Cook till oil separates.",
+      "Add prawns and cook till done.",
+      "Add curry leaves and simmer for a minute.",
+      "Serve hot with rice or roti."
+    ],
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Medium",
+    "image": "prawn_thokku.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 28,
+      "fat": 15,
+      "carbs": 13
+    }
+  },
+  {
+    "title": "Prawn Kurma (Coconut Style)",
+    "ingredients": [
+      "500g prawns, cleaned",
+      "2 tbsp oil",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 cup coconut paste",
+      "2 green chilies, slit",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "Fresh coriander leaves"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions till soft.",
+      "Add ginger-garlic paste and sauté till raw smell fades.",
+      "Add tomatoes and cook till mushy.",
+      "Add turmeric, garam masala, green chilies, and mix well.",
+      "Add coconut paste and cook for 5 minutes.",
+      "Add prawns and salt, cook until prawns are tender.",
+      "Garnish with coriander and serve."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "prawn_kurma.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 26,
+      "fat": 18,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Gongura Prawns",
+    "ingredients": [
+      "500g prawns, cleaned",
+      "1 cup gongura (sorrel) leaves",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "2 onions, chopped",
+      "1 tsp ginger-garlic paste",
+      "2 green chilies, chopped",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Boil gongura leaves with little water and mash to a paste.",
+      "Heat oil, add mustard seeds, and let them splutter.",
+      "Add onions, green chilies, and ginger-garlic paste. Sauté well.",
+      "Add turmeric and red chili powder. Mix well.",
+      "Add prawns and cook for a few minutes.",
+      "Add gongura paste and salt. Cook till prawns are done.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Andhra",
+    "difficulty": "Medium",
+    "image": "gongura_prawns.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 25,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 315,
+      "protein": 27,
+      "fat": 16,
+      "carbs": 11
+    }
+  },
+  {
+    "title": "Prawns Pepper Masala",
+    "ingredients": [
+      "500g prawns, cleaned",
+      "2 tbsp oil",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "1 tsp black pepper powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "Fresh curry leaves"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions till brown.",
+      "Add ginger-garlic paste and cook till raw smell goes.",
+      "Add tomatoes, turmeric, and cook till mushy.",
+      "Add pepper powder, garam masala, and mix well.",
+      "Add prawns, salt, and curry leaves. Cook until done.",
+      "Simmer for a few minutes till masala thickens.",
+      "Serve hot with rice or chapati."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "prawns_pepper_masala.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 325,
+      "protein": 29,
+      "fat": 17,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Mangalore Prawn Gassi",
+    "ingredients": [
+      "500g prawns, cleaned",
+      "2 tbsp coconut oil",
+      "1 cup grated coconut",
+      "1 tsp cumin seeds",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "Salt to taste",
+      "Tamarind pulp as needed"
+    ],
+    "instructions": [
+      "Grind coconut with cumin, chili, and turmeric to a fine paste.",
+      "Heat oil, sauté onions and ginger-garlic paste.",
+      "Add tomatoes and cook till soft.",
+      "Add the ground masala, tamarind pulp, and salt.",
+      "Add prawns and cook till done.",
+      "Serve hot with rice or neer dosa."
+    ],
+    "cuisine": "Mangalorean",
+    "difficulty": "Medium",
+    "image": "mangalore_prawn_gassi.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 25,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 355,
+      "protein": 28,
+      "fat": 20,
+      "carbs": 13
+    }
+  },
+  {
+    "title": "Prawns Stew (Light Coconut Curry)",
+    "ingredients": [
+      "500g prawns, cleaned",
+      "2 tbsp coconut oil",
+      "1 onion, sliced",
+      "2 green chilies, slit",
+      "1 tsp ginger paste",
+      "1/2 tsp turmeric powder",
+      "1 cup thin coconut milk",
+      "1/2 cup thick coconut milk",
+      "Salt to taste",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions, green chilies, ginger paste, and curry leaves.",
+      "Add turmeric and thin coconut milk.",
+      "Bring to a boil, then add prawns and salt.",
+      "Simmer till prawns are cooked.",
+      "Add thick coconut milk and heat gently without boiling.",
+      "Serve warm with appam or rice."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "prawns_stew.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 26,
+      "fat": 18,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Nellore Royyala Pulusu (Tangy Prawn Curry)",
+    "ingredients": [
+      "500g prawns, cleaned",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 sprig curry leaves",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "Tamarind pulp to taste",
+      "Salt to taste",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Heat oil, add mustard seeds and curry leaves.",
+      "Sauté onions and ginger-garlic paste till golden.",
+      "Add tomatoes and cook till soft.",
+      "Add spices and sauté till oil separates.",
+      "Add tamarind pulp and water to make curry.",
+      "Add prawns and cook till done.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Andhra",
+    "difficulty": "Medium",
+    "image": "nellore_royyala_pulusu.jpg",
+    "category": "Non-Veg (Seafood)",
+    "prepTime": 25,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 28,
+      "fat": 17,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Nandu Masala (Tamil Nadu Style)",
+    "ingredients": [
+      "500g crab (cleaned and cut)",
+      "2 onions, finely chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp fennel seeds",
+      "1 tsp garam masala",
+      "2 tbsp coriander powder",
+      "Curry leaves",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add fennel seeds and curry leaves.",
+      "Sauté onions until golden brown.",
+      "Add ginger-garlic paste and cook until the raw smell goes.",
+      "Add tomatoes and cook till soft.",
+      "Mix in turmeric, chili powder, coriander powder, and salt.",
+      "Add crab pieces and cook covered for 10 minutes.",
+      "Sprinkle garam masala and stir well.",
+      "Cook until the masala thickens and crab is done.",
+      "Garnish with fresh coriander and serve hot."
+    ],
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Medium",
+    "image": "nandu_masala.jpg",
+    "category": "Non-Veg (Crab)",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 290,
+      "protein": 26,
+      "fat": 18,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Nandu Kuzhambu (Spicy Crab Curry with Tamarind)",
+    "ingredients": [
+      "500g crab (cleaned)",
+      "1 cup tamarind extract",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp mustard seeds",
+      "1/2 tsp fenugreek seeds",
+      "2 tbsp coconut paste",
+      "Curry leaves",
+      "Salt to taste",
+      "2 tbsp sesame oil"
+    ],
+    "instructions": [
+      "Heat oil and add mustard, cumin, and fenugreek seeds.",
+      "Add curry leaves and sliced onions, sauté until translucent.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomatoes, turmeric, and chili powder. Cook till tomatoes soften.",
+      "Pour in tamarind extract and bring to a boil.",
+      "Add crab and salt, simmer for 10 minutes.",
+      "Stir in coconut paste and cook until thick.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Medium",
+    "image": "nandu_kuzhambu.jpg",
+    "category": "Non-Veg (Crab)",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 27,
+      "fat": 20,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Crab Coconut Curry (Kerala)",
+    "ingredients": [
+      "500g crab, cleaned",
+      "1 cup grated coconut",
+      "2 green chilies, slit",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp garam masala",
+      "1 tsp mustard seeds",
+      "Curry leaves",
+      "Salt to taste",
+      "2 tbsp coconut oil"
+    ],
+    "instructions": [
+      "Grind coconut with a little water to a smooth paste.",
+      "Heat oil, splutter mustard seeds and curry leaves.",
+      "Add onions and sauté till golden.",
+      "Add ginger-garlic paste, green chilies, and tomatoes.",
+      "Cook with turmeric, chili powder, and salt till tomatoes soften.",
+      "Add crab and cook for 10 minutes.",
+      "Stir in ground coconut paste and cook for another 10 minutes.",
+      "Finish with garam masala and serve hot."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Medium",
+    "image": "crab_coconut_curry.jpg",
+    "category": "Non-Veg (Crab)",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 28,
+      "fat": 22,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Mangalore Crab Gassi",
+    "ingredients": [
+      "500g crab, cleaned",
+      "1 cup grated coconut",
+      "1 onion, chopped",
+      "2 dried red chilies",
+      "1 tsp coriander seeds",
+      "1/2 tsp cumin seeds",
+      "1 tsp turmeric powder",
+      "1 tbsp tamarind paste",
+      "2 garlic cloves",
+      "Salt to taste",
+      "2 tbsp coconut oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Roast red chilies, coriander, cumin, and garlic; grind with coconut and tamarind.",
+      "Heat oil and sauté onions until soft.",
+      "Add curry leaves and the ground masala. Cook for 5 minutes.",
+      "Add crab, salt, and a little water.",
+      "Cover and cook for 15–20 minutes until crab is done.",
+      "Serve hot with rice or neer dosa."
+    ],
+    "cuisine": "Mangalorean",
+    "difficulty": "Medium",
+    "image": "mangalore_crab_gassi.jpg",
+    "category": "Non-Veg (Crab)",
+    "prepTime": 30,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 360,
+      "protein": 29,
+      "fat": 23,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Crab Pepper Masala",
+    "ingredients": [
+      "500g crab, cleaned and cut",
+      "2 onions, sliced",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp black pepper powder",
+      "1 tsp cumin powder",
+      "1 tsp garam masala",
+      "Curry leaves",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions with curry leaves until golden.",
+      "Add ginger-garlic paste and cook till raw smell leaves.",
+      "Add turmeric, pepper powder, cumin, and salt.",
+      "Add crab and cook covered for 10–12 minutes.",
+      "Sprinkle garam masala and cook till masala thickens.",
+      "Garnish with coriander and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "crab_pepper_masala.jpg",
+    "category": "Non-Veg (Crab)",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 300,
+      "protein": 27,
+      "fat": 19,
+      "carbs": 7
+    }
+  },
+  {
+    "title": "Duck Curry (Kuttanadan Style – Kerala)",
+    "ingredients": [
+      "1 kg duck, cleaned and cut",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 cup coconut milk",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "1 tsp garam masala",
+      "1 tsp fennel seeds",
+      "Curry leaves",
+      "Salt to taste",
+      "3 tbsp coconut oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté fennel seeds and curry leaves.",
+      "Add onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook until raw smell disappears.",
+      "Add tomatoes and cook till soft.",
+      "Mix in chili powder, turmeric, coriander powder, and salt.",
+      "Add duck pieces and cook for 10 minutes.",
+      "Pour in coconut milk, cover and simmer until duck is tender.",
+      "Finish with garam masala and serve hot with rice or appam."
+    ],
+    "cuisine": "Kerala",
+    "difficulty": "Hard",
+    "image": "duck_curry_kuttanadan.jpg",
+    "category": "Non-Veg (Duck)",
+    "prepTime": 30,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 480,
+      "protein": 35,
+      "fat": 32,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Rabbit Curry (Coorg Style)",
+    "ingredients": [
+      "1 kg rabbit meat, cleaned and cut",
+      "2 onions, finely chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tbsp Coorg masala or garam masala",
+      "1 tbsp vinegar",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Marinate rabbit with turmeric, chili powder, and vinegar for 30 mins.",
+      "Heat oil, sauté curry leaves and onions until golden.",
+      "Add ginger-garlic paste and cook till raw smell goes.",
+      "Add tomatoes and cook till soft.",
+      "Add marinated rabbit, salt, and cook on low flame.",
+      "Add water as needed and cook until tender.",
+      "Finish with Coorg masala and simmer for a few minutes.",
+      "Serve hot with rice or roti."
+    ],
+    "cuisine": "Coorg",
+    "difficulty": "Hard",
+    "image": "rabbit_curry_coorg.jpg",
+    "category": "Non-Veg (Rabbit)",
+    "prepTime": 30,
+    "cookTime": 40,
+    "servings": 4,
+    "nutrition": {
+      "calories": 420,
+      "protein": 38,
+      "fat": 25,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Quail Masala (Kaadai Kuzhambu)",
+    "ingredients": [
+      "500g quail (kaadai), cleaned and cut",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions with curry leaves.",
+      "Add ginger-garlic paste and cook until fragrant.",
+      "Add tomatoes, turmeric, chili powder, coriander powder, and salt.",
+      "Cook till tomatoes turn mushy.",
+      "Add quail pieces and cook on low heat till done.",
+      "Add garam masala and mix well.",
+      "Cook until masala thickens.",
+      "Serve hot with rice or idli."
+    ],
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Medium",
+    "image": "quail_masala.jpg",
+    "category": "Non-Veg (Quail)",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 350,
+      "protein": 30,
+      "fat": 22,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Brain Curry (Moolai Masala)",
+    "ingredients": [
+      "3 goat brains, cleaned",
+      "2 onions, finely chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp black pepper powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Boil brains for 2-3 minutes, remove and set aside.",
+      "Heat oil and sauté onions till golden.",
+      "Add ginger-garlic paste, tomatoes, turmeric, chili, and pepper powder.",
+      "Cook until tomatoes soften.",
+      "Add brains, break gently and mix with the masala.",
+      "Add salt and garam masala, cook for 5–7 minutes.",
+      "Garnish with coriander leaves and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "brain_curry.jpg",
+    "category": "Non-Veg (Goat Brain)",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 3,
+    "nutrition": {
+      "calories": 310,
+      "protein": 20,
+      "fat": 24,
+      "carbs": 5
+    }
+  },
+  {
+    "title": "Liver Masala (Eeral Kuzhambu)",
+    "ingredients": [
+      "500g goat liver, cut into pieces",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions and curry leaves until golden.",
+      "Add ginger-garlic paste and sauté well.",
+      "Add tomatoes, turmeric, chili, and coriander powder.",
+      "Cook till tomatoes soften.",
+      "Add liver pieces and mix well.",
+      "Add salt and cook covered for 10–15 minutes.",
+      "Sprinkle garam masala and cook until thick.",
+      "Serve with rice or chapati."
+    ],
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Easy",
+    "image": "liver_masala.jpg",
+    "category": "Non-Veg (Liver)",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 29,
+      "fat": 20,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Bone Marrow Curry (Elumbu Curry)",
+    "ingredients": [
+      "500g goat bones with marrow",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions and curry leaves.",
+      "Add ginger-garlic paste and cook till fragrant.",
+      "Add tomatoes, turmeric, chili powder, and coriander powder.",
+      "Cook till tomatoes are soft.",
+      "Add bone pieces and salt. Add water and cook covered for 30 minutes.",
+      "Sprinkle garam masala and cook till curry thickens.",
+      "Garnish with coriander and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "image": "bone_marrow_curry.jpg",
+    "category": "Non-Veg (Bone Marrow)",
+    "prepTime": 25,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 400,
+      "protein": 32,
+      "fat": 28,
+      "carbs": 7
+    }
+  },
+  {
+    "title": "Spleen Curry (Suda Kudal Kuzhambu)",
+    "ingredients": [
+      "250g goat spleen, chopped",
+      "2 onions, chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "1 tsp fennel powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat oil and add curry leaves and onions. Sauté till soft.",
+      "Add ginger-garlic paste and cook till raw smell leaves.",
+      "Add tomatoes and all spice powders. Cook till oil separates.",
+      "Add spleen pieces and salt. Cook covered for 15 minutes.",
+      "Cook till masala thickens and meat is tender.",
+      "Serve hot with steamed rice or dosa."
+    ],
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Medium",
+    "image": "spleen_curry.jpg",
+    "category": "Non-Veg (Spleen)",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 3,
+    "nutrition": {
+      "calories": 280,
+      "protein": 24,
+      "fat": 18,
+      "carbs": 5
+    }
+  },
+  {
+    "title": "Intestine Curry (Andhra Style)",
+    "ingredients": [
+      "500g goat intestine, cleaned and chopped",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp chili powder",
+      "1 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Boil intestine with turmeric and salt. Drain and keep aside.",
+      "Heat oil, sauté onions and curry leaves.",
+      "Add ginger-garlic paste and sauté till raw smell leaves.",
+      "Add tomatoes, chili, turmeric, coriander powder, and salt.",
+      "Add intestines and mix well.",
+      "Cook on low flame for 15 minutes until dry.",
+      "Sprinkle garam masala and serve hot."
+    ],
+    "cuisine": "Andhra",
+    "difficulty": "Medium",
+    "image": "intestine_curry_andhra.jpg",
+    "category": "Non-Veg (Intestine)",
+    "prepTime": 30,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 27,
+      "fat": 21,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Chicken Liver Fry Curry",
+    "ingredients": [
+      "500g chicken liver, cleaned",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp black pepper powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Heat oil, sauté onions until golden.",
+      "Add ginger-garlic paste, tomato, and spices.",
+      "Cook till tomato softens.",
+      "Add liver and salt, cook for 10–12 minutes.",
+      "Add pepper and fry until dry.",
+      "Garnish with coriander and serve hot."
+    ],
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "image": "chicken_liver_fry.jpg",
+    "category": "Non-Veg (Chicken Liver)",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 26,
+      "fat": 20,
+      "carbs": 5
+    }
+  },
+  {
+    "title": "Mutton Intestine Curry (Kudal Kuzhambu)",
+    "ingredients": [
+      "500g mutton intestine (kudal), cleaned",
+      "2 onions, sliced",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp chili powder",
+      "1 tsp turmeric powder",
+      "1 tbsp coriander powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Boil cleaned intestine with turmeric and salt. Drain and keep aside.",
+      "Heat oil, sauté onions and curry leaves.",
+      "Add ginger-garlic paste, tomatoes, and spices.",
+      "Add intestines and salt. Mix well.",
+      "Cook covered for 15–20 minutes until tender.",
+      "Sprinkle garam masala and serve with rice."
+    ],
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Medium",
+    "image": "mutton_intestine_curry.jpg",
+    "category": "Non-Veg (Intestine)",
+    "prepTime": 30,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 29,
+      "fat": 22,
+      "carbs": 6
+    }
+  }
+]

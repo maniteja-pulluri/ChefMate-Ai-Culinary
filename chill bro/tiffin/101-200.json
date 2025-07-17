@@ -1,0 +1,3138 @@
+[
+  {
+    "title": "Aloo Paratha",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "2 boiled potatoes (mashed)",
+      "1 tsp cumin seeds",
+      "1 tsp garam masala",
+      "1 tsp chili powder",
+      "Salt (to taste)",
+      "Ghee or oil for roasting"
+    ],
+    "instructions": [
+      "Prepare dough using wheat flour and water, knead and rest it.",
+      "Mix mashed potatoes with spices to make filling.",
+      "Roll dough into discs, stuff with filling, seal and flatten again.",
+      "Cook on tawa with ghee or oil till golden brown on both sides."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "aloo_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 5,
+      "fat": 6,
+      "carbs": 45
+    }
+  },
+  {
+    "title": "Methi Paratha",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 cup fresh methi leaves (chopped)",
+      "1 tsp ajwain seeds",
+      "1 tsp turmeric",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Ghee or oil for roasting"
+    ],
+    "instructions": [
+      "Mix all ingredients and knead into soft dough.",
+      "Roll into parathas and roast on tawa with ghee or oil until golden brown."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "methi_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 220,
+      "protein": 4,
+      "fat": 5,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Paneer Paratha",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 cup grated paneer",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "Salt (to taste)",
+      "Green chili (chopped)",
+      "Ghee or oil for roasting"
+    ],
+    "instructions": [
+      "Make soft dough with wheat flour and water.",
+      "Mix paneer with spices to prepare filling.",
+      "Roll, stuff, seal and flatten the dough, cook on tawa with ghee or oil."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "paneer_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 270,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Gobhi Paratha",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 cup grated cauliflower",
+      "1 tsp ginger paste",
+      "1 tsp green chili (chopped)",
+      "Salt (to taste)",
+      "Coriander leaves (chopped)",
+      "Ghee or oil for roasting"
+    ],
+    "instructions": [
+      "Prepare dough with wheat flour and water.",
+      "Mix grated gobhi with spices.",
+      "Stuff the filling, roll into parathas and roast with ghee."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "gobhi_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 240,
+      "protein": 6,
+      "fat": 5,
+      "carbs": 42
+    }
+  },
+  {
+    "title": "Chana Paratha",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 cup boiled chana (mashed)",
+      "1 tsp cumin powder",
+      "Salt (to taste)",
+      "Chopped coriander",
+      "Green chili (optional)",
+      "Ghee or oil for roasting"
+    ],
+    "instructions": [
+      "Make dough using flour and water.",
+      "Mix chana with spices and prepare filling.",
+      "Stuff and roll the parathas, roast until golden brown."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "chana_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 25,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 260,
+      "protein": 9,
+      "fat": 6,
+      "carbs": 42
+    }
+  },
+  {
+    "title": "Vegetable Paratha",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 cup mixed vegetables (boiled and mashed)",
+      "1 tsp garam masala",
+      "Salt (to taste)",
+      "Coriander leaves",
+      "Ghee or oil for roasting"
+    ],
+    "instructions": [
+      "Knead dough using flour and water.",
+      "Mix mashed veggies with spices.",
+      "Stuff and roll parathas, roast on tawa until crisp."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "vegetable_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 25,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 5,
+      "fat": 6,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Mixed Veg Chilla",
+    "ingredients": [
+      "1 cup besan (gram flour)",
+      "1/2 cup chopped mixed vegetables",
+      "Salt (to taste)",
+      "1/2 tsp turmeric",
+      "1/2 tsp chili powder",
+      "Water (as needed)",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Mix besan with water and spices to form a batter.",
+      "Add chopped vegetables.",
+      "Pour on tawa and cook on both sides till golden."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "mixed_veg_chilla.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 180,
+      "protein": 6,
+      "fat": 4,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Moong Dal Chilla",
+    "ingredients": [
+      "1 cup moong dal (soaked)",
+      "1 green chili",
+      "1 inch ginger",
+      "Salt (to taste)",
+      "Chopped coriander",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Grind soaked moong dal with chili and ginger.",
+      "Add salt and coriander.",
+      "Pour batter on hot tawa, cook both sides till crisp."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "moong_dal_chilla.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 200,
+      "protein": 10,
+      "fat": 3,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Besan Chilla",
+    "ingredients": [
+      "1 cup besan",
+      "1/4 tsp turmeric",
+      "1/2 tsp chili powder",
+      "Salt (to taste)",
+      "Water (as required)",
+      "Coriander leaves",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Mix besan with spices and water to make batter.",
+      "Add coriander, pour batter on hot tawa.",
+      "Cook both sides till golden."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "besan_chilla.webp",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 190,
+      "protein": 7,
+      "fat": 3,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Poha",
+    "ingredients": [
+      "1 cup flattened rice (poha)",
+      "1 onion (chopped)",
+      "1 green chili",
+      "1/4 tsp mustard seeds",
+      "1/4 tsp turmeric",
+      "Salt (to taste)",
+      "Lemon juice",
+      "Coriander leaves",
+      "Oil"
+    ],
+    "instructions": [
+      "Rinse poha and set aside.",
+      "Sauté mustard seeds, onion, green chili and turmeric.",
+      "Add poha, salt and mix well.",
+      "Finish with lemon juice and coriander."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "poha.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 180,
+      "protein": 3,
+      "fat": 4,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Vegetable Poha",
+    "ingredients": [
+      "1 cup flattened rice (poha)",
+      "1/2 cup mixed vegetables (carrot, peas, beans)",
+      "1 onion (chopped)",
+      "1 green chili",
+      "1/4 tsp mustard seeds",
+      "1/4 tsp turmeric",
+      "Salt (to taste)",
+      "Lemon juice",
+      "Coriander leaves",
+      "Oil"
+    ],
+    "instructions": [
+      "Rinse poha and set aside.",
+      "Sauté mustard seeds, onion, green chili, and turmeric.",
+      "Add mixed vegetables and cook until tender.",
+      "Add poha, salt, and mix well.",
+      "Finish with lemon juice and coriander."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "vegetable_poha.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 220,
+      "protein": 5,
+      "fat": 7,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Chivda Poha",
+    "ingredients": [
+      "1 cup flattened rice (poha)",
+      "1/4 cup peanuts",
+      "1/4 cup roasted chana",
+      "1/4 tsp mustard seeds",
+      "1/4 tsp cumin seeds",
+      "1/4 tsp turmeric",
+      "1/2 tsp sugar",
+      "Salt (to taste)",
+      "1 tbsp oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Rinse poha and set aside.",
+      "Heat oil in a pan, add mustard seeds, cumin seeds, peanuts, and curry leaves.",
+      "Add turmeric and sugar.",
+      "Add poha and mix well. Cook for a few minutes.",
+      "Add salt and roasted chana."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "chivda_poha.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 5,
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "fat": 14,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Sabudana Khichdi",
+    "ingredients": [
+      "1 cup sabudana (tapioca pearls)",
+      "1 potato (boiled and chopped)",
+      "1/4 cup peanuts",
+      "1 green chili (chopped)",
+      "1/4 tsp cumin seeds",
+      "1/4 tsp mustard seeds",
+      "Salt (to taste)",
+      "Lemon juice",
+      "Coriander leaves",
+      "Ghee or oil"
+    ],
+    "instructions": [
+      "Soak sabudana for 4-5 hours.",
+      "Heat ghee, add mustard seeds, cumin seeds, and peanuts.",
+      "Add green chili and boiled potatoes.",
+      "Add soaked sabudana and cook until soft.",
+      "Finish with salt, lemon juice, and coriander."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "sabudana_khichdi.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 6,
+      "fat": 14,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Aloo Puri",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 cup boiled and mashed potatoes",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp ajwain seeds",
+      "1/2 tsp chili powder",
+      "Salt (to taste)",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Make dough using whole wheat flour and water.",
+      "Mix mashed potatoes with spices.",
+      "Stuff the filling into dough balls and roll into puris.",
+      "Deep fry until golden brown."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "aloo_puri.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 280,
+      "protein": 6,
+      "fat": 15,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Chana Puri",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 cup boiled chana",
+      "1/2 tsp cumin powder",
+      "1/2 tsp chili powder",
+      "Salt (to taste)",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Make dough using whole wheat flour and water.",
+      "Mash boiled chana and mix with spices.",
+      "Stuff chana filling into dough balls and roll into puris.",
+      "Deep fry until golden brown."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "chana_puri.jpg",
+    "category": "Breakfast",
+    "prepTime": 25,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 8,
+      "fat": 14,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Poori Bhaji",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/4 tsp cumin seeds",
+      "1/2 tsp ajwain seeds",
+      "Salt (to taste)",
+      "Oil for deep frying",
+      "1 cup potatoes (boiled and mashed)",
+      "1 onion (chopped)",
+      "1/2 tsp turmeric",
+      "1/2 tsp chili powder",
+      "1/2 tsp cumin powder"
+    ],
+    "instructions": [
+      "Make dough for puris using wheat flour, water, and spices.",
+      "Deep fry the puris until golden brown.",
+      "For bhaji, sauté cumin seeds, onions, turmeric, chili powder, and cumin powder.",
+      "Add boiled mashed potatoes, salt, and water to make a curry-like consistency."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "poori_bhaji.jpg",
+    "category": "Breakfast",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 7,
+      "fat": 18,
+      "carbs": 45
+    }
+  },
+  {
+    "title": "Stuffed Kulcha",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1/4 tsp baking powder",
+      "1/2 tsp sugar",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "1/2 cup paneer (grated)",
+      "1/2 cup boiled potatoes",
+      "1/2 tsp garam masala",
+      "Coriander leaves",
+      "Ghee or oil for cooking"
+    ],
+    "instructions": [
+      "Make dough using flour, baking powder, sugar, salt, and water.",
+      "Mix grated paneer, boiled potatoes, and spices to prepare the filling.",
+      "Stuff the dough with the filling, roll, and cook on tawa with ghee."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "stuffed_kulcha.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 9,
+      "fat": 12,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Palak Paratha",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1/2 cup spinach (blanched and chopped)",
+      "1 tsp cumin powder",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Ghee or oil for roasting"
+    ],
+    "instructions": [
+      "Knead dough using wheat flour and water.",
+      "Mix spinach with cumin powder and salt.",
+      "Stuff the dough with spinach mixture, roll into parathas, and cook on tawa."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "palak_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "fat": 6,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Vegetable Sandwich",
+    "ingredients": [
+      "2 slices bread",
+      "1/4 cup cucumber (sliced)",
+      "1/4 cup tomato (sliced)",
+      "1/4 cup onion (sliced)",
+      "Lettuce leaves",
+      "Butter",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Spread butter on bread slices.",
+      "Layer with cucumber, tomato, onion, and lettuce.",
+      "Season with salt and pepper and assemble the sandwich."
+    ],
+    "cuisine": "Western",
+    "difficulty": "Easy",
+    "image": "vegetable_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 7,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Chutney Sandwich",
+    "ingredients": [
+      "2 slices bread",
+      "1/4 cup coriander chutney",
+      "1/4 cup mint chutney",
+      "Lettuce leaves",
+      "Cucumber slices"
+    ],
+    "instructions": [
+      "Spread coriander and mint chutney on bread slices.",
+      "Add lettuce leaves and cucumber slices.",
+      "Assemble and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "chutney_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "calories": 150,
+      "protein": 3,
+      "fat": 4,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Suji Toast",
+    "ingredients": [
+      "1 cup suji (semolina)",
+      "1/4 cup all-purpose flour",
+      "1/2 tsp baking powder",
+      "Salt (to taste)",
+      "1/4 cup yogurt",
+      "1/4 tsp cumin seeds",
+      "1/4 tsp turmeric",
+      "1 green chili (chopped)",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix suji, flour, baking powder, cumin, turmeric, and salt.",
+      "Add yogurt and water to form a smooth batter.",
+      "Heat oil in a pan, pour the batter, and cook on both sides until golden brown."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "suji_toast.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 5,
+      "fat": 10,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Bread Pakora",
+    "ingredients": [
+      "4 slices bread",
+      "1/2 cup boiled potatoes",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp garam masala",
+      "1/2 tsp chili powder",
+      "1/4 tsp turmeric",
+      "Salt (to taste)",
+      "1/2 cup chickpea flour",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mash boiled potatoes and mix with spices.",
+      "Stuff the bread slices with the potato mixture.",
+      "Dip stuffed bread slices in chickpea flour batter.",
+      "Deep fry until golden brown."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "bread_pakora.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 7,
+      "fat": 15,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Chole Kulche",
+    "ingredients": [
+      "1 cup chickpeas (boiled)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 green chili",
+      "1 tsp ginger-garlic paste",
+      "1 tsp cumin seeds",
+      "1/2 tsp turmeric",
+      "1 tsp garam masala",
+      "1/2 tsp chili powder",
+      "1/4 cup fresh coriander",
+      "4 kulche"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds, and sauté onion, chili, and ginger-garlic paste.",
+      "Add tomatoes, turmeric, garam masala, and chili powder.",
+      "Add boiled chickpeas, water, and cook for 10 minutes.",
+      "Serve with kulche and garnish with coriander."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "chole_kulche.webp",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 400,
+      "protein": 14,
+      "fat": 12,
+      "carbs": 50
+    }
+  },
+  {
+    "title": "Aloo Sandwich",
+    "ingredients": [
+      "2 slices bread",
+      "1/2 cup boiled potatoes (mashed)",
+      "1/4 cup cucumber (sliced)",
+      "1/4 cup tomato (sliced)",
+      "1 tbsp mayonnaise",
+      "1/4 tsp black pepper",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Spread mayonnaise on bread slices.",
+      "Add mashed potatoes, cucumber, and tomato.",
+      "Season with salt and pepper and assemble the sandwich."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "aloo_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "calories": 250,
+      "protein": 5,
+      "fat": 9,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Stuffed Bread Roll",
+    "ingredients": [
+      "4 slices bread",
+      "1/2 cup boiled potatoes",
+      "1/4 cup grated cheese",
+      "1/4 tsp garam masala",
+      "1/2 tsp chili powder",
+      "Salt (to taste)",
+      "Butter"
+    ],
+    "instructions": [
+      "Mash boiled potatoes and mix with cheese and spices.",
+      "Stuff bread slices with the mixture and roll.",
+      "Toast the stuffed rolls in butter until golden brown."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "stuffed_bread_roll.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 8,
+      "fat": 15,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Rajma Roll",
+    "ingredients": [
+      "1 cup boiled rajma (kidney beans)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/2 tsp cumin powder",
+      "1/2 tsp chili powder",
+      "1/4 tsp turmeric",
+      "1/2 tsp garam masala",
+      "4 roti or paratha",
+      "Lettuce leaves"
+    ],
+    "instructions": [
+      "Sauté onions and tomatoes with spices.",
+      "Add boiled rajma and cook for 5 minutes.",
+      "Place the rajma mixture in roti/paratha with lettuce and roll."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "rajma_roll.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 50
+    }
+  },
+  {
+    "title": "Paneer Bhurji Sandwich",
+    "ingredients": [
+      "2 slices bread",
+      "1/2 cup paneer (crumbled)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp chili powder",
+      "1/2 tsp turmeric",
+      "Salt (to taste)",
+      "Butter"
+    ],
+    "instructions": [
+      "Sauté onions and tomatoes with spices.",
+      "Add crumbled paneer and cook for 5 minutes.",
+      "Spread the mixture on bread slices and toast with butter."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "paneer_bhurji_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 12,
+      "fat": 18,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Bhatura with Aloo",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1/4 cup yogurt",
+      "1/2 tsp baking powder",
+      "Salt (to taste)",
+      "1/2 tsp sugar",
+      "Oil for deep frying",
+      "1 cup boiled potatoes (mashed)",
+      "1/2 tsp cumin powder",
+      "1/2 tsp chili powder",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Make dough for bhatura with flour, yogurt, baking powder, and salt.",
+      "Roll the dough into rounds and deep fry until golden.",
+      "For aloo, mix mashed potatoes with spices.",
+      "Serve bhatura with aloo."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "bhatura_with_aloo.webp",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 400,
+      "protein": 8,
+      "fat": 18,
+      "carbs": 50
+    }
+  },
+  {
+    "title": "Tandoori Roti Wrap",
+    "ingredients": [
+      "4 tandoori rotis",
+      "1/2 cup paneer (grilled)",
+      "1 onion (chopped)",
+      "1 tomato (sliced)",
+      "Coriander leaves",
+      "Yogurt-based sauce"
+    ],
+    "instructions": [
+      "Grill the paneer and prepare the roti.",
+      "Place grilled paneer, onions, tomatoes, and sauce on roti.",
+      "Roll it up and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "tandoori_roti_wrap.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 15,
+      "fat": 10,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Kathi Roll (Veg)",
+    "ingredients": [
+      "4 roti",
+      "1 cup mixed vegetables (boiled)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/2 tsp garam masala",
+      "1/2 tsp chili powder",
+      "1/4 tsp turmeric",
+      "Coriander leaves",
+      "Yogurt sauce"
+    ],
+    "instructions": [
+      "Sauté mixed vegetables with onions, tomatoes, and spices.",
+      "Place the mixture on roti and drizzle with yogurt sauce.",
+      "Roll up the roti and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "kathi_roll_veg.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 8,
+      "fat": 12,
+      "carbs": 45
+    }
+  },
+  {
+    "title": "Matar Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 cup boiled green peas (matar)",
+      "1 green chili, chopped",
+      "1/2 inch ginger, grated",
+      "1/4 tsp cumin seeds",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Ghee or oil for roasting"
+    ],
+    "instructions": [
+      "Mash boiled green peas and mix with chopped chili, ginger, cumin seeds, and salt.",
+      "Knead whole wheat flour with water to make a soft dough.",
+      "Divide dough into balls, stuff each with pea filling, and roll into parathas.",
+      "Roast on a hot griddle with ghee or oil until golden brown on both sides.",
+      "Serve hot with curd or pickle."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "matar_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "fat": 7,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Roti with Mixed Veg",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 cup mixed vegetables (carrot, beans, peas, capsicum)",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "Salt (to taste)",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Knead wheat flour with water to make soft roti dough.",
+      "Heat oil in a pan, add cumin seeds, onion, and sauté.",
+      "Add tomato and spices, then mixed vegetables. Cook until soft.",
+      "Make rotis and cook them on a hot tawa.",
+      "Serve hot with mixed veg sabzi."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "roti_mixed_veg.jpg",
+    "category": "Lunch",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 7,
+      "fat": 8,
+      "carbs": 45
+    }
+  },
+  {
+    "title": "Stuffed Thepla",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 cup grated paneer or mashed potato",
+      "1 green chili, chopped",
+      "1/2 inch ginger, grated",
+      "1/4 tsp turmeric",
+      "1/2 tsp cumin seeds",
+      "Salt (to taste)",
+      "Yogurt (as needed)",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Prepare dough using wheat flour, yogurt, turmeric, and salt.",
+      "Mix the stuffing ingredients (paneer/potato, chili, ginger, cumin, salt).",
+      "Divide dough into balls, stuff with the mixture, and roll into theplas.",
+      "Cook on tawa with oil until golden brown.",
+      "Serve with pickle or curd."
+    ],
+    "cuisine": "Gujarati",
+    "difficulty": "Medium",
+    "image": "stuffed_thepla.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 270,
+      "protein": 6,
+      "fat": 9,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Missi Roti",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 cup besan (gram flour)",
+      "1 onion, finely chopped",
+      "1 green chili, chopped",
+      "1/4 tsp ajwain",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Ghee for cooking"
+    ],
+    "instructions": [
+      "Mix wheat flour, besan, onion, chili, ajwain, and salt.",
+      "Add water gradually to form a soft dough.",
+      "Roll out rotis and cook on tawa with ghee until golden.",
+      "Serve hot with butter or curd."
+    ],
+    "cuisine": "Punjabi",
+    "difficulty": "Easy",
+    "image": "missi_roti.jpg",
+    "category": "Lunch",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 240,
+      "protein": 6,
+      "fat": 6,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Spinach Sandwich",
+    "ingredients": [
+      "4 slices whole wheat bread",
+      "1 cup spinach leaves, chopped",
+      "1/4 cup corn kernels",
+      "1/4 cup grated cheese",
+      "1/2 tsp black pepper",
+      "Salt (to taste)",
+      "Butter for grilling"
+    ],
+    "instructions": [
+      "Blanch spinach and mix with corn, cheese, salt, and pepper.",
+      "Spread mixture on bread slices, cover with another slice.",
+      "Butter the outside and grill until golden and crisp.",
+      "Serve hot with ketchup or chutney."
+    ],
+    "cuisine": "Fusion",
+    "difficulty": "Easy",
+    "image": "spinach_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 280,
+      "protein": 7,
+      "fat": 11,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Mooli Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1 cup grated radish (mooli)",
+      "1 green chili, chopped",
+      "1/4 tsp ajwain",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Ghee for roasting"
+    ],
+    "instructions": [
+      "Squeeze water from grated radish and mix with chili, ajwain, and salt.",
+      "Knead wheat flour into a soft dough.",
+      "Roll dough into balls, stuff with radish mixture, and flatten into parathas.",
+      "Cook on tawa with ghee until golden brown.",
+      "Serve with curd or pickle."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "mooli_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 230,
+      "protein": 5,
+      "fat": 7,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Onion Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 cup finely chopped onion",
+      "1 green chili, chopped",
+      "1/2 tsp cumin seeds",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Oil or ghee for roasting"
+    ],
+    "instructions": [
+      "Mix onion, chili, cumin, and salt into a stuffing.",
+      "Make dough using wheat flour and water.",
+      "Stuff dough balls with onion mixture and roll into parathas.",
+      "Cook on tawa with ghee until brown spots appear.",
+      "Serve hot with curd or chutney."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "onion_paratha.webp",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 220,
+      "protein": 5,
+      "fat": 6,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Tandoori Veg Wrap",
+    "ingredients": [
+      "1 cup mixed vegetables (paneer, capsicum, onion)",
+      "1/2 cup yogurt",
+      "1 tsp tandoori masala",
+      "1/4 tsp turmeric",
+      "1/2 tsp chili powder",
+      "Salt (to taste)",
+      "4 whole wheat wraps",
+      "Mint chutney (optional)"
+    ],
+    "instructions": [
+      "Marinate vegetables in yogurt and spices for 30 minutes.",
+      "Grill or sauté until cooked and slightly charred.",
+      "Place mixture in wraps, add chutney if desired.",
+      "Roll tightly and serve warm."
+    ],
+    "cuisine": "Indian Fusion",
+    "difficulty": "Medium",
+    "image": "tandoori_veg_wrap.webp",
+    "category": "Snack",
+    "prepTime": 30,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 9,
+      "fat": 10,
+      "carbs": 42
+    }
+  },
+  {
+    "title": "Malai Paneer Roll",
+    "ingredients": [
+      "1/2 cup paneer cubes",
+      "1/4 cup fresh cream",
+      "1/4 tsp garam masala",
+      "1 onion, sliced",
+      "1 capsicum, sliced",
+      "2 whole wheat rolls or wraps",
+      "Salt (to taste)",
+      "Butter for sautéing"
+    ],
+    "instructions": [
+      "Marinate paneer in cream, garam masala, and salt for 20 minutes.",
+      "Sauté onion, capsicum, and marinated paneer in butter.",
+      "Place mixture in wraps and roll tightly.",
+      "Serve warm with chutney or sauce."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "malai_paneer_roll.jpg",
+    "category": "Snack",
+    "prepTime": 25,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 11,
+      "fat": 15,
+      "carbs": 36
+    }
+  },
+  {
+    "title": "Vegetable Frankie",
+    "ingredients": [
+      "1 cup boiled mixed vegetables (potato, carrot, peas)",
+      "1/4 tsp chaat masala",
+      "1/2 tsp chili powder",
+      "2 rotis or wraps",
+      "1 onion, sliced",
+      "1 tbsp green chutney",
+      "1 tsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Mash vegetables with spices and sauté for 2-3 minutes.",
+      "Place filling in rotis, add onion and chutney.",
+      "Roll tightly and cook lightly on tawa if needed.",
+      "Serve hot."
+    ],
+    "cuisine": "Indian Street Food",
+    "difficulty": "Easy",
+    "image": "vegetable_frankie.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 290,
+      "protein": 6,
+      "fat": 9,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Samosa Sandwich",
+    "ingredients": [
+      "2 slices bread",
+      "2 samosas",
+      "1/4 cup lettuce leaves",
+      "1/4 cup cucumber (sliced)",
+      "1/4 cup tomato (sliced)",
+      "Chutney (mint/coriander)"
+    ],
+    "instructions": [
+      "Mash the samosas and spread chutney on the bread slices.",
+      "Layer with lettuce, cucumber, and tomato slices.",
+      "Place the mashed samosa mixture between the bread slices and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "samosa_sandwich.webp",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "calories": 350,
+      "protein": 8,
+      "fat": 18,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Paneer Kathi Roll",
+    "ingredients": [
+      "4 roti",
+      "1/2 cup paneer (grilled)",
+      "1 onion (chopped)",
+      "1 tomato (sliced)",
+      "1/2 tsp garam masala",
+      "1/2 tsp chili powder",
+      "1/4 tsp turmeric",
+      "Coriander leaves",
+      "Yogurt-based sauce"
+    ],
+    "instructions": [
+      "Grill the paneer and prepare the roti.",
+      "Place grilled paneer, onions, tomatoes, and sauce on roti.",
+      "Roll it up and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "paneer_kathi_roll.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 15,
+      "fat": 12,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Lachha Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 tsp salt",
+      "1/4 tsp baking powder",
+      "Water (as needed)",
+      "Ghee (for cooking)"
+    ],
+    "instructions": [
+      "Make a dough with flour, salt, baking powder, and water.",
+      "Roll out the dough into a thin disc.",
+      "Fold the disc into a coil and roll it out again.",
+      "Cook the paratha on a hot griddle, brushing with ghee on both sides."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "lachha_paratha.jpg",
+    "category": "Bread",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "fat": 10,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Masala Bread",
+    "ingredients": [
+      "4 slices bread",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/2 tsp chili powder",
+      "1/2 tsp cumin powder",
+      "1/4 tsp turmeric",
+      "1/4 tsp garam masala",
+      "Salt (to taste)",
+      "Butter"
+    ],
+    "instructions": [
+      "Toast bread slices in butter.",
+      "Prepare a masala mixture with onions, tomatoes, and spices.",
+      "Top the toasted bread with the masala mixture and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "masala_bread.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 6,
+      "fat": 18,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Corn Paratha",
+    "ingredients": [
+      "1 cup corn flour",
+      "1/4 cup wheat flour",
+      "1/4 tsp cumin seeds",
+      "1/4 tsp ajwain (carom seeds)",
+      "1/4 tsp turmeric",
+      "1/2 tsp chili powder",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Ghee (for cooking)"
+    ],
+    "instructions": [
+      "Mix the flours and spices with water to make a dough.",
+      "Roll out the dough into thin discs.",
+      "Cook the parathas on a griddle, brushing with ghee."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "corn_paratha.jpg",
+    "category": "Bread",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 220,
+      "protein": 5,
+      "fat": 8,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Aloo Roll",
+    "ingredients": [
+      "4 roti",
+      "1/2 cup boiled potatoes (mashed)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/2 tsp cumin powder",
+      "1/2 tsp chili powder",
+      "1/4 tsp garam masala",
+      "Coriander leaves",
+      "Lemon juice"
+    ],
+    "instructions": [
+      "Mash the boiled potatoes and mix with spices.",
+      "Fill the roti with the potato mixture, onions, tomatoes, and coriander leaves.",
+      "Roll it up and serve with a squeeze of lemon juice."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "aloo_roll.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 5,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 6,
+      "fat": 12,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Mix Veg Sandwich",
+    "ingredients": [
+      "2 slices bread",
+      "1/4 cup cucumber (sliced)",
+      "1/4 cup tomato (sliced)",
+      "1/4 cup carrot (grated)",
+      "1/4 cup boiled potatoes (mashed)",
+      "1 tbsp mayonnaise",
+      "1/4 tsp black pepper",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Spread mayonnaise on the bread slices.",
+      "Layer with cucumber, tomato, carrot, and mashed potatoes.",
+      "Season with salt and pepper and assemble the sandwich."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "mix_veg_sandwich.webp",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "calories": 250,
+      "protein": 5,
+      "fat": 9,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Khakhra",
+    "ingredients": [
+      "1 cup wheat flour",
+      "1/4 tsp cumin seeds",
+      "1/4 tsp ajwain (carom seeds)",
+      "1/4 tsp chili powder",
+      "1/4 tsp turmeric",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Ghee (for brushing)"
+    ],
+    "instructions": [
+      "Mix all ingredients and knead into a dough.",
+      "Roll out the dough into thin discs.",
+      "Cook the khakhra on a griddle until crispy.",
+      "Brush with ghee and serve."
+    ],
+    "cuisine": "Gujarati",
+    "difficulty": "Medium",
+    "image": "khakhra.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 200,
+      "protein": 6,
+      "fat": 8,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Mathri with Pickle",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1/4 tsp ajwain (carom seeds)",
+      "1/4 tsp cumin seeds",
+      "1/4 tsp chili powder",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix flour and spices and knead into a dough.",
+      "Roll out the dough and cut into small rounds.",
+      "Deep fry until golden and crispy.",
+      "Serve with pickle."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "mathri_with_pickle.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 5,
+      "fat": 18,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Kachori with Aloo Sabzi",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1/4 tsp cumin seeds",
+      "1/4 tsp carom seeds",
+      "1/4 tsp turmeric",
+      "1/2 tsp chili powder",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Oil for frying",
+      "2 boiled potatoes (mashed)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/2 tsp cumin powder",
+      "1/2 tsp garam masala"
+    ],
+    "instructions": [
+      "Make the dough with flour, spices, and water.",
+      "Prepare a filling with mashed potatoes, onions, tomatoes, and spices.",
+      "Stuff the dough with the filling and deep fry.",
+      "Serve with aloo sabzi."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "kachori_with_aloo_sabzi.jpg",
+    "category": "Snack",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 8,
+      "fat": 18,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Tandoori Veg Sandwich",
+    "ingredients": [
+      "4 slices bread",
+      "1/2 cup paneer cubes",
+      "1/4 cup capsicum, chopped",
+      "1/4 cup onion, chopped",
+      "2 tbsp yogurt",
+      "1 tsp tandoori masala",
+      "Salt (to taste)",
+      "Butter for grilling"
+    ],
+    "instructions": [
+      "Marinate paneer and vegetables in yogurt, tandoori masala, and salt for 15-20 minutes.",
+      "Grill or sauté the mixture until lightly charred.",
+      "Place filling between bread slices, butter the outside, and grill until golden.",
+      "Serve hot with ketchup or chutney."
+    ],
+    "cuisine": "Indian Fusion",
+    "difficulty": "Medium",
+    "image": "tandoori_veg_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 20,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Chana Bhatura",
+    "ingredients": [
+      "1 cup chickpeas (soaked overnight)",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1 tsp chana masala",
+      "1 cup all-purpose flour",
+      "1/4 cup yogurt",
+      "Oil (for frying)",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Pressure cook chickpeas until soft.",
+      "Sauté cumin, onion, ginger-garlic paste, tomato, and chana masala. Add chickpeas and simmer.",
+      "Knead flour, yogurt, and salt into a dough. Rest for 1 hour.",
+      "Roll and deep-fry bhaturas until puffed.",
+      "Serve hot with chana and salad."
+    ],
+    "cuisine": "Punjabi",
+    "difficulty": "Medium",
+    "image": "chana_bhatura.jpg",
+    "category": "Lunch",
+    "prepTime": 30,
+    "cookTime": 30,
+    "servings": 3,
+    "nutrition": {
+      "calories": 450,
+      "protein": 12,
+      "fat": 18,
+      "carbs": 55
+    }
+  },
+  {
+    "title": "Bajra Roti with Bharta",
+    "ingredients": [
+      "1 cup bajra flour",
+      "Water (as needed)",
+      "Salt (to taste)",
+      "1 large eggplant",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 green chili, chopped",
+      "1 tsp mustard oil"
+    ],
+    "instructions": [
+      "Knead bajra flour with hot water into a dough. Roll and cook on tawa.",
+      "Roast eggplant over flame, peel, and mash.",
+      "Mix mashed eggplant with onion, tomato, chili, salt, and mustard oil.",
+      "Serve bajra roti with baingan bharta."
+    ],
+    "cuisine": "Rajasthani",
+    "difficulty": "Medium",
+    "image": "bajra_roti_bharta.jpg",
+    "category": "Lunch",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 330,
+      "protein": 7,
+      "fat": 8,
+      "carbs": 50
+    }
+  },
+  {
+    "title": "Dal Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 cup cooked moong dal",
+      "1/2 tsp cumin seeds",
+      "1 green chili, chopped",
+      "1/4 tsp turmeric",
+      "Salt (to taste)",
+      "Ghee or oil for roasting"
+    ],
+    "instructions": [
+      "Mix cooked dal with spices and chili.",
+      "Knead flour into soft dough and stuff with dal filling.",
+      "Roll and roast on tawa with ghee until golden.",
+      "Serve hot with curd or pickle."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "dal_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 240,
+      "protein": 8,
+      "fat": 6,
+      "carbs": 36
+    }
+  },
+  {
+    "title": "Bathua Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1 cup chopped bathua leaves",
+      "1/2 tsp cumin seeds",
+      "1/4 tsp red chili powder",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Ghee for roasting"
+    ],
+    "instructions": [
+      "Blanch and mash bathua leaves.",
+      "Mix with flour, spices, and water to make dough.",
+      "Roll into parathas and roast with ghee.",
+      "Serve with butter or curd."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "bathua_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 220,
+      "protein": 6,
+      "fat": 5,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Bhindi Roti",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 cup finely chopped bhindi (okra)",
+      "1 green chili, chopped",
+      "1/4 tsp turmeric",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Oil for roasting"
+    ],
+    "instructions": [
+      "Mix bhindi, chili, turmeric, and salt into flour.",
+      "Add water and knead into a dough.",
+      "Roll into rotis and cook on tawa with oil.",
+      "Serve with pickle or raita."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "bhindi_roti.webp",
+    "category": "Lunch",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 230,
+      "protein": 5,
+      "fat": 6,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Cabbage Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1 cup grated cabbage",
+      "1/4 tsp turmeric",
+      "1/2 tsp carom seeds",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Oil or ghee for roasting"
+    ],
+    "instructions": [
+      "Mix grated cabbage with spices and salt.",
+      "Knead with flour to form soft dough.",
+      "Roll into parathas and roast with oil/ghee.",
+      "Serve with chutney or curd."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "cabbage_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 210,
+      "protein": 5,
+      "fat": 6,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Chana Masala Sandwich",
+    "ingredients": [
+      "4 slices bread",
+      "1/2 cup cooked chana (chickpeas)",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/4 tsp chaat masala",
+      "Salt (to taste)",
+      "Butter for toasting"
+    ],
+    "instructions": [
+      "Mash chickpeas and mix with onion, tomato, salt, and chaat masala.",
+      "Spread mixture on bread slices and cover with another slice.",
+      "Butter outer sides and toast until golden.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "Indian Street Food",
+    "difficulty": "Easy",
+    "image": "chana_masala_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 290,
+      "protein": 8,
+      "fat": 10,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Fried Roti Roll",
+    "ingredients": [
+      "2 leftover rotis",
+      "1/2 cup mixed vegetable filling",
+      "1 tsp oil",
+      "1/4 tsp chaat masala",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Place filling in rotis and roll tightly.",
+      "Shallow fry until crispy and golden on all sides.",
+      "Sprinkle chaat masala and serve with dip."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "fried_roti_roll.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 260,
+      "protein": 5,
+      "fat": 9,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Gajar Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1 cup grated carrot",
+      "1 green chili, chopped",
+      "1/4 tsp cumin seeds",
+      "Salt (to taste)",
+      "Water (as needed)",
+      "Ghee for roasting"
+    ],
+    "instructions": [
+      "Mix grated carrot, chili, cumin, and salt into the flour.",
+      "Knead into soft dough and roll into parathas.",
+      "Cook on tawa with ghee until golden.",
+      "Serve with curd or butter."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "gajar_paratha.webp",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 230,
+      "protein": 5,
+      "fat": 7,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Egg Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1 egg",
+      "1 tbsp oil",
+      "Salt (to taste)",
+      "Water (as required)",
+      "Cumin powder (optional)",
+      "Coriander leaves (optional)"
+    ],
+    "instructions": [
+      "Knead the flour into a soft dough using water and salt.",
+      "Roll the dough into a ball and flatten it into a circle.",
+      "Heat a tawa and cook the paratha until light golden brown on both sides.",
+      "In a separate pan, scramble an egg with oil and season with salt and cumin powder.",
+      "Place the scrambled egg on the paratha and roll it up.",
+      "Serve hot."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "egg_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 12,
+      "fat": 14,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Anda Bhurji",
+    "ingredients": [
+      "2 eggs",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "2 green chilies (chopped)",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/4 tsp garam masala",
+      "Coriander leaves (for garnish)",
+      "Salt (to taste)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until soft.",
+      "Add tomatoes and cook until they turn soft.",
+      "Add green chilies, turmeric powder, red chili powder, and garam masala.",
+      "Crack the eggs into the pan and scramble them.",
+      "Cook until the eggs are fully scrambled and cooked.",
+      "Garnish with coriander leaves and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "anda_bhurji.jpg",
+    "category": "Breakfast",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 180,
+      "protein": 12,
+      "fat": 14,
+      "carbs": 4
+    }
+  },
+  {
+    "title": "Egg Roll",
+    "ingredients": [
+      "2 eggs",
+      "1 paratha",
+      "1/4 onion (sliced)",
+      "1/4 tomato (sliced)",
+      "Cucumber slices",
+      "Chili sauce (optional)",
+      "Salt (to taste)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Cook the egg as a scrambled egg in a pan.",
+      "Heat the paratha and place it on a flat surface.",
+      "Add the scrambled egg, onions, tomatoes, cucumber, and chili sauce on the paratha.",
+      "Roll the paratha tightly and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "egg_roll.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 200,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Anda Chilla",
+    "ingredients": [
+      "2 eggs",
+      "1/4 cup chickpea flour",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "Green chili (chopped)",
+      "Cumin powder (1/4 tsp)",
+      "Salt (to taste)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Whisk the eggs and chickpea flour together.",
+      "Add chopped onions, tomatoes, green chili, cumin powder, and salt.",
+      "Heat a pan with oil and pour the mixture onto it.",
+      "Cook until both sides are golden brown.",
+      "Serve with chutney."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "anda_chilla.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 180,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Egg Curry Sandwich",
+    "ingredients": [
+      "2 slices of bread",
+      "2 boiled eggs",
+      "1/4 cup onion (chopped)",
+      "1/4 cup tomato (chopped)",
+      "1/4 tsp cumin powder",
+      "1/4 tsp red chili powder",
+      "Salt (to taste)",
+      "Butter (for grilling)"
+    ],
+    "instructions": [
+      "Mash the boiled eggs and mix with onions, tomatoes, cumin powder, red chili powder, and salt.",
+      "Spread the egg mixture on one slice of bread and top with the other.",
+      "Grill the sandwich with butter until golden brown on both sides.",
+      "Serve hot."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "egg_curry_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 220,
+      "protein": 12,
+      "fat": 14,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Boiled Egg Poha",
+    "ingredients": [
+      "1 cup poha",
+      "2 boiled eggs",
+      "1 onion (chopped)",
+      "1/4 tsp mustard seeds",
+      "1/4 tsp turmeric powder",
+      "Salt (to taste)",
+      "Oil (for cooking)",
+      "Coriander leaves (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add mustard seeds.",
+      "Add chopped onions and sauté until golden brown.",
+      "Add turmeric powder and salt.",
+      "Add the poha and mix well.",
+      "Top with boiled eggs and garnish with coriander leaves.",
+      "Serve hot."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "boiled_egg_poha.jpg",
+    "category": "Breakfast",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 200,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Scrambled Egg with Paratha",
+    "ingredients": [
+      "2 eggs",
+      "1 paratha",
+      "Salt (to taste)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Scramble the eggs in a pan with salt.",
+      "Heat the paratha and serve with scrambled eggs."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "scrambled_egg_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 250,
+      "protein": 15,
+      "fat": 14,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Egg Frankie",
+    "ingredients": [
+      "1 egg",
+      "1 paratha",
+      "1 onion (sliced)",
+      "Cucumber slices",
+      "Chili sauce (optional)",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Scramble the egg in a pan with salt.",
+      "Heat the paratha and place the scrambled egg, onions, cucumber, and chili sauce on top.",
+      "Roll the paratha tightly and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "egg_frankie.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 220,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Egg Bhurji Wrap",
+    "ingredients": [
+      "2 eggs",
+      "1 wrap or paratha",
+      "1/4 onion (chopped)",
+      "1/4 tomato (chopped)",
+      "1/4 tsp cumin powder",
+      "1/4 tsp red chili powder",
+      "Salt (to taste)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Scramble the eggs with onions, tomatoes, cumin powder, red chili powder, and salt.",
+      "Place the scrambled egg mixture on a wrap or paratha.",
+      "Roll it up and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "egg_bhurji_wrap.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 240,
+      "protein": 14,
+      "fat": 12,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Masala Egg Roll",
+    "ingredients": [
+      "2 eggs",
+      "1 paratha",
+      "1/4 onion (chopped)",
+      "1/4 tomato (chopped)",
+      "Chili sauce (optional)",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Scramble the eggs and season with salt and chili sauce.",
+      "Place the scrambled eggs, onions, and tomatoes on the paratha.",
+      "Roll it up and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "masala_egg_roll.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 230,
+      "protein": 14,
+      "fat": 12,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Omelette Sandwich",
+    "ingredients": [
+      "2 eggs",
+      "4 slices bread",
+      "1 onion, chopped",
+      "1 green chili, chopped",
+      "Salt and pepper (to taste)",
+      "Butter (for toasting)"
+    ],
+    "instructions": [
+      "Beat eggs with onion, chili, salt, and pepper.",
+      "Cook the omelette on a pan.",
+      "Place omelette between bread slices and toast with butter.",
+      "Serve hot with ketchup or chutney."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "omelette_sandwich.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 320,
+      "protein": 14,
+      "fat": 18,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Egg Bhurji with Pav",
+    "ingredients": [
+      "3 eggs",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 green chili, chopped",
+      "1/4 tsp turmeric",
+      "1/4 tsp red chili powder",
+      "Salt (to taste)",
+      "2 pav buns",
+      "Butter"
+    ],
+    "instructions": [
+      "Sauté onion, tomato, and green chili in butter.",
+      "Add spices and beaten eggs. Scramble until cooked.",
+      "Toast pav buns with butter.",
+      "Serve egg bhurji with pav."
+    ],
+    "cuisine": "Indian Street Food",
+    "difficulty": "Easy",
+    "image": "egg_bhurji_pav.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 400,
+      "protein": 16,
+      "fat": 20,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Anda Curry with Bread",
+    "ingredients": [
+      "4 boiled eggs",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "2 tbsp oil",
+      "Bread slices"
+    ],
+    "instructions": [
+      "Sauté onion, ginger-garlic paste, and tomato until soft.",
+      "Add spices and cook the masala.",
+      "Add water to make gravy, then add boiled eggs.",
+      "Simmer for 10 minutes and serve hot with bread."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "anda_curry_bread.jpg",
+    "category": "Lunch",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 450,
+      "protein": 20,
+      "fat": 25,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Egg Kulcha",
+    "ingredients": [
+      "2 kulchas",
+      "2 eggs",
+      "1 onion, chopped",
+      "1 green chili, chopped",
+      "Salt and pepper (to taste)",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare a spiced omelette with onion, chili, and eggs.",
+      "Warm kulchas with butter.",
+      "Place egg omelette between kulchas like a sandwich.",
+      "Serve hot with chutney or sauce."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "egg_kulcha.webp",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 350,
+      "protein": 14,
+      "fat": 16,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Egg Masala Roll",
+    "ingredients": [
+      "1 egg",
+      "1 paratha",
+      "1 onion, sliced",
+      "1 tbsp green chutney",
+      "1/4 tsp chaat masala",
+      "Salt (to taste)",
+      "Butter"
+    ],
+    "instructions": [
+      "Cook an omelette and place it on a cooked paratha.",
+      "Add onions, chutney, chaat masala, and roll it.",
+      "Toast lightly with butter and serve hot."
+    ],
+    "cuisine": "Street Food",
+    "difficulty": "Easy",
+    "image": "egg_masala_roll.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 300,
+      "protein": 10,
+      "fat": 14,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Egg Puri",
+    "ingredients": [
+      "1 cup wheat flour",
+      "2 boiled eggs",
+      "1/2 tsp red chili powder",
+      "Salt (to taste)",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Make dough using flour, water, and salt.",
+      "Roll out small puris and deep-fry till puffed.",
+      "Slice boiled eggs and sprinkle with chili powder and salt.",
+      "Serve hot puris with spiced eggs."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "egg_puri.jpg",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 12,
+      "fat": 15,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Bread Egg Pakora",
+    "ingredients": [
+      "2 slices bread",
+      "2 boiled eggs",
+      "1/2 cup besan (gram flour)",
+      "1/4 tsp turmeric",
+      "1/4 tsp red chili powder",
+      "Salt (to taste)",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Cut bread and boiled eggs into halves.",
+      "Make a thick batter of besan and spices.",
+      "Dip bread-egg combo into batter and deep-fry till golden.",
+      "Serve hot with ketchup or chutney."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "bread_egg_pakora.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 380,
+      "protein": 14,
+      "fat": 18,
+      "carbs": 36
+    }
+  },
+  {
+    "title": "Anda Parantha Wrap",
+    "ingredients": [
+      "1 egg",
+      "1 cooked parantha",
+      "1/4 onion, sliced",
+      "1 tbsp green chutney",
+      "Salt and pepper (to taste)",
+      "Butter"
+    ],
+    "instructions": [
+      "Pour beaten egg on a hot tawa, place parantha on it to coat.",
+      "Flip and cook both sides till egg is done.",
+      "Add onions, chutney, and roll the wrap.",
+      "Serve hot with sauce."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "anda_parantha_wrap.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 330,
+      "protein": 10,
+      "fat": 15,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Egg Cutlet",
+    "ingredients": [
+      "2 boiled eggs",
+      "1 boiled potato",
+      "1/4 cup bread crumbs",
+      "1/4 tsp garam masala",
+      "Salt (to taste)",
+      "Oil for shallow frying"
+    ],
+    "instructions": [
+      "Mash eggs and potato, add spices and mix well.",
+      "Shape into cutlets and coat with bread crumbs.",
+      "Shallow fry till golden brown.",
+      "Serve with chutney or ketchup."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "egg_cutlet.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 310,
+      "protein": 10,
+      "fat": 14,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Egg Bread Roll",
+    "ingredients": [
+      "4 slices bread",
+      "2 eggs",
+      "1/4 cup onion, chopped",
+      "1/4 tsp black pepper",
+      "Salt (to taste)",
+      "Butter"
+    ],
+    "instructions": [
+      "Beat eggs with onion, pepper, and salt.",
+      "Dip bread slices in the egg mix and roll tightly.",
+      "Toast rolls on pan with butter until golden brown.",
+      "Serve warm."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "egg_bread_roll.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 34
+    }
+  },
+  {
+    "title": "Chicken Paratha",
+    "ingredients": [
+      "1 cup whole wheat flour",
+      "1/2 cup cooked chicken (shredded)",
+      "1 onion (chopped)",
+      "1/4 tsp cumin powder",
+      "Salt (to taste)",
+      "Water (as required)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Knead the flour into a soft dough using water and salt.",
+      "Prepare a filling by mixing the shredded chicken, onions, cumin powder, and salt.",
+      "Roll the dough into small balls and flatten them.",
+      "Place the chicken filling in the center and seal the dough.",
+      "Cook the stuffed paratha on a tawa with oil until golden brown on both sides.",
+      "Serve hot."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_paratha.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 18,
+      "fat": 12,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Chicken Bhurji",
+    "ingredients": [
+      "200g chicken (minced)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/4 tsp garam masala",
+      "Coriander leaves (for garnish)",
+      "Salt (to taste)",
+      "Oil (for cooking)"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until soft.",
+      "Add tomatoes and cook until they become soft.",
+      "Add turmeric powder, red chili powder, garam masala, and salt.",
+      "Add minced chicken and cook until it is fully cooked.",
+      "Garnish with coriander leaves and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_bhurji.jpg",
+    "category": "Lunch",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 5
+    }
+  },
+  {
+    "title": "Keema Pav",
+    "ingredients": [
+      "250g minced chicken or mutton",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "Oil (for cooking)",
+      "2 pav (bread rolls)"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until golden brown.",
+      "Add tomatoes, turmeric powder, red chili powder, garam masala, and salt.",
+      "Add minced meat and cook until browned and cooked through.",
+      "Toast the pav and serve the keema mixture in the pav."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "keema_pav.jpg",
+    "category": "Lunch",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Chicken Sandwich",
+    "ingredients": [
+      "2 slices of bread",
+      "100g cooked chicken (shredded)",
+      "1/4 onion (sliced)",
+      "1/4 tomato (sliced)",
+      "Lettuce leaves",
+      "Mayonnaise",
+      "Salt (to taste)",
+      "Pepper (to taste)"
+    ],
+    "instructions": [
+      "Spread mayonnaise on one slice of bread.",
+      "Layer with shredded chicken, onions, tomatoes, and lettuce.",
+      "Season with salt and pepper.",
+      "Top with the other slice of bread and serve."
+    ],
+    "cuisine": "Western",
+    "difficulty": "Easy",
+    "image": "chicken_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "calories": 300,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Mutton Kheema Roll",
+    "ingredients": [
+      "200g minced mutton",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "Coriander leaves (for garnish)",
+      "Salt (to taste)",
+      "Oil (for cooking)",
+      "1 wrap or paratha"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until golden brown.",
+      "Add tomatoes, turmeric powder, garam masala, and salt.",
+      "Add minced mutton and cook until browned and cooked through.",
+      "Place the kheema on the paratha or wrap and roll it up.",
+      "Serve hot."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "mutton_kheema_roll.jpg",
+    "category": "Lunch",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Chicken Kathi Roll",
+    "ingredients": [
+      "200g chicken (cooked)",
+      "1 wrap or paratha",
+      "1 onion (sliced)",
+      "1/4 tsp cumin powder",
+      "1/4 tsp red chili powder",
+      "Lettuce leaves",
+      "Chili sauce (optional)",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Season the cooked chicken with cumin powder, red chili powder, and salt.",
+      "Place the chicken on a wrap or paratha along with onions, lettuce, and chili sauce.",
+      "Roll it up and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_kathi_roll.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 300,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Chicken Egg Roll",
+    "ingredients": [
+      "1 egg",
+      "100g cooked chicken (shredded)",
+      "1 wrap or paratha",
+      "1/4 onion (sliced)",
+      "Chili sauce (optional)",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Scramble the egg in a pan and cook until done.",
+      "Place the scrambled egg and shredded chicken on the wrap or paratha.",
+      "Top with onions and chili sauce.",
+      "Roll it up and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_egg_roll.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 280,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Chicken Frankie",
+    "ingredients": [
+      "100g chicken (cooked)",
+      "1 wrap or paratha",
+      "1 onion (sliced)",
+      "1/4 tsp cumin powder",
+      "Salt (to taste)",
+      "Chili sauce (optional)"
+    ],
+    "instructions": [
+      "Season the chicken with cumin powder, salt, and chili sauce.",
+      "Place the chicken on the wrap or paratha with sliced onions.",
+      "Roll it up and serve."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_frankie.jpg",
+    "category": "Snack",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "calories": 300,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Chicken Bhurji Roll",
+    "ingredients": [
+      "200g chicken (minced)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "Oil (for cooking)",
+      "1 wrap or paratha"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until golden brown.",
+      "Add tomatoes, turmeric powder, garam masala, and salt.",
+      "Add minced chicken and cook until browned and cooked through.",
+      "Place the chicken bhurji mixture on the wrap or paratha and roll it up.",
+      "Serve hot."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_bhurji_roll.webp",
+    "category": "Lunch",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Chicken Curry with Paratha",
+    "ingredients": [
+      "200g chicken (cut into pieces)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "Oil (for cooking)",
+      "1 paratha"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until golden brown.",
+      "Add tomatoes, turmeric powder, red chili powder, garam masala, and salt.",
+      "Add chicken pieces and cook until browned and fully cooked.",
+      "Serve the curry with a hot paratha."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_curry_with_paratha.jpg",
+    "category": "Lunch",
+    "prepTime": 10,
+    "cookTime": 30,
+    "servings": 2,
+    "nutrition": {
+      "calories": 400,
+      "protein": 30,
+      "fat": 25,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Tandoori Chicken Sandwich",
+    "ingredients": [
+      "1 cup cooked tandoori chicken, shredded",
+      "4 slices bread",
+      "2 tbsp mayonnaise",
+      "1 onion, sliced",
+      "Lettuce leaves",
+      "Butter for toasting"
+    ],
+    "instructions": [
+      "Mix tandoori chicken with mayonnaise.",
+      "Place lettuce, onion, and chicken mix between bread slices.",
+      "Toast the sandwich with butter until golden.",
+      "Serve hot with ketchup or chutney."
+    ],
+    "cuisine": "Indian Fusion",
+    "difficulty": "Easy",
+    "image": "tandoori_chicken_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 420,
+      "protein": 25,
+      "fat": 20,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Mutton Sandwich",
+    "ingredients": [
+      "1 cup cooked mutton keema",
+      "4 slices bread",
+      "1 tbsp green chutney",
+      "1 onion, sliced",
+      "Butter for toasting"
+    ],
+    "instructions": [
+      "Spread chutney on bread slices.",
+      "Add a layer of mutton keema and onions.",
+      "Cover with another slice and toast with butter.",
+      "Serve hot with mint chutney."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "mutton_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 450,
+      "protein": 26,
+      "fat": 22,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Chicken Keema Parantha",
+    "ingredients": [
+      "1 cup chicken keema",
+      "1.5 cups wheat flour",
+      "1 onion, chopped",
+      "1 green chili, chopped",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "Oil or ghee for frying"
+    ],
+    "instructions": [
+      "Prepare dough with flour and water.",
+      "Mix chicken keema with onion, chili, and spices.",
+      "Stuff dough with filling and roll into paratha.",
+      "Cook on tawa with oil/ghee until golden.",
+      "Serve hot with curd or pickle."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_keema_parantha.jpg",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 480,
+      "protein": 24,
+      "fat": 20,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Chicken Kulcha Roll",
+    "ingredients": [
+      "2 kulchas",
+      "1 cup cooked chicken tikka pieces",
+      "1 onion, sliced",
+      "1 tbsp mint chutney",
+      "Butter"
+    ],
+    "instructions": [
+      "Warm kulchas with butter.",
+      "Spread mint chutney, add chicken and onion slices.",
+      "Roll tightly and toast briefly on tawa.",
+      "Serve hot with dip or chutney."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "chicken_kulcha_roll.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 430,
+      "protein": 25,
+      "fat": 18,
+      "carbs": 35
+    }
+  },
+  {
+    "title": "Chicken Tikka Sandwich",
+    "ingredients": [
+      "1 cup chicken tikka, shredded",
+      "4 slices bread",
+      "2 tbsp hung curd or mayo",
+      "1 onion, sliced",
+      "Lettuce",
+      "Butter"
+    ],
+    "instructions": [
+      "Mix chicken tikka with curd/mayo.",
+      "Layer lettuce, onion, and chicken on bread.",
+      "Grill or toast the sandwich with butter.",
+      "Serve hot with dip or salad."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "chicken_tikka_sandwich.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 440,
+      "protein": 26,
+      "fat": 22,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Chicken Poha",
+    "ingredients": [
+      "1 cup flattened rice (poha)",
+      "1/2 cup cooked shredded chicken",
+      "1 onion, chopped",
+      "1 green chili, chopped",
+      "1/4 tsp turmeric",
+      "Salt (to taste)",
+      "2 tbsp oil",
+      "Lemon juice and coriander leaves"
+    ],
+    "instructions": [
+      "Rinse poha and drain well.",
+      "Sauté onion and chili, add turmeric and chicken.",
+      "Mix in poha and cook until heated through.",
+      "Garnish with lemon juice and coriander."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "chicken_poha.jpg",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 40
+    }
+  },
+  {
+    "title": "Chicken Cutlet",
+    "ingredients": [
+      "1 cup shredded cooked chicken",
+      "1 boiled potato",
+      "1/4 cup bread crumbs",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix chicken, mashed potato, spices, and form cutlets.",
+      "Coat in bread crumbs.",
+      "Shallow fry until golden brown.",
+      "Serve with ketchup or chutney."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_cutlet.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 360,
+      "protein": 20,
+      "fat": 16,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Butter Chicken Roll",
+    "ingredients": [
+      "1 cup butter chicken (boneless)",
+      "2 parathas",
+      "Onion slices",
+      "1 tbsp green chutney"
+    ],
+    "instructions": [
+      "Warm parathas and spread chutney.",
+      "Add butter chicken and onion slices.",
+      "Roll tightly and toast lightly on tawa.",
+      "Serve hot."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "butter_chicken_roll.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 500,
+      "protein": 28,
+      "fat": 22,
+      "carbs": 38
+    }
+  },
+  {
+    "title": "Spicy Chicken Wrap",
+    "ingredients": [
+      "1 cup spicy grilled chicken, shredded",
+      "2 tortillas or rotis",
+      "Lettuce and onion",
+      "1 tbsp spicy sauce",
+      "Butter"
+    ],
+    "instructions": [
+      "Warm the wrap and spread spicy sauce.",
+      "Add chicken, lettuce, and onion.",
+      "Roll it up and toast lightly.",
+      "Serve with dip."
+    ],
+    "cuisine": "Fusion",
+    "difficulty": "Easy",
+    "image": "spicy_chicken_wrap.jpg",
+    "category": "Snack",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 420,
+      "protein": 24,
+      "fat": 18,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Chicken Bread Pakora",
+    "ingredients": [
+      "4 bread slices",
+      "1/2 cup cooked chicken keema",
+      "1/2 cup besan (gram flour)",
+      "Spices (turmeric, chili powder, salt)",
+      "Water (to make batter)",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Make a thick besan batter with spices.",
+      "Sandwich chicken keema between two bread slices.",
+      "Dip in batter and deep fry until golden.",
+      "Serve hot with chutney."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "image": "chicken_bread_pakora.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 2,
+    "nutrition": {
+      "calories": 480,
+      "protein": 22,
+      "fat": 24,
+      "carbs": 36
+    }
+  }
+]

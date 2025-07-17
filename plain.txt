@@ -1,0 +1,85 @@
+npm install lucide-react
+
+
+
+// Frontend
+npm run dev
+
+//Backend
+npm run server
+
+// MERN stack
+npm start
+
+
+// Project Features
+
+ 1 . Your AI Recommendations logic in backend.
+
+Similarity-Based Recommendations	✅ Done
+(GET /api/recommendations/:userId)
+Key: Authorization
+Value: Bearer <paste your token>
+
+
+Personalized Recommendations	✅ Done
+(GET /api/recommendations/personalized)
+Key: Authorization
+Value: Bearer <paste your token>
+
+
+Refresh Recommendations	✅ Done
+POST /api/recommendations/refresh
+
+
+Auto Refresh on User Changes	🟡 To Do
+Collaborative Filtering	🟡 To Do
+Ingredient-Based Suggestions	🟡 To Do
+Seasonal & Local Recommendations	🟡 To Do
+Time-Based Recommendations	🟡 To Do
+Trending & Popular Recipes	🟡 To Do
+Feedback Loop	🟡 To Do
+AI Chat Assistant	🟡 To Do
+
+
+2 . Connect frontend with backend using Axios.
+3 . Build pages in frontend (Home, Recipes, Favorites, Meal Planner, etc.).
+4 . Add authentication (JWT).
+5 . Handle image uploads.
+6 . Implement voice assistant frontend components.
+
+
+
+
+
+✅ APIs You Can Use
+🔸 OpenAI API
+Endpoint: https://api.openai.com/v1/chat/completions
+
+Model: gpt-4 or gpt-3.5-turbo
+
+Use natural language prompts for recipes
+
+🔸 Spoonacular API
+https://spoonacular.com/food-api
+
+Endpoints:
+
+/recipes/parseIngredients
+
+/recipes/guessNutrition
+
+/recipes/findByIngredients
+
+🔸 Edamam API
+https://developer.edamam.com/
+
+Endpoints:
+
+/api/nutrition-details
+
+/api/recipes/v2 (for search with filters)
+
+
+
+

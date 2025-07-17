@@ -1,0 +1,2700 @@
+[
+  {
+    "title": "Aloo Tamatar Curry",
+    "ingredients": [
+      "3 potatoes (boiled and cubed)",
+      "2 tomatoes (chopped)",
+      "1 onion (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander leaves (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add cumin seeds.",
+      "Add onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomatoes, turmeric, red chili, and coriander powder. Cook until tomatoes are soft.",
+      "Add boiled potatoes, salt, and water. Simmer for 10 minutes.",
+      "Garnish with coriander leaves and serve hot with puri or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "aloo_tamatar_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 7,
+      "carbs": 27
+    }
+  },
+  {
+    "title": "Bhindi Masala",
+    "ingredients": [
+      "250g okra (bhindi), chopped",
+      "1 onion (sliced)",
+      "2 tomatoes (chopped)",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp cumin seeds",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté cumin seeds, then onions until golden.",
+      "Add tomatoes and spices, cook until soft.",
+      "Add bhindi and stir well. Cover and cook on low heat until tender.",
+      "Sprinkle garam masala, mix well, and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "bhindi_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 3,
+      "fat": 10,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Baingan Bharta",
+    "ingredients": [
+      "1 large eggplant (roasted)",
+      "1 onion (chopped)",
+      "2 tomatoes (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1 green chili (chopped)",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Roast the eggplant until skin chars. Peel and mash it.",
+      "Heat oil, add cumin seeds and sauté onions.",
+      "Add ginger-garlic paste and green chili. Cook till fragrant.",
+      "Add tomatoes and spices. Cook till oil separates.",
+      "Add mashed eggplant, mix well and cook for 5 minutes.",
+      "Garnish with coriander and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "baingan_bharta.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 4,
+      "fat": 10,
+      "carbs": 16
+    }
+  },
+  {
+    "title": "Lauki Tamatar Curry",
+    "ingredients": [
+      "2 cups bottle gourd (lauki), cubed",
+      "2 tomatoes (chopped)",
+      "1 onion (chopped)",
+      "1 tsp ginger paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil and add cumin seeds.",
+      "Add onions and sauté till golden. Add ginger paste and cook.",
+      "Add tomatoes, turmeric, and coriander powder. Cook until soft.",
+      "Add lauki, salt, and water. Cover and cook until tender.",
+      "Garnish with fresh coriander and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "lauki_tamatar_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 3,
+      "fat": 7,
+      "carbs": 16
+    }
+  },
+  {
+    "title": "Tinda Masala",
+    "ingredients": [
+      "250g apple gourd (tinda), peeled and chopped",
+      "1 onion (chopped)",
+      "2 tomatoes (chopped)",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté cumin seeds and onions.",
+      "Add tomatoes, turmeric, and coriander powder. Cook till soft.",
+      "Add chopped tinda and salt. Add a little water, cover and cook until soft.",
+      "Sprinkle garam masala and mix well. Serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "tinda_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 130,
+      "protein": 3,
+      "fat": 7,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Aloo Gobi",
+    "ingredients": [
+      "2 potatoes (cubed)",
+      "1 cup cauliflower florets",
+      "1 onion (sliced)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds, and sauté onions.",
+      "Add ginger-garlic paste and cook until fragrant.",
+      "Add tomatoes and spices. Cook till tomatoes soften.",
+      "Add potatoes and cauliflower. Mix well and cook covered until tender.",
+      "Sprinkle garam masala and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "aloo_gobi.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 190,
+      "protein": 4,
+      "fat": 9,
+      "carbs": 24
+    }
+  },
+  {
+    "title": "Aloo Baingan Curry",
+    "ingredients": [
+      "2 potatoes (cubed)",
+      "1 cup eggplant (cubed)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tsp ginger paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté cumin seeds and onions.",
+      "Add ginger paste, turmeric, and tomatoes. Cook until soft.",
+      "Add potatoes and eggplant. Add salt and mix well.",
+      "Cover and cook until vegetables are soft.",
+      "Sprinkle garam masala and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "aloo_baingan_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 3,
+      "fat": 9,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Kaddu ki Sabzi",
+    "ingredients": [
+      "2 cups pumpkin (cubed)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1/2 tsp red chili powder",
+      "1 tsp jaggery (optional)",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté cumin seeds and onions.",
+      "Add tomatoes, turmeric, and chili powder. Cook until soft.",
+      "Add pumpkin, salt, and little water. Cook covered until tender.",
+      "Add jaggery for a sweet touch (optional) and mix well.",
+      "Serve hot with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "kaddu_ki_sabzi.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 150,
+      "protein": 2,
+      "fat": 8,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Gobi Masala",
+    "ingredients": [
+      "2 cups cauliflower florets",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Blanch cauliflower and set aside.",
+      "Heat oil, sauté onions, add ginger-garlic paste and cook.",
+      "Add tomatoes and spices, cook until oil separates.",
+      "Add cauliflower, mix well and cook for 10–12 minutes.",
+      "Serve hot with chapati or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "gobi_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 4,
+      "fat": 9,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Aloo Matar",
+    "ingredients": [
+      "2 potatoes (cubed)",
+      "1/2 cup green peas",
+      "1 onion (chopped)",
+      "2 tomatoes (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil, sauté cumin seeds and onions until golden.",
+      "Add ginger-garlic paste and cook till fragrant.",
+      "Add tomatoes and spices. Cook till soft.",
+      "Add potatoes and peas. Add water and salt. Cook until soft.",
+      "Sprinkle garam masala and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "aloo_matar.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 190,
+      "protein": 5,
+      "fat": 8,
+      "carbs": 24
+    }
+  },
+  {
+    "title": "Matar Paneer",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1 cup green peas",
+      "2 tomatoes (pureed)",
+      "1 onion (finely chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions until golden.",
+      "Add ginger-garlic paste and cook till raw smell disappears.",
+      "Add tomato puree, turmeric, and coriander powder. Cook until oil separates.",
+      "Add green peas and cook for 5 minutes.",
+      "Add paneer cubes, salt, and some water. Simmer for 5-7 minutes.",
+      "Sprinkle garam masala and garnish with coriander before serving."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "matar_paneer.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 280,
+      "protein": 12,
+      "fat": 18,
+      "carbs": 16
+    }
+  },
+  {
+    "title": "Lauki Chana Dal Curry",
+    "ingredients": [
+      "1 cup bottle gourd (lauki), chopped",
+      "1/2 cup chana dal (split Bengal gram)",
+      "1 onion (chopped)",
+      "2 tomatoes (chopped)",
+      "1 tsp ginger paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Soak chana dal for 1 hour and pressure cook until soft.",
+      "Heat oil, add cumin seeds, and sauté onions.",
+      "Add ginger paste, tomatoes, turmeric, and coriander powder. Cook until soft.",
+      "Add lauki and cooked dal with water. Simmer until lauki is soft.",
+      "Garnish with coriander and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "lauki_chana_dal_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 210,
+      "protein": 9,
+      "fat": 8,
+      "carbs": 26
+    }
+  },
+  {
+    "title": "Methi Aloo",
+    "ingredients": [
+      "2 potatoes (cubed)",
+      "1 cup fresh fenugreek leaves (methi), chopped",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds and sauté.",
+      "Add potatoes and turmeric. Cook until half done.",
+      "Add methi leaves and cook until potatoes are tender.",
+      "Add red chili powder, garam masala, and salt. Mix well and cook for 2 minutes.",
+      "Serve hot with chapati."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "methi_aloo.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 3,
+      "fat": 8,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Bharwa Bhindi",
+    "ingredients": [
+      "250g okra (bhindi), slit",
+      "2 tbsp besan (gram flour)",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp amchur powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Mix besan with spices and salt to make stuffing.",
+      "Stuff the bhindi with this mixture.",
+      "Heat oil and place the stuffed bhindi gently in the pan.",
+      "Cook on low heat, turning occasionally, until bhindi is tender.",
+      "Serve hot with roti or dal rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "bharwa_bhindi.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 4,
+      "fat": 9,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Rajma Masala",
+    "ingredients": [
+      "1 cup kidney beans (rajma), soaked overnight",
+      "1 onion (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Pressure cook soaked rajma until soft.",
+      "Heat oil, add cumin seeds and sauté onions.",
+      "Add ginger-garlic paste and cook until raw smell disappears.",
+      "Add tomato puree and spices. Cook until oil separates.",
+      "Add cooked rajma, simmer for 10–15 minutes.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "rajma_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 230,
+      "protein": 9,
+      "fat": 7,
+      "carbs": 33
+    }
+  },
+  {
+    "title": "Chana Masala",
+    "ingredients": [
+      "1 cup chickpeas (chana), soaked overnight",
+      "1 onion (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1 tsp chana masala powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Pressure cook chickpeas until soft.",
+      "Heat oil, add cumin seeds and onions. Cook until golden.",
+      "Add ginger-garlic paste, tomato puree, and spices. Cook until oil separates.",
+      "Add chickpeas and simmer for 10 minutes.",
+      "Serve hot with bhature or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "chana_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 240,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Kala Chana Curry",
+    "ingredients": [
+      "1 cup black chickpeas (kala chana), soaked overnight",
+      "1 onion (chopped)",
+      "2 tomatoes (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Pressure cook soaked kala chana until soft.",
+      "Heat oil, add cumin seeds, sauté onions, then add ginger-garlic paste.",
+      "Add tomatoes and spices, cook until soft.",
+      "Add cooked kala chana and simmer for 10–15 minutes.",
+      "Serve with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "kala_chana_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 9,
+      "fat": 7,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Palak Aloo",
+    "ingredients": [
+      "2 potatoes (cubed)",
+      "2 cups spinach (palak), chopped",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tsp ginger paste",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp cumin seeds",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté cumin seeds and onions.",
+      "Add ginger paste, tomatoes, and turmeric. Cook till soft.",
+      "Add potatoes and cook halfway.",
+      "Add chopped spinach and cook till everything is tender.",
+      "Serve hot with chapati or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "palak_aloo.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 4,
+      "fat": 8,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Tamatar Bhindi",
+    "ingredients": [
+      "250g okra (bhindi), chopped",
+      "2 tomatoes (chopped)",
+      "1 onion (sliced)",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp cumin seeds",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté cumin seeds and onions.",
+      "Add tomatoes and spices, cook until soft.",
+      "Add bhindi and cook on low heat until tender.",
+      "Serve hot with roti or paratha."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "tamatar_bhindi.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 150,
+      "protein": 3,
+      "fat": 8,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Ghiya Kofta Curry",
+    "ingredients": [
+      "2 cups grated bottle gourd (ghiya)",
+      "2 tbsp besan (gram flour)",
+      "1 onion (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Oil (for frying)"
+    ],
+    "instructions": [
+      "Mix grated ghiya with besan and salt. Shape into small balls (koftas).",
+      "Deep-fry until golden and set aside.",
+      "Heat oil, sauté onion, then add ginger-garlic paste and tomato puree.",
+      "Add turmeric and garam masala. Cook till oil separates.",
+      "Add water to make gravy, bring to a boil, and gently add koftas.",
+      "Simmer for 5 minutes and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "ghiya_kofta_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "fat": 15,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Shahi Paneer",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "2 onions (sliced)",
+      "2 tomatoes (pureed)",
+      "2 tbsp cashew nuts",
+      "1/4 cup cream",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1 tsp ginger-garlic paste",
+      "2 tbsp ghee or oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Soak cashews in warm water for 15 minutes and grind to a paste.",
+      "Heat ghee, sauté onions until golden, add ginger-garlic paste.",
+      "Add tomato puree, turmeric, and cook until oil separates.",
+      "Add cashew paste, cream, garam masala, and mix well.",
+      "Add paneer cubes and simmer for 5 minutes.",
+      "Serve hot with naan or paratha."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "shahi_paneer.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 12,
+      "fat": 24,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Kadai Paneer",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1 capsicum (cubed)",
+      "1 onion (cubed)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1 tsp kadai masala",
+      "1/2 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions, capsicum, and paneer lightly. Set aside.",
+      "In the same pan, sauté ginger-garlic paste and add tomato puree.",
+      "Add turmeric, chili powder, and kadai masala. Cook until thick.",
+      "Add sautéed paneer and veggies back to the pan and mix well.",
+      "Cook for 5 minutes and serve hot with roti."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "kadai_paneer.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 280,
+      "protein": 11,
+      "fat": 20,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Paneer Butter Masala",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "2 tomatoes (pureed)",
+      "1 onion (chopped)",
+      "1/4 cup cream",
+      "1 tbsp butter",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat butter, sauté onion until golden.",
+      "Add ginger-garlic paste and tomato puree. Cook until thick.",
+      "Add turmeric, chili powder, garam masala and cream. Mix well.",
+      "Add paneer cubes and cook for 5 minutes.",
+      "Serve hot with naan or paratha."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "paneer_butter_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 11,
+      "fat": 23,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Palak Paneer",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "2 cups spinach (palak), blanched and pureed",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp garam masala",
+      "1 tbsp cream (optional)",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds and sauté onions.",
+      "Add ginger-garlic paste and tomato, cook until soft.",
+      "Add spinach puree, salt, garam masala and mix.",
+      "Add paneer cubes and simmer for 5 minutes.",
+      "Top with cream and serve with rice or roti."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "palak_paneer.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 260,
+      "protein": 12,
+      "fat": 18,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Paneer Do Pyaza",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "2 onions (sliced)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp garam masala",
+      "1/2 tsp chili powder",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Sauté cumin seeds and onions in oil until soft.",
+      "Add ginger-garlic paste, tomatoes, and spices. Cook until oil separates.",
+      "Add paneer and remaining onion slices. Stir well.",
+      "Simmer for a few minutes and serve with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "paneer_do_pyaza.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 10,
+      "fat": 18,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Matar Paneer",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1 cup green peas",
+      "2 tomatoes (pureed)",
+      "1 onion (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Sauté onion and ginger-garlic paste in oil.",
+      "Add tomato puree, turmeric, coriander powder. Cook until thick.",
+      "Add peas and simmer until soft.",
+      "Add paneer and garam masala. Cook for 5 minutes.",
+      "Serve with rice or chapati."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "matar_paneer.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 280,
+      "protein": 12,
+      "fat": 18,
+      "carbs": 16
+    }
+  },
+  {
+    "title": "Malai Kofta",
+    "ingredients": [
+      "200g paneer (grated)",
+      "1 boiled potato (mashed)",
+      "2 tbsp cream",
+      "2 tbsp cashew paste",
+      "2 tomatoes (pureed)",
+      "1/2 tsp garam masala",
+      "1/2 tsp turmeric powder",
+      "1 tsp ginger-garlic paste",
+      "Oil (for frying)",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Mix paneer, potato, salt and shape into koftas. Deep fry and set aside.",
+      "Heat oil, sauté ginger-garlic paste and tomato puree.",
+      "Add turmeric, garam masala, cashew paste, and cream.",
+      "Simmer the gravy, then add koftas gently.",
+      "Serve hot with naan or pulao."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Hard",
+    "image": "malai_kofta.jpg",
+    "category": "Main Course",
+    "prepTime": 30,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 350,
+      "protein": 10,
+      "fat": 26,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Khoya Paneer",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1/4 cup khoya (grated)",
+      "1 onion (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp garam masala",
+      "1/2 tsp turmeric powder",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onion, add ginger-garlic paste.",
+      "Add tomato puree, turmeric, and cook till oil separates.",
+      "Add grated khoya and mix well.",
+      "Add paneer and garam masala. Simmer for 5 minutes.",
+      "Serve hot with roti or paratha."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "khoya_paneer.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 11,
+      "fat": 24,
+      "carbs": 16
+    }
+  },
+  {
+    "title": "Achari Paneer",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp fennel seeds",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp nigella seeds",
+      "1/2 tsp turmeric powder",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and add fennel, mustard, and nigella seeds.",
+      "Sauté onion and ginger-garlic paste.",
+      "Add tomatoes, turmeric, and salt. Cook till soft.",
+      "Add paneer and mix well. Simmer for 5 minutes.",
+      "Serve with paratha or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "achari_paneer.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 270,
+      "protein": 11,
+      "fat": 18,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Mushroom Masala",
+    "ingredients": [
+      "200g mushrooms (sliced)",
+      "1 onion (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions until golden.",
+      "Add ginger-garlic paste, then tomato puree and spices.",
+      "Cook until oil separates, then add mushrooms.",
+      "Simmer until mushrooms are cooked through.",
+      "Serve hot with rice or roti."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "mushroom_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 5,
+      "fat": 12,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Mushroom Matar Curry",
+    "ingredients": [
+      "200g mushrooms (sliced)",
+      "1 cup green peas",
+      "1 onion (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until golden brown.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomato puree, turmeric, coriander powder and cook until oil separates.",
+      "Add mushrooms and green peas. Cook until tender.",
+      "Sprinkle garam masala, mix well, and simmer for 5 minutes.",
+      "Serve hot with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "mushroom_matar_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 190,
+      "protein": 6,
+      "fat": 10,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Mushroom Do Pyaza",
+    "ingredients": [
+      "200g mushrooms (sliced)",
+      "2 large onions (sliced)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté half the sliced onions until golden.",
+      "Add ginger-garlic paste and sauté for a minute.",
+      "Add chopped tomatoes, turmeric, chili powder and cook until soft.",
+      "Add mushrooms and remaining raw onion slices. Mix and cook.",
+      "Sprinkle garam masala, cook for a couple more minutes.",
+      "Serve hot with chapati or naan."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "mushroom_do_pyaza.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 5,
+      "fat": 12,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Palak Mushroom",
+    "ingredients": [
+      "200g mushrooms (sliced)",
+      "2 cups spinach (blanched and pureed)",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté cumin seeds and onions.",
+      "Add ginger-garlic paste and tomato, cook until soft.",
+      "Add spinach puree and mix well.",
+      "Add mushrooms, salt, and garam masala. Cook until mushrooms are tender.",
+      "Simmer for 5 minutes and serve with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "palak_mushroom.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 6,
+      "fat": 10,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Kadai Mushroom",
+    "ingredients": [
+      "200g mushrooms (sliced)",
+      "1 capsicum (cubed)",
+      "1 onion (cubed)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1 tsp kadai masala",
+      "1/2 tsp red chili powder",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions and capsicum until slightly soft.",
+      "Add ginger-garlic paste and tomato puree. Cook until oil separates.",
+      "Add kadai masala, chili powder, and mix well.",
+      "Add mushrooms and stir-fry until cooked through.",
+      "Simmer for a few minutes and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "kadai_mushroom.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 190,
+      "protein": 5,
+      "fat": 11,
+      "carbs": 16
+    }
+  },
+  {
+    "title": "Egg Curry (Punjabi Style)",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 onions (finely chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil in a pan, sauté chopped onions until golden brown.",
+      "Add ginger-garlic paste and cook until raw smell disappears.",
+      "Add tomato puree, turmeric, coriander, and chili powder. Cook until oil separates.",
+      "Add water to adjust consistency, then add boiled eggs.",
+      "Simmer for 5-7 minutes and add garam masala.",
+      "Garnish with chopped coriander and serve hot."
+    ],
+    "cuisine": "Punjabi",
+    "difficulty": "Medium",
+    "image": "egg_curry_punjabi.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 240,
+      "protein": 10,
+      "fat": 16,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Egg Masala Curry",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 onions (sliced)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1 tsp red chili powder",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and crackle cumin seeds.",
+      "Add onions and sauté till golden brown.",
+      "Add ginger-garlic paste, sauté for a minute.",
+      "Add tomato puree, turmeric, chili powder, and cook till oil separates.",
+      "Add boiled eggs and masala. Mix well and simmer.",
+      "Garnish and serve hot with rice or chapati."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "egg_masala_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 230,
+      "protein": 11,
+      "fat": 15,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Egg Do Pyaza",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 large onions (sliced)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté half the onions until golden.",
+      "Add ginger-garlic paste and chopped tomato. Cook well.",
+      "Add turmeric, coriander powder, and mix well.",
+      "Add the rest of the raw onion slices and mix.",
+      "Add boiled eggs and cook for 5-7 minutes.",
+      "Finish with garam masala and serve."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "egg_do_pyaza.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 10,
+      "fat": 14,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Dhaba-style Egg Curry",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 onions (finely chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Heat oil and fry onions until deep golden brown.",
+      "Add ginger-garlic paste and sauté until fragrant.",
+      "Add tomato puree, turmeric, chili powder and cook till oil separates.",
+      "Add boiled eggs and some water. Cook for 8-10 minutes.",
+      "Sprinkle garam masala and garnish with coriander.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "dhaba_egg_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 12,
+      "fat": 17,
+      "carbs": 11
+    }
+  },
+  {
+    "title": "Achari Anda Curry",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp mustard seeds",
+      "1/2 tsp fennel seeds",
+      "1/2 tsp nigella seeds (kalonji)",
+      "1/2 tsp chili powder",
+      "2 tbsp mustard oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat mustard oil, crackle mustard, fennel, and nigella seeds.",
+      "Add onions and sauté until golden brown.",
+      "Add ginger-garlic paste and chopped tomatoes.",
+      "Add turmeric, chili powder and cook till oil separates.",
+      "Add boiled eggs and cook in the masala for 5-7 minutes.",
+      "Serve with paratha or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "achari_anda_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 260,
+      "protein": 11,
+      "fat": 18,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Egg Butter Masala",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 tbsp butter",
+      "1 onion (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp Kashmiri chili powder",
+      "1/4 cup cream",
+      "Salt (to taste)",
+      "1/2 tsp garam masala"
+    ],
+    "instructions": [
+      "Melt butter and sauté onions until soft.",
+      "Add ginger-garlic paste and tomato puree. Cook until oil separates.",
+      "Add turmeric, chili powder and salt.",
+      "Add cream and mix well.",
+      "Add boiled eggs and simmer for 5 minutes.",
+      "Sprinkle garam masala and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "egg_butter_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 280,
+      "protein": 11,
+      "fat": 21,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Mughlai Egg Curry (Rich & Creamy)",
+    "ingredients": [
+      "4 boiled eggs",
+      "1 onion (finely chopped)",
+      "1/4 cup yogurt",
+      "1/4 cup cream",
+      "1 tbsp cashew paste",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp garam masala",
+      "1/4 tsp saffron (optional)",
+      "2 tbsp ghee or oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat ghee and sauté onions until golden.",
+      "Add ginger-garlic paste, then stir in yogurt slowly.",
+      "Add cashew paste and cook until thick.",
+      "Add cream, garam masala, and saffron if using.",
+      "Add boiled eggs and simmer gently.",
+      "Serve hot with naan or pulao."
+    ],
+    "cuisine": "Mughlai",
+    "difficulty": "Medium",
+    "image": "mughlai_egg_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 12,
+      "fat": 24,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Tandoori Egg Curry",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 tbsp tandoori masala",
+      "2 tbsp yogurt",
+      "1 onion (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Marinate boiled eggs in tandoori masala and yogurt for 30 mins.",
+      "Grill or pan-fry eggs until slightly charred.",
+      "Heat oil, sauté onions and ginger-garlic paste.",
+      "Add tomato puree and cook till oil separates.",
+      "Add grilled eggs to the gravy and simmer for 5 minutes.",
+      "Serve with roti or rice."
+    ],
+    "cuisine": "Fusion",
+    "difficulty": "Medium",
+    "image": "tandoori_egg_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 30,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 270,
+      "protein": 13,
+      "fat": 18,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Egg Bhurji Curry",
+    "ingredients": [
+      "4 eggs",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1 green chili (chopped)",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions and green chili.",
+      "Add ginger-garlic paste and tomato. Cook until soft.",
+      "Add turmeric and garam masala.",
+      "Crack in the eggs and scramble until cooked.",
+      "Add water if desired for curry-like consistency.",
+      "Garnish and serve hot."
+    ],
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "image": "egg_bhurji_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 12,
+      "fat": 14,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Egg & Aloo Curry",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 potatoes (cubed)",
+      "2 onions (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions until golden.",
+      "Add ginger-garlic paste, tomato puree, and spices.",
+      "Add potatoes and cook until almost tender.",
+      "Add boiled eggs and water. Simmer until potatoes are fully cooked.",
+      "Sprinkle garam masala and serve."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "egg_aloo_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 260,
+      "protein": 10,
+      "fat": 14,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Egg & Palak Curry",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 cups spinach (palak), chopped",
+      "1 onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 green chili, chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "2 tbsp oil",
+      "Water (as needed)"
+    ],
+    "instructions": [
+      "Blanch spinach in hot water for 2 minutes, drain, and blend to a puree.",
+      "Heat oil in a pan, add cumin seeds and sauté onions until golden.",
+      "Add ginger-garlic paste and green chili. Cook for 2 minutes.",
+      "Add tomato puree, turmeric, coriander powder, and salt. Cook until oil separates.",
+      "Add the spinach puree and cook for 5-6 minutes.",
+      "Add water to adjust the consistency and bring to a boil.",
+      "Make small slits in the boiled eggs and add to the gravy.",
+      "Sprinkle garam masala and simmer for 5 minutes.",
+      "Serve hot with rice or roti."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "egg_palak_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 10,
+      "fat": 14,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Egg Curry with Methi (Fenugreek Leaves)",
+    "ingredients": [
+      "4 boiled eggs",
+      "1 cup fresh methi leaves (fenugreek), chopped",
+      "1 onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 green chili, chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "2 tbsp oil",
+      "Water (as needed)"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add cumin seeds and sauté onions until golden.",
+      "Add ginger-garlic paste and green chili. Cook for a minute.",
+      "Add tomato puree, turmeric, coriander, red chili powder, and salt. Cook until oil separates.",
+      "Add chopped methi leaves and sauté for 3-4 minutes.",
+      "Add water and bring to a boil.",
+      "Make slits in the boiled eggs and add to the curry.",
+      "Simmer for 5-6 minutes, then sprinkle garam masala.",
+      "Serve hot with chapati or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "egg_methi_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 210,
+      "protein": 9,
+      "fat": 13,
+      "carbs": 11
+    }
+  },
+  {
+    "title": "Kashmiri Egg Rogan Curry",
+    "ingredients": [
+      "4 boiled eggs",
+      "1 onion, finely sliced",
+      "2 tomatoes, pureed",
+      "1/2 cup curd (yogurt)",
+      "2 tsp Kashmiri red chili powder",
+      "1 tsp fennel powder",
+      "1/2 tsp ginger powder (saunth)",
+      "1/4 tsp asafoetida (hing)",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "2 tbsp mustard oil",
+      "Water (as needed)"
+    ],
+    "instructions": [
+      "Heat mustard oil until it reaches smoking point, then cool slightly.",
+      "Add cumin seeds and asafoetida, then sauté onions until golden.",
+      "Add tomato puree and cook until oil separates.",
+      "Lower heat and stir in whisked curd gradually, stirring continuously.",
+      "Add chili powder, fennel powder, ginger powder, and salt. Cook for 2-3 minutes.",
+      "Add water for desired consistency and bring to a boil.",
+      "Make slits in the boiled eggs and add them to the curry.",
+      "Simmer for 8-10 minutes, sprinkle garam masala.",
+      "Serve hot with rice or naan."
+    ],
+    "cuisine": "Kashmiri",
+    "difficulty": "Medium",
+    "image": "kashmiri_egg_rogan.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 11,
+      "fat": 17,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Butter Chicken (Murgh Makhani)",
+    "ingredients": [
+      "500g boneless chicken",
+      "1 cup yogurt",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric",
+      "2 tbsp butter",
+      "1 onion, chopped",
+      "2 tomatoes, pureed",
+      "1/2 cup cream",
+      "1 tsp garam masala",
+      "1 tsp sugar",
+      "Salt (to taste)",
+      "2 tbsp oil",
+      "Water (as needed)"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt, red chili powder, turmeric, and salt for 1 hour.",
+      "Grill or pan-fry the chicken until half-cooked. Set aside.",
+      "In a pan, heat butter and oil, sauté onions until golden.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add tomato puree and cook until oil separates.",
+      "Add cream, sugar, garam masala, and salt. Mix well.",
+      "Add the grilled chicken and cook until done.",
+      "Garnish with cream or coriander and serve hot with naan."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "butter_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 30,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 400,
+      "protein": 28,
+      "fat": 25,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Kadai Chicken",
+    "ingredients": [
+      "500g chicken",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 green bell pepper, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "1 tsp kasuri methi",
+      "Salt (to taste)",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a kadai, sauté onions until golden.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add tomatoes and cook until soft.",
+      "Add all dry spices and cook till oil separates.",
+      "Add chicken and cook until browned.",
+      "Add bell pepper and a splash of water; cover and cook until chicken is done.",
+      "Garnish with kasuri methi and serve with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "kadai_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 360,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Chicken Masala (Punjabi style)",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, finely chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1/2 cup yogurt",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric",
+      "1 tsp garam masala",
+      "Salt (to taste)",
+      "2 tbsp oil",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a pan, sauté onions until golden.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add tomato puree, spices, and cook until oil separates.",
+      "Add yogurt, mix well and cook for 3-4 minutes.",
+      "Add chicken, cover, and cook until tender.",
+      "Garnish with coriander leaves and serve hot."
+    ],
+    "cuisine": "Punjabi",
+    "difficulty": "Medium",
+    "image": "chicken_masala_punjabi.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 370,
+      "protein": 32,
+      "fat": 22,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Chicken Do Pyaza",
+    "ingredients": [
+      "500g chicken",
+      "2 large onions, chopped",
+      "1 large onion, cubed",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "Salt (to taste)",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil, sauté chopped onions until golden.",
+      "Add ginger-garlic paste, cook for 2 mins.",
+      "Add tomatoes and all dry spices; cook till oil separates.",
+      "Add chicken and cook until nearly done.",
+      "Add cubed onions and cook for 5 minutes.",
+      "Garnish and serve hot."
+    ],
+    "cuisine": "Mughlai",
+    "difficulty": "Medium",
+    "image": "chicken_do_pyaza.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 355,
+      "protein": 30,
+      "fat": 21,
+      "carbs": 11
+    }
+  },
+  {
+    "title": "Chicken Korma",
+    "ingredients": [
+      "500g chicken",
+      "1/2 cup yogurt",
+      "2 onions, sliced",
+      "1 tbsp ginger-garlic paste",
+      "1/4 cup cream",
+      "1/4 cup cashew paste",
+      "1/2 tsp turmeric",
+      "1 tsp garam masala",
+      "1 tsp coriander powder",
+      "Salt (to taste)",
+      "2 tbsp ghee or oil"
+    ],
+    "instructions": [
+      "Fry onions until crisp and golden. Blend to a paste.",
+      "Heat oil, add ginger-garlic paste and sauté.",
+      "Add chicken and cook until sealed.",
+      "Add yogurt, spices, and onion paste. Mix well.",
+      "Add cashew paste and cook for 10-15 minutes.",
+      "Add cream, simmer for 5 minutes, and serve hot."
+    ],
+    "cuisine": "Mughlai",
+    "difficulty": "Medium",
+    "image": "chicken_korma.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 420,
+      "protein": 29,
+      "fat": 28,
+      "carbs": 13
+    }
+  },
+  {
+    "title": "Dhaba Style Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat mustard oil until smoky, then cool slightly.",
+      "Add onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add tomato puree and spices; cook until oil separates.",
+      "Add chicken, mix well, and cook covered until tender.",
+      "Sprinkle garam masala and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "dhaba_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 385,
+      "protein": 31,
+      "fat": 23,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Achari Chicken",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, chopped",
+      "1 tomato, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1 tbsp achar masala or pickling spices",
+      "1/2 tsp turmeric",
+      "1 tsp red chili powder",
+      "1 tsp mustard seeds",
+      "1/2 tsp fennel seeds",
+      "2 tbsp mustard oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat mustard oil, add mustard and fennel seeds.",
+      "Add onions and sauté until golden.",
+      "Add ginger-garlic paste, tomato puree, and spices.",
+      "Add chicken and cook until tender.",
+      "Add achar masala, mix well and cook for 5 more minutes.",
+      "Serve with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "achari_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 370,
+      "protein": 28,
+      "fat": 24,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Palak Chicken",
+    "ingredients": [
+      "500g chicken",
+      "2 cups spinach (blanched and pureed)",
+      "1 onion, chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric",
+      "1 tsp garam masala",
+      "Salt (to taste)",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil, sauté cumin and onions until golden.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add tomato puree and spices, cook until oil separates.",
+      "Add chicken and cook till half done.",
+      "Add spinach puree, mix well, and cook until chicken is tender.",
+      "Serve hot with rice or naan."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "palak_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 29,
+      "fat": 18,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Chicken Bhuna Masala",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, finely chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin seeds",
+      "1/2 tsp turmeric",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds and onions. Sauté until golden.",
+      "Add ginger-garlic paste and tomatoes. Cook until soft.",
+      "Add all spices and cook until oil separates.",
+      "Add chicken and bhuno (sauté) on high heat until well coated and cooked.",
+      "Reduce heat and cook covered until chicken is tender.",
+      "Serve dry or with little gravy as desired."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "chicken_bhuna.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 350,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Amritsari Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, grated",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric",
+      "1 tsp garam masala",
+      "1 tsp amchur (dry mango powder)",
+      "1/2 cup yogurt",
+      "2 tbsp mustard oil",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat mustard oil until smoky, cool slightly.",
+      "Add onions and sauté till golden.",
+      "Add ginger-garlic paste, tomatoes, and all dry spices.",
+      "Add yogurt and cook until oil separates.",
+      "Add chicken, mix well and cook covered until tender.",
+      "Sprinkle amchur before serving. Serve hot with naan or rice."
+    ],
+    "cuisine": "Punjabi",
+    "difficulty": "Medium",
+    "image": "amritsari_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 375,
+      "protein": 30,
+      "fat": 22,
+      "carbs": 11
+    }
+  },
+  {
+    "title": "Rajasthani Red Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "3-4 dry red chilies",
+      "2 onions, chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1/2 cup yogurt",
+      "1/2 tsp turmeric",
+      "1 tsp coriander powder",
+      "Salt (to taste)",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Soak red chilies in warm water and grind to a paste.",
+      "Heat mustard oil, sauté onions until golden.",
+      "Add ginger-garlic paste and chili paste. Cook well.",
+      "Add tomatoes, yogurt, and spices. Cook until oil separates.",
+      "Add chicken and cook covered until tender.",
+      "Serve hot with roti or rice."
+    ],
+    "cuisine": "Rajasthani",
+    "difficulty": "Medium",
+    "image": "rajasthani_red_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 380,
+      "protein": 30,
+      "fat": 22,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Rajasthani Red Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "3-4 dry red chilies",
+      "2 onions, chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1/2 cup yogurt",
+      "1/2 tsp turmeric",
+      "1 tsp coriander powder",
+      "Salt (to taste)",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Soak red chilies in warm water and grind to a paste.",
+      "Heat mustard oil, sauté onions until golden.",
+      "Add ginger-garlic paste and chili paste. Cook well.",
+      "Add tomatoes, yogurt, and spices. Cook until oil separates.",
+      "Add chicken and cook covered until tender.",
+      "Serve hot with roti or rice."
+    ],
+    "cuisine": "Rajasthani",
+    "difficulty": "Medium",
+    "image": "rajasthani_red_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 380,
+      "protein": 30,
+      "fat": 22,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Mutton Do Pyaza",
+    "ingredients": [
+      "500g mutton",
+      "4 large onions (2 sliced, 2 chopped)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "2 green chilies (slit)",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "3 tbsp oil",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil in a pressure cooker, add sliced onions and sauté until golden brown.",
+      "Add chopped onions and sauté until translucent.",
+      "Add ginger-garlic paste and green chilies; cook for 2 minutes.",
+      "Add chopped tomatoes, turmeric, red chili, and coriander powder; cook until oil separates.",
+      "Add mutton pieces and salt; cook until browned.",
+      "Add water, cover, and pressure cook for 20-25 minutes.",
+      "Once done, open the lid, add garam masala and simmer for 5 minutes.",
+      "Garnish with fresh coriander and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "mutton_do_pyaza.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 25,
+    "cookTime": 40,
+    "servings": 4,
+    "nutrition": {
+      "calories": 420,
+      "protein": 32,
+      "fat": 28,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Saag Gosht (Spinach Mutton Curry)",
+    "ingredients": [
+      "500g mutton",
+      "3 cups spinach (blanched and pureed)",
+      "2 onions (finely chopped)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "2 green chilies (slit)",
+      "1/2 tsp turmeric powder",
+      "1 tsp cumin powder",
+      "1 tsp red chili powder",
+      "Salt (to taste)",
+      "3 tbsp ghee or oil",
+      "1/2 tsp garam masala"
+    ],
+    "instructions": [
+      "Heat ghee in a pan, sauté onions until golden brown.",
+      "Add ginger-garlic paste and green chilies; cook for a minute.",
+      "Add chopped tomatoes, turmeric, cumin, and red chili powder. Cook until mushy.",
+      "Add mutton and salt; sauté until browned.",
+      "Add water, cover and cook until mutton is tender (pressure cook if needed).",
+      "Add spinach puree and simmer for 10 minutes.",
+      "Add garam masala and mix well.",
+      "Serve hot with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "saag_gosht.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 30,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 410,
+      "protein": 30,
+      "fat": 26,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "UP-style Tari Mutton Curry",
+    "ingredients": [
+      "500g mutton",
+      "4 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "2 bay leaves",
+      "4 cloves",
+      "4 black peppercorns",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "1/2 cup mustard oil",
+      "Water (as needed)",
+      "Coriander leaves (for garnish)"
+    ],
+    "instructions": [
+      "Heat mustard oil until it smokes, then cool slightly.",
+      "Add whole spices, then sliced onions; sauté until deep brown.",
+      "Add ginger-garlic paste and sauté for 2 minutes.",
+      "Add tomatoes and powdered spices; cook till oil separates.",
+      "Add mutton and salt; cook until well-sealed with masala.",
+      "Add water and cook until mutton is tender.",
+      "Adjust gravy consistency to keep it runny (tari).",
+      "Garnish with coriander and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "up_tari_mutton.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 25,
+    "cookTime": 50,
+    "servings": 4,
+    "nutrition": {
+      "calories": 450,
+      "protein": 32,
+      "fat": 30,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Achari Mutton",
+    "ingredients": [
+      "500g mutton",
+      "2 onions (finely chopped)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp fennel seeds",
+      "1/2 tsp nigella seeds",
+      "1/2 tsp fenugreek seeds",
+      "1 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "Salt (to taste)",
+      "3 tbsp mustard oil",
+      "1/2 tsp garam masala",
+      "2 tbsp curd",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Heat mustard oil, add all the achari spices and let them splutter.",
+      "Add onions and sauté until golden brown.",
+      "Add ginger-garlic paste, tomatoes, and powdered spices; cook until oil separates.",
+      "Add curd and mix well.",
+      "Add mutton and salt; cook until sealed.",
+      "Add water, cover and cook until tender.",
+      "Sprinkle garam masala and garnish with coriander.",
+      "Serve hot with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "achari_mutton.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 30,
+    "cookTime": 50,
+    "servings": 4,
+    "nutrition": {
+      "calories": 460,
+      "protein": 33,
+      "fat": 31,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Dhaba-style Mutton Curry",
+    "ingredients": [
+      "500g mutton",
+      "3 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "2 green chilies (slit)",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "4 tbsp oil",
+      "Water (as needed)",
+      "Coriander leaves (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil in a heavy pan, sauté onions until deeply browned.",
+      "Add ginger-garlic paste and green chilies; cook for a minute.",
+      "Add tomatoes and spices; cook until oil separates.",
+      "Add mutton and salt; cook on high heat until sealed and coated.",
+      "Add water, reduce heat, and slow cook until tender (or pressure cook).",
+      "Finish with garam masala and garnish with coriander.",
+      "Serve hot with naan or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "dhaba_style_mutton.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 30,
+    "cookTime": 55,
+    "servings": 4,
+    "nutrition": {
+      "calories": 470,
+      "protein": 34,
+      "fat": 32,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Amritsari Fish Curry",
+    "ingredients": [
+      "500g fish fillets (preferably river fish like rohu or catla)",
+      "2 onions (finely chopped)",
+      "2 tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "1/2 cup curd (whisked)",
+      "3 tbsp mustard oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt for 15 minutes.",
+      "Heat mustard oil in a pan until smoking, fry the fish lightly and set aside.",
+      "In the same oil, sauté onions until golden brown.",
+      "Add ginger-garlic paste, cook for 1-2 minutes.",
+      "Add tomato puree and powdered spices, cook until oil separates.",
+      "Add whisked curd and stir continuously for 2-3 minutes.",
+      "Add some water and bring the curry to a boil.",
+      "Add fried fish, simmer for 8–10 minutes.",
+      "Garnish with coriander and serve hot with rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "amritsari_fish_curry.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 28,
+      "fat": 18,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Punjabi Mustard Fish Curry",
+    "ingredients": [
+      "500g fish (preferably basa or rohu)",
+      "2 tbsp mustard seeds (yellow and black mixed)",
+      "2 green chilies",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "2 onions (finely chopped)",
+      "1 tomato (chopped)",
+      "1 tbsp mustard oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Grind mustard seeds with green chilies and a little water to make a paste.",
+      "Heat mustard oil, sauté onions until golden.",
+      "Add chopped tomato, turmeric, and red chili powder; cook until mushy.",
+      "Add mustard paste and cook for 2–3 minutes.",
+      "Add water and salt, bring to a boil.",
+      "Gently slide in fish pieces, simmer for 10 minutes.",
+      "Garnish with coriander and serve with steamed rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "punjabi_mustard_fish.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 27,
+      "fat": 16,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Sarson Fish Curry",
+    "ingredients": [
+      "500g fish (sliced)",
+      "3 tbsp mustard paste",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp nigella seeds (kalonji)",
+      "2 green chilies (slit)",
+      "Salt (to taste)",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt for 15 minutes.",
+      "Heat mustard oil till it smokes, fry the fish lightly and set aside.",
+      "In the same oil, add nigella seeds and green chilies.",
+      "Add mustard paste, red chili powder, and a little water; cook for 2 minutes.",
+      "Add water to make gravy, bring to boil.",
+      "Add fried fish and simmer for 10 minutes.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "sarson_fish_curry.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 300,
+      "protein": 25,
+      "fat": 18,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Fish Tikka Masala Curry",
+    "ingredients": [
+      "500g boneless fish chunks (salmon or basa)",
+      "1/2 cup yogurt",
+      "1 tbsp lemon juice",
+      "1 tsp turmeric",
+      "1 tsp red chili powder",
+      "1 tbsp tikka masala spice",
+      "2 onions (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "2 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Marinate fish with yogurt, lemon juice, turmeric, red chili, and tikka masala for 30 minutes.",
+      "Grill or pan-fry fish until lightly charred and cooked.",
+      "In a pan, heat oil and sauté onions until golden.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add tomato puree and spices; cook until oil separates.",
+      "Add grilled fish pieces and simmer for 5–7 minutes.",
+      "Garnish and serve with naan or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "fish_tikka_masala.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 30,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 370,
+      "protein": 30,
+      "fat": 22,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Fish & Potato Curry (Uttar Pradesh style)",
+    "ingredients": [
+      "500g fish (cut into pieces)",
+      "2 potatoes (cubed)",
+      "2 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "Salt (to taste)",
+      "3 tbsp mustard oil",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Marinate fish with salt and turmeric; set aside for 15 minutes.",
+      "Fry potatoes until golden and set aside.",
+      "Heat mustard oil, fry fish pieces lightly and remove.",
+      "In same oil, sauté onions until golden brown.",
+      "Add ginger-garlic paste and chopped tomatoes; cook till soft.",
+      "Add powdered spices and cook till oil separates.",
+      "Add fried potatoes and water; bring to boil.",
+      "Add fried fish, cover and simmer for 10 minutes.",
+      "Garnish with coriander and serve hot."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "fish_potato_curry_up.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 25,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 390,
+      "protein": 28,
+      "fat": 20,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Kashmiri Fish Curry",
+    "ingredients": [
+      "500g fish (preferably trout or rohu)",
+      "2 tbsp mustard oil",
+      "1/2 tsp asafoetida",
+      "1/2 tsp turmeric powder",
+      "1 tsp Kashmiri red chili powder",
+      "1 tsp fennel powder",
+      "1/2 tsp dry ginger powder",
+      "1/2 tsp garam masala",
+      "2 cups water",
+      "Salt (to taste)"
+    ],
+    "instructions": [
+      "Heat mustard oil until smoking; reduce heat and add asafoetida.",
+      "Add turmeric, chili powder, fennel powder, and ginger powder. Stir briefly.",
+      "Add water and bring to a boil.",
+      "Add fish pieces and salt. Cook on medium flame for 10–12 minutes.",
+      "Sprinkle garam masala and simmer for 2 more minutes.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Kashmiri",
+    "difficulty": "Medium",
+    "image": "kashmiri_fish_curry.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 27,
+      "fat": 18,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Egg & Chicken Mixed Curry",
+    "ingredients": [
+      "4 boiled eggs",
+      "300g chicken (boneless or bone-in)",
+      "2 onions (finely chopped)",
+      "2 tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "3 tbsp oil",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions until golden brown.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomato puree, turmeric, chili powder, and coriander powder. Cook until oil separates.",
+      "Add chicken and cook until sealed.",
+      "Add water and simmer for 15–20 minutes until chicken is cooked.",
+      "Add boiled eggs and garam masala. Cook for 5 more minutes.",
+      "Garnish and serve with rice or roti."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "egg_chicken_mixed_curry.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 410,
+      "protein": 35,
+      "fat": 25,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Chicken Keema Curry",
+    "ingredients": [
+      "400g chicken keema (minced chicken)",
+      "2 onions (finely chopped)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "3 tbsp oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions until golden.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomatoes and all dry spices. Cook until tomatoes soften.",
+      "Add chicken keema and mix well.",
+      "Cook covered on medium heat for 15–20 minutes, stirring occasionally.",
+      "Add garam masala and simmer for 5 more minutes.",
+      "Garnish and serve hot with roti or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "image": "chicken_keema_curry.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 360,
+      "protein": 33,
+      "fat": 22,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Anda Keema Curry",
+    "ingredients": [
+      "300g mutton keema (minced meat)",
+      "4 boiled eggs",
+      "2 onions (finely chopped)",
+      "2 tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Salt (to taste)",
+      "3 tbsp oil",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Heat oil and sauté onions until golden.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomato puree and spices. Cook until oil separates.",
+      "Add keema and cook for 15–20 minutes, adding water as needed.",
+      "Add boiled eggs, simmer for 5 more minutes.",
+      "Garnish with coriander and serve with paratha or rice."
+    ],
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "image": "anda_keema_curry.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 440,
+      "protein": 38,
+      "fat": 28,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Prawn Masala (Punjab style)",
+    "ingredients": [
+      "400g prawns (cleaned and deveined)",
+      "2 onions (finely chopped)",
+      "2 tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "1/2 tsp cumin seeds",
+      "3 tbsp mustard oil",
+      "Salt (to taste)",
+      "Fresh coriander (for garnish)"
+    ],
+    "instructions": [
+      "Marinate prawns with turmeric and salt for 10 minutes.",
+      "Heat mustard oil and add cumin seeds.",
+      "Sauté onions till golden brown, then add ginger-garlic paste.",
+      "Add tomato puree and spices. Cook until oil separates.",
+      "Add prawns and cook for 5–7 minutes until done.",
+      "Garnish with coriander and serve with rice or chapati."
+    ],
+    "cuisine": "Punjabi",
+    "difficulty": "Easy",
+    "image": "prawn_masala_punjabi.jpg",
+    "category": "Non-Vegetarian",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 7
+    }
+  }
+]

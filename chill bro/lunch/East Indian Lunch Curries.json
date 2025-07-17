@@ -1,0 +1,2417 @@
+[
+  {
+    "title": "Aloo Posto",
+    "ingredients": [
+      "3 medium potatoes, diced",
+      "3 tbsp poppy seeds",
+      "2 green chilies",
+      "1/2 tsp kalonji (nigella seeds)",
+      "2 tbsp mustard oil",
+      "Salt to taste",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Soak poppy seeds in water for 30 minutes and grind with green chilies to a paste.",
+      "Heat mustard oil in a pan and temper with kalonji.",
+      "Add diced potatoes and sauté for 5-6 minutes.",
+      "Add poppy seed paste, salt, and a little water.",
+      "Cook covered until potatoes are soft and coated with the paste.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "aloo_posto.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 210,
+      "protein": 4,
+      "fat": 10,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Shukto",
+    "ingredients": [
+      "1/2 cup bitter gourd, sliced",
+      "1/2 cup raw banana, chopped",
+      "1/2 cup drumsticks, cut",
+      "1/2 cup eggplant, chopped",
+      "1 tbsp mustard paste",
+      "1 tsp ginger paste",
+      "1/4 tsp mustard seeds",
+      "1/4 tsp radhuni (or celery seeds)",
+      "2 tbsp mustard oil",
+      "Salt to taste",
+      "Sugar to taste",
+      "Water as needed",
+      "Milk (optional, 1/4 cup)"
+    ],
+    "instructions": [
+      "Heat mustard oil and fry bitter gourd slices lightly. Remove and keep aside.",
+      "Temper oil with mustard seeds and radhuni.",
+      "Add chopped vegetables and sauté for a few minutes.",
+      "Add mustard paste, ginger paste, salt, and sugar.",
+      "Add water and cook till vegetables are tender.",
+      "Add milk (if using) and simmer briefly.",
+      "Add fried bitter gourd and serve hot."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "shukto.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 5,
+      "fat": 8,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Lau Ghonto",
+    "ingredients": [
+      "1 medium bottle gourd, grated or finely chopped",
+      "1/4 cup moong dal (optional)",
+      "1 bay leaf",
+      "1 tsp cumin seeds",
+      "2 green chilies, slit",
+      "1/4 tsp turmeric",
+      "Salt to taste",
+      "1 tbsp mustard oil",
+      "Grated coconut (optional, 2 tbsp)"
+    ],
+    "instructions": [
+      "Dry roast moong dal until golden (if using). Boil till soft.",
+      "Heat mustard oil and add cumin seeds, bay leaf, and green chilies.",
+      "Add bottle gourd, turmeric, and salt. Cook covered till soft.",
+      "Add cooked moong dal and mix well.",
+      "Sprinkle grated coconut and serve with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "lau_ghonto.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 4,
+      "fat": 5,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Kumro Chokka",
+    "ingredients": [
+      "2 cups pumpkin, cubed",
+      "1/2 cup boiled black chickpeas (kala chana)",
+      "1 tsp panch phoron",
+      "1 dried red chili",
+      "1/4 tsp turmeric",
+      "Salt to taste",
+      "1 tbsp mustard oil",
+      "1/2 tsp sugar"
+    ],
+    "instructions": [
+      "Heat mustard oil and add panch phoron and dried red chili.",
+      "Add pumpkin, turmeric, salt, and cook covered till soft.",
+      "Add boiled kala chana and mix well.",
+      "Add sugar and simmer till slightly dry.",
+      "Serve with luchi or rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "kumro_chokka.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 5,
+      "fat": 6,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Aloo Begun Jhol",
+    "ingredients": [
+      "2 potatoes, cubed",
+      "1 medium eggplant, cubed",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin seeds",
+      "1 green chili, slit",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Heat mustard oil, add cumin seeds and green chili.",
+      "Add potatoes and eggplant. Fry for 3-4 minutes.",
+      "Add turmeric and salt, sauté briefly.",
+      "Add tomatoes and water. Cover and cook till veggies are soft.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "aloo_begun_jhol.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 3,
+      "fat": 7,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Chorchori",
+    "ingredients": [
+      "1 cup pumpkin, diced",
+      "1 cup potatoes, diced",
+      "1 cup eggplant, diced",
+      "1/2 cup spinach or other greens",
+      "1/2 tsp panch phoron",
+      "1 dried red chili",
+      "1/4 tsp turmeric",
+      "Salt to taste",
+      "1 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat mustard oil, add panch phoron and red chili.",
+      "Add all vegetables, turmeric, and salt.",
+      "Mix and cook covered on low heat until soft.",
+      "Uncover and cook till slightly dry.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "chorchori.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Jhinge Aloo Posto",
+    "ingredients": [
+      "2 ridge gourds (jhinge), chopped",
+      "2 medium potatoes, diced",
+      "3 tbsp poppy seeds",
+      "2 green chilies",
+      "1/2 tsp kalonji",
+      "2 tbsp mustard oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Soak and grind poppy seeds with green chilies.",
+      "Heat mustard oil, add kalonji.",
+      "Add potatoes and ridge gourd, sauté for 5 minutes.",
+      "Add poppy seed paste and salt, cook covered till veggies are soft.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "jhinge_aloo_posto.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 200,
+      "protein": 4,
+      "fat": 8,
+      "carbs": 26
+    }
+  },
+  {
+    "title": "Jharkhandi Dubki Kadhi",
+    "ingredients": [
+      "1 cup besan (gram flour)",
+      "1/2 tsp turmeric",
+      "1 tsp cumin seeds",
+      "1/2 tsp ajwain",
+      "2 cups yogurt",
+      "1 tsp mustard seeds",
+      "1 dried red chili",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Mix besan with salt, turmeric, ajwain, and water to make a thick batter.",
+      "Fry spoonfuls of batter to make pakoras.",
+      "Whisk yogurt with besan, turmeric, salt, and water.",
+      "Heat oil, add mustard seeds, cumin, and red chili for tempering.",
+      "Add yogurt mixture, bring to a boil, then simmer.",
+      "Add pakoras and cook for 10 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "Jharkhandi",
+    "difficulty": "Medium",
+    "image": "dubki_kadhi.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 7,
+      "fat": 12,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Kaddu ki Sabzi (Bihari style)",
+    "ingredients": [
+      "2 cups pumpkin, cubed",
+      "1/2 tsp panch phoron",
+      "1/4 tsp turmeric",
+      "1/2 tsp red chili powder",
+      "1/2 tsp sugar",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Heat mustard oil, add panch phoron.",
+      "Add pumpkin, turmeric, chili powder, salt, and sugar.",
+      "Cook covered with a little water until soft.",
+      "Mash lightly and cook till dry.",
+      "Serve with poori or paratha."
+    ],
+    "cuisine": "Bihari",
+    "difficulty": "Easy",
+    "image": "kaddu_ki_sabzi.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 3,
+      "fat": 7,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Bihari Aloo Bharta",
+    "ingredients": [
+      "3 boiled potatoes",
+      "2 green chilies, finely chopped",
+      "1 small onion, finely chopped",
+      "1 tsp mustard oil",
+      "Salt to taste",
+      "Fresh coriander leaves (optional)"
+    ],
+    "instructions": [
+      "Mash boiled potatoes thoroughly.",
+      "Add chopped green chilies, onion, salt, and mustard oil.",
+      "Mix well and garnish with coriander leaves if using.",
+      "Serve with rice and dal."
+    ],
+    "cuisine": "Bihari",
+    "difficulty": "Easy",
+    "image": "aloo_bharta.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 5,
+    "servings": 4,
+    "nutrition": {
+      "calories": 170,
+      "protein": 3,
+      "fat": 4,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Ghugni",
+    "ingredients": [
+      "1 cup dried white peas",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin powder",
+      "1/2 tsp garam masala",
+      "1 green chili, chopped",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Water as needed",
+      "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Soak white peas overnight and boil until soft.",
+      "Heat oil, sauté onion and green chili until golden.",
+      "Add ginger-garlic paste, tomato, turmeric, cumin powder, and salt. Cook till oil separates.",
+      "Add boiled peas and water. Simmer for 10-15 minutes.",
+      "Sprinkle garam masala and garnish with coriander.",
+      "Serve hot with puri or bread."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "ghugni.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 9,
+      "fat": 6,
+      "carbs": 32
+    }
+  },
+  {
+    "title": "Parwal Aloo Curry",
+    "ingredients": [
+      "200g parwal (pointed gourd), sliced",
+      "2 potatoes, cubed",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin seeds",
+      "1 green chili, slit",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Heat mustard oil, add cumin seeds and green chili.",
+      "Add onion, sauté until soft. Add tomato and cook till mushy.",
+      "Add turmeric, salt, parwal, and potato. Mix well.",
+      "Add water, cover and cook till vegetables are tender.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "Bihari",
+    "difficulty": "Easy",
+    "image": "parwal_aloo_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 190,
+      "protein": 4,
+      "fat": 7,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Santula",
+    "ingredients": [
+      "1 cup potato, cubed",
+      "1 cup raw papaya, cubed",
+      "1/2 cup brinjal, cubed",
+      "1/2 tsp panch phoron",
+      "1/2 tsp ginger paste",
+      "1 green chili, slit",
+      "Salt to taste",
+      "1 tbsp oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Boil all vegetables with a pinch of salt till soft. Drain and keep aside.",
+      "Heat oil, add panch phoron and green chili.",
+      "Add ginger paste, sauté briefly, then add boiled vegetables.",
+      "Toss gently, cook for 2-3 minutes, and serve warm."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Easy",
+    "image": "santula.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 150,
+      "protein": 3,
+      "fat": 5,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Dahi Baingan",
+    "ingredients": [
+      "1 medium eggplant, sliced",
+      "1 cup yogurt",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1 green chili, chopped",
+      "1/4 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Fry eggplant slices until golden. Set aside.",
+      "Whisk yogurt with salt and turmeric.",
+      "Heat oil, temper with mustard and cumin seeds, and green chili.",
+      "Add yogurt and simmer for 2-3 minutes.",
+      "Add fried eggplant, mix gently, and cook for 5 more minutes.",
+      "Garnish with coriander and serve."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Easy",
+    "image": "dahi_baingan.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 5,
+      "fat": 10,
+      "carbs": 15
+    }
+  },
+  {
+    "title": "Dalma",
+    "ingredients": [
+      "1 cup toor dal",
+      "1 cup mixed vegetables (raw banana, pumpkin, papaya, brinjal)",
+      "1/2 tsp turmeric",
+      "1 tsp ginger paste",
+      "1/2 tsp cumin seeds",
+      "2 dried red chilies",
+      "2 tbsp grated coconut",
+      "Salt to taste",
+      "2 tbsp ghee or oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Boil dal and vegetables with turmeric and salt until soft.",
+      "Heat ghee, add cumin seeds and red chilies.",
+      "Add ginger paste and sauté briefly.",
+      "Pour this tempering into the dal-vegetable mix.",
+      "Add grated coconut and simmer for 5 minutes.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Medium",
+    "image": "dalma.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 240,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 30
+    }
+  },
+  {
+    "title": "Saag Bhaja",
+    "ingredients": [
+      "2 cups leafy greens (spinach, amaranth, or mustard greens), chopped",
+      "2 garlic cloves, chopped",
+      "1 dried red chili",
+      "1/2 tsp mustard seeds",
+      "Salt to taste",
+      "1 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat mustard oil, add mustard seeds and red chili.",
+      "Add chopped garlic and sauté till golden.",
+      "Add leafy greens and salt. Stir-fry till wilted and dry.",
+      "Serve as a side dish with rice and dal."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "saag_bhaja.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 4,
+    "nutrition": {
+      "calories": 90,
+      "protein": 3,
+      "fat": 4,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Khar",
+    "ingredients": [
+      "2 cups raw papaya, chopped",
+      "1/2 tsp mustard seeds",
+      "1/4 tsp baking soda (substitute for traditional khar)",
+      "1 dried red chili",
+      "Salt to taste",
+      "1 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Boil papaya with baking soda and salt until tender.",
+      "Heat mustard oil, add mustard seeds and red chili.",
+      "Add boiled papaya, stir and cook for 5-7 minutes.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Assamese",
+    "difficulty": "Medium",
+    "image": "khar.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 130,
+      "protein": 2,
+      "fat": 5,
+      "carbs": 18
+    }
+  },
+  {
+    "title": "Aloo Pitika",
+    "ingredients": [
+      "3 boiled potatoes",
+      "1 small onion, finely chopped",
+      "1 green chili, chopped",
+      "1 tbsp mustard oil",
+      "Salt to taste",
+      "Fresh coriander (optional)"
+    ],
+    "instructions": [
+      "Mash boiled potatoes in a bowl.",
+      "Add chopped onion, green chili, salt, and mustard oil.",
+      "Mix well. Garnish with coriander if desired.",
+      "Serve with rice and dal."
+    ],
+    "cuisine": "Assamese",
+    "difficulty": "Easy",
+    "image": "aloo_pitika.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 5,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 3,
+      "fat": 5,
+      "carbs": 25
+    }
+  },
+  {
+    "title": "Kosha Kumro",
+    "ingredients": [
+      "2 cups pumpkin, cubed",
+      "1/2 tsp panch phoron",
+      "1 dried red chili",
+      "1/4 tsp turmeric",
+      "1/2 tsp sugar",
+      "Salt to taste",
+      "1 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat mustard oil, add panch phoron and dried red chili.",
+      "Add pumpkin, turmeric, sugar, and salt.",
+      "Cook covered until soft, stir occasionally.",
+      "Uncover and sauté until dry.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "kosha_kumro.jpg",
+    "category": "Side Dish",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 140,
+      "protein": 3,
+      "fat": 5,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Lau Shukto",
+    "ingredients": [
+      "1 medium bottle gourd, chopped",
+      "1/2 cup bitter gourd slices",
+      "1/2 tsp mustard paste",
+      "1/4 tsp radhuni (or celery seeds)",
+      "1/2 tsp ginger paste",
+      "1/2 tsp sugar",
+      "Salt to taste",
+      "1 tbsp mustard oil",
+      "Water as needed",
+      "Milk (optional, 1/4 cup)"
+    ],
+    "instructions": [
+      "Lightly fry bitter gourd and set aside.",
+      "Heat mustard oil, add radhuni and sauté ginger paste.",
+      "Add bottle gourd, salt, sugar, and water. Cook till tender.",
+      "Add mustard paste and milk, simmer briefly.",
+      "Add fried bitter gourd and cook 2-3 minutes more.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "lau_shukto.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 160,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Bengali Paneer Curry (Chanar Dalna)",
+    "ingredients": [
+      "250g paneer, cubed",
+      "2 potatoes, cubed",
+      "1 onion, grated",
+      "1 tomato, chopped",
+      "1/2 tsp ginger paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin powder",
+      "1/4 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Fry paneer and potatoes until golden and set aside.",
+      "Heat oil, sauté onion and ginger paste.",
+      "Add tomato, turmeric, cumin powder, and salt. Cook until oil separates.",
+      "Add potatoes and water. Cook until soft.",
+      "Add paneer, garam masala, and simmer for 5 minutes.",
+      "Serve hot with rice or roti."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "chanar_dalna.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 280,
+      "protein": 12,
+      "fat": 16,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Chanar Kalia",
+    "ingredients": [
+      "250g paneer, cubed",
+      "1 onion, finely chopped",
+      "1 tomato, pureed",
+      "1/2 tsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp chili powder",
+      "1/2 tsp garam masala",
+      "1 bay leaf",
+      "Salt to taste",
+      "2 tbsp ghee or oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Fry paneer until golden and set aside.",
+      "Heat ghee, add bay leaf and chopped onion. Sauté till golden.",
+      "Add ginger-garlic paste, turmeric, chili powder, and cook till oil separates.",
+      "Add tomato puree and salt. Cook well.",
+      "Add water, bring to a boil, add paneer, and simmer for 5–7 minutes.",
+      "Finish with garam masala. Serve with pulao or rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "chanar_kalia.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 13,
+      "fat": 18,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Paneer Ghugni",
+    "ingredients": [
+      "1 cup dried white peas, soaked and boiled",
+      "150g paneer, crumbled or cubed",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp ginger paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin powder",
+      "1 green chili, chopped",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Fry paneer lightly and keep aside.",
+      "Heat oil, sauté onion, green chili, and ginger paste.",
+      "Add tomato, turmeric, cumin, and salt. Cook till soft.",
+      "Add boiled peas and paneer. Add water as needed and simmer 10 minutes.",
+      "Garnish with coriander and serve hot."
+    ],
+    "cuisine": "Fusion",
+    "difficulty": "Easy",
+    "image": "paneer_ghugni.jpg",
+    "category": "Snack",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 28
+    }
+  },
+  {
+    "title": "Mushroom Jhol",
+    "ingredients": [
+      "200g mushrooms, sliced",
+      "1 potato, cubed",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp ginger paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Heat oil, sauté onion and ginger paste.",
+      "Add tomato, turmeric, cumin powder, and salt. Cook till oil separates.",
+      "Add potato and cook for 5 minutes.",
+      "Add mushrooms and water. Simmer until potatoes are tender.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "mushroom_jhol.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 180,
+      "protein": 6,
+      "fat": 7,
+      "carbs": 22
+    }
+  },
+  {
+    "title": "Mushroom Aloo Curry – Bihari Style",
+    "ingredients": [
+      "200g mushrooms, sliced",
+      "2 potatoes, cubed",
+      "1 onion, chopped",
+      "1/2 tsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp chili powder",
+      "1/2 tsp cumin seeds",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Heat mustard oil, add cumin seeds.",
+      "Add onion and ginger-garlic paste, sauté well.",
+      "Add turmeric, chili powder, salt, and mix.",
+      "Add potatoes and cook for 5 minutes.",
+      "Add mushrooms and water. Simmer until vegetables are cooked.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "Bihari",
+    "difficulty": "Easy",
+    "image": "mushroom_aloo_bihari.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 190,
+      "protein": 5,
+      "fat": 8,
+      "carbs": 24
+    }
+  },
+  {
+    "title": "Paneer Posto",
+    "ingredients": [
+      "200g paneer, cubed",
+      "2 tbsp poppy seeds",
+      "2 green chilies",
+      "1/4 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Soak poppy seeds and grind with green chilies into a paste.",
+      "Heat mustard oil, fry paneer lightly and set aside.",
+      "Add posto paste, turmeric, and salt to the oil.",
+      "Cook the paste till oil separates.",
+      "Add paneer and a little water. Simmer for 5 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "paneer_posto.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 280,
+      "protein": 11,
+      "fat": 18,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Chanar Shorshe (Paneer Mustard Curry – Bengal)",
+    "ingredients": [
+      "200g paneer, cubed",
+      "1 tbsp mustard seeds",
+      "1 tbsp poppy seeds",
+      "2 green chilies",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Soak and grind mustard and poppy seeds with green chilies.",
+      "Lightly fry paneer in mustard oil and set aside.",
+      "Add paste to oil with turmeric and salt. Cook till raw smell goes.",
+      "Add water and bring to a simmer.",
+      "Add paneer and cook for 5–7 minutes.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "chanar_shorshe.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 290,
+      "protein": 12,
+      "fat": 19,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Paneer Dalma (Fusion Style)",
+    "ingredients": [
+      "1/2 cup toor dal",
+      "200g paneer, cubed",
+      "1 cup mixed vegetables (carrot, beans, pumpkin)",
+      "1/2 tsp ginger paste",
+      "1/2 tsp cumin seeds",
+      "2 red chilies",
+      "1 tbsp grated coconut",
+      "Salt to taste",
+      "2 tbsp ghee or oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Boil dal with vegetables, salt, and turmeric until soft.",
+      "Fry paneer cubes until golden and set aside.",
+      "In a pan, heat ghee, add cumin and red chilies.",
+      "Add ginger paste and sauté briefly.",
+      "Mix dal-vegetable mixture, add paneer and coconut.",
+      "Simmer for 5–7 minutes. Serve with rice."
+    ],
+    "cuisine": "Fusion (Odia Inspired)",
+    "difficulty": "Medium",
+    "image": "paneer_dalma.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 14,
+      "fat": 16,
+      "carbs": 24
+    }
+  },
+  {
+    "title": "Dahi Paneer (Odisha Style Yogurt Paneer Curry)",
+    "ingredients": [
+      "200g paneer, cubed",
+      "1 cup yogurt",
+      "1/2 tsp mustard seeds",
+      "1 green chili, chopped",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "1 tbsp mustard oil",
+      "Coriander for garnish"
+    ],
+    "instructions": [
+      "Whisk yogurt with turmeric and salt.",
+      "Lightly fry paneer and set aside.",
+      "Heat mustard oil, add mustard seeds and green chili.",
+      "Lower heat, add yogurt and cook gently, stirring continuously.",
+      "Add paneer and simmer for 5–7 minutes.",
+      "Garnish and serve with rice."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Easy",
+    "image": "dahi_paneer_odisha.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 270,
+      "protein": 11,
+      "fat": 15,
+      "carbs": 16
+    }
+  },
+  {
+    "title": "Dim Kosha (Bengali Spicy Egg Curry)",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 onions, finely chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Heat mustard oil and lightly fry the boiled eggs with a pinch of turmeric. Set aside.",
+      "In the same oil, sauté chopped onions till golden brown.",
+      "Add ginger-garlic paste, turmeric, chili powder, and cook till oil separates.",
+      "Add chopped tomato and cook until soft.",
+      "Add fried eggs and garam masala, mix well and simmer for 5 minutes.",
+      "Garnish with coriander and serve hot with rice or roti."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "dim_kosha.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 230,
+      "protein": 13,
+      "fat": 15,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Dim Jhol (Light Tomato Gravy Egg Curry – Bengali)",
+    "ingredients": [
+      "4 boiled eggs",
+      "1 potato, cubed",
+      "1 onion, sliced",
+      "1 tomato, chopped",
+      "1/2 tsp ginger paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin powder",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Fry boiled eggs and potatoes with a little turmeric. Set aside.",
+      "In mustard oil, sauté onion till soft. Add ginger paste.",
+      "Add turmeric, cumin powder, salt, and chopped tomato. Cook till soft.",
+      "Add fried eggs and potatoes with water. Simmer till potatoes are tender.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "dim_jhol.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 210,
+      "protein": 12,
+      "fat": 12,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Anda Curry (Bihari Style)",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Fry the eggs till golden and keep aside.",
+      "Heat mustard oil, sauté onions till golden.",
+      "Add ginger-garlic paste, turmeric, chili powder, salt, and tomato. Cook till oil separates.",
+      "Add fried eggs and garam masala. Cook for 5 minutes.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "Bihari",
+    "difficulty": "Easy",
+    "image": "bihari_anda_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 13,
+      "fat": 14,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Egg Dalma (Odisha Fusion Curry)",
+    "ingredients": [
+      "4 boiled eggs",
+      "1/2 cup toor dal",
+      "1 cup mixed vegetables (pumpkin, ridge gourd, carrot)",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin seeds",
+      "1 dry red chili",
+      "1 tbsp grated coconut",
+      "Salt to taste",
+      "1 tbsp ghee"
+    ],
+    "instructions": [
+      "Boil dal with vegetables, turmeric, and salt until soft.",
+      "Heat ghee, add cumin seeds and red chili.",
+      "Add the cooked dal mixture and grated coconut. Mix well.",
+      "Add boiled eggs and simmer for 5 minutes.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Medium",
+    "image": "egg_dalma.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 14,
+      "fat": 10,
+      "carbs": 20
+    }
+  },
+  {
+    "title": "Dim Posto (Egg in Poppy Seed Gravy – Bengal)",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 tbsp poppy seeds",
+      "2 green chilies",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Soak and grind poppy seeds with green chilies into a paste.",
+      "Fry boiled eggs lightly with turmeric. Set aside.",
+      "In mustard oil, cook the posto paste with turmeric and salt till oil separates.",
+      "Add eggs and water. Simmer for 5–7 minutes.",
+      "Serve with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "dim_posto.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 240,
+      "protein": 13,
+      "fat": 16,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Egg Mustard Curry (Odisha Style)",
+    "ingredients": [
+      "4 boiled eggs",
+      "1 tbsp mustard seeds",
+      "1 green chili",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Grind mustard seeds and green chili into a paste.",
+      "Fry boiled eggs in oil with turmeric. Set aside.",
+      "In same oil, cook mustard paste with turmeric and salt till raw smell goes.",
+      "Add water and bring to a simmer.",
+      "Add eggs and cook for 5 minutes. Serve with rice."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Medium",
+    "image": "egg_mustard_odisha.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 230,
+      "protein": 13,
+      "fat": 15,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Egg Kalia (Rich Bengali Egg Curry)",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 onions, pureed",
+      "1 tomato, pureed",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp yogurt",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Fry boiled eggs and set aside.",
+      "Heat oil, sauté onion puree till golden.",
+      "Add ginger-garlic paste, turmeric, chili, and cook.",
+      "Add tomato puree and yogurt, cook till oil separates.",
+      "Add eggs and garam masala, simmer for 5–7 minutes.",
+      "Serve with paratha or rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "egg_kalia.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 270,
+      "protein": 14,
+      "fat": 17,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Dim Torkari (Rustic Egg Curry – Jharkhandi Style)",
+    "ingredients": [
+      "4 boiled eggs",
+      "1 potato, diced",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin powder",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Fry eggs and potatoes with turmeric. Set aside.",
+      "Sauté onions in mustard oil till soft.",
+      "Add tomato, turmeric, cumin, and salt. Cook well.",
+      "Add eggs, potatoes, water and simmer till potatoes are tender.",
+      "Serve with rice or puri."
+    ],
+    "cuisine": "Jharkhandi",
+    "difficulty": "Easy",
+    "image": "dim_torkari.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 220,
+      "protein": 12,
+      "fat": 13,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Anda Khar (Assamese Style)",
+    "ingredients": [
+      "4 boiled eggs",
+      "1 raw papaya, grated",
+      "1/4 tsp khar (alkaline water or filtered banana ash water)",
+      "1 green chili",
+      "Salt to taste",
+      "1 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat mustard oil, sauté green chili and grated papaya.",
+      "Add khar and salt. Mix well and cook till papaya is soft.",
+      "Add boiled eggs and simmer for 5 minutes.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Assamese",
+    "difficulty": "Medium",
+    "image": "anda_khar.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 200,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Dim Aloo Jhol (Egg Potato Curry – Bengal)",
+    "ingredients": [
+      "4 boiled eggs",
+      "2 potatoes, cubed",
+      "1 onion, sliced",
+      "1 tomato, chopped",
+      "1/2 tsp ginger paste",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Fry eggs and potatoes with turmeric and set aside.",
+      "Sauté onion in mustard oil. Add ginger paste and cook.",
+      "Add tomato, turmeric, and salt. Cook till soft.",
+      "Add eggs, potatoes, water and simmer until potatoes are cooked.",
+      "Serve with steamed rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "dim_aloo_jhol.jpg",
+    "category": "Main Course",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 230,
+      "protein": 13,
+      "fat": 12,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Bengali Chicken Curry (Murgir Jhol)",
+    "ingredients": [
+      "500g chicken (bone-in)",
+      "2 potatoes, halved",
+      "2 onions, sliced",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp red chili powder",
+      "1/2 tsp cumin powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "3 tbsp mustard oil",
+      "Water as required"
+    ],
+    "instructions": [
+      "Marinate chicken with salt and turmeric. Set aside.",
+      "Heat oil, fry potatoes till golden and set aside.",
+      "In same oil, sauté onions till golden, add ginger-garlic paste and fry.",
+      "Add tomato, spices and cook till oil separates.",
+      "Add chicken, fry on medium heat till sealed.",
+      "Add fried potatoes and water, simmer till chicken is tender.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "murgir_jhol.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 380,
+      "protein": 28,
+      "fat": 22,
+      "carbs": 15
+    }
+  },
+  {
+    "title": "Chicken Kalia (Rich Festive Chicken – Bengal)",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, pureed",
+      "1 tomato, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "2 tbsp yogurt",
+      "Salt to taste",
+      "3 tbsp mustard oil",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, salt, and turmeric for 30 minutes.",
+      "Heat mustard oil, sauté onion puree till golden.",
+      "Add ginger-garlic paste, chili powder, tomato puree and cook till oil separates.",
+      "Add chicken and cook until sealed and coated in masala.",
+      "Add water and simmer until chicken is tender.",
+      "Sprinkle garam masala and serve with paratha or pulao."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "chicken_kalia.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 40,
+    "servings": 4,
+    "nutrition": {
+      "calories": 420,
+      "protein": 30,
+      "fat": 26,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Chicken Kosha (Thick Masala Chicken)",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, sliced",
+      "1 tomato, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate chicken with turmeric and salt.",
+      "Heat mustard oil, sauté onions until golden.",
+      "Add ginger-garlic paste, tomato, chili powder, cook till oil separates.",
+      "Add chicken and cook on low flame until meat is tender and masala thick.",
+      "Sprinkle garam masala, serve with luchi or paratha."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "chicken_kosha.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 410,
+      "protein": 29,
+      "fat": 25,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Odia Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1/2 tsp red chili powder",
+      "1 tsp garam masala",
+      "2 bay leaves",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate chicken with salt and turmeric.",
+      "Heat oil, sauté bay leaves and onions till golden.",
+      "Add ginger-garlic paste, tomato, and spices. Cook till oil separates.",
+      "Add chicken and fry till coated.",
+      "Add water and cook until chicken is tender.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Medium",
+    "image": "odia_chicken_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 390,
+      "protein": 28,
+      "fat": 23,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Bihari Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, chopped",
+      "1 tbsp garlic paste",
+      "1 tsp mustard seeds",
+      "1/2 tsp turmeric",
+      "1 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate chicken with garlic paste, turmeric, and salt.",
+      "Heat mustard oil, splutter mustard seeds.",
+      "Add onions and sauté till golden.",
+      "Add marinated chicken, chili powder, and cook till browned.",
+      "Add water, cover and simmer till chicken is done.",
+      "Finish with garam masala. Serve with rice."
+    ],
+    "cuisine": "Bihari",
+    "difficulty": "Medium",
+    "image": "bihari_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 400,
+      "protein": 27,
+      "fat": 24,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Jharkhand Chicken Curry",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric",
+      "1 tsp cumin powder",
+      "1/2 tsp chili powder",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate chicken with salt and turmeric.",
+      "Heat oil, fry onions till golden, add tomatoes and spices.",
+      "Add chicken and cook till well coated.",
+      "Add water and simmer till chicken is cooked.",
+      "Serve with rice or chapati."
+    ],
+    "cuisine": "Jharkhandi",
+    "difficulty": "Medium",
+    "image": "jharkhand_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 380,
+      "protein": 26,
+      "fat": 22,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Chicken Dak Bungalow Curry (Colonial Bengal Style)",
+    "ingredients": [
+      "500g chicken",
+      "2 eggs, boiled",
+      "2 potatoes, halved",
+      "2 onions, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric",
+      "1 tsp garam masala",
+      "2 green chilies",
+      "Salt to taste",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Fry potatoes till golden and set aside.",
+      "In mustard oil, fry onions till golden. Add ginger-garlic paste, tomato, turmeric and chilies.",
+      "Add chicken and fry till browned.",
+      "Add fried potatoes, water, and simmer till chicken is tender.",
+      "Add boiled eggs before serving. Garnish with garam masala.",
+      "Serve with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "dak_bungalow_chicken.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "nutrition": {
+      "calories": 450,
+      "protein": 32,
+      "fat": 27,
+      "carbs": 15
+    }
+  },
+  {
+    "title": "Assamese Chicken Curry with Khar",
+    "ingredients": [
+      "500g chicken",
+      "1 raw papaya, grated",
+      "1/4 tsp khar (alkaline water)",
+      "1 onion, chopped",
+      "1 green chili",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat mustard oil, sauté onion and chili.",
+      "Add chicken, salt and fry till browned.",
+      "Add grated papaya and khar, cook with water till tender.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Assamese",
+    "difficulty": "Medium",
+    "image": "assamese_chicken_khar.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 370,
+      "protein": 28,
+      "fat": 20,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Chicken Curry with Mustard Paste (Odisha/Bengal)",
+    "ingredients": [
+      "500g chicken",
+      "2 tbsp mustard seeds",
+      "2 green chilies",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Make a paste of mustard seeds and green chilies.",
+      "Heat mustard oil, fry onion and tomato till soft.",
+      "Add chicken and turmeric, cook till lightly browned.",
+      "Add mustard paste and water, simmer till chicken is cooked.",
+      "Serve with rice."
+    ],
+    "cuisine": "Odia/Bengali",
+    "difficulty": "Medium",
+    "image": "chicken_mustard.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 390,
+      "protein": 29,
+      "fat": 23,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Chicken Potato Curry – Jharkhandi Style",
+    "ingredients": [
+      "500g chicken",
+      "2 potatoes, cubed",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric",
+      "1/2 tsp cumin powder",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat oil, fry potatoes till golden and set aside.",
+      "Sauté onion and tomato, add turmeric, cumin, and salt.",
+      "Add chicken and cook till sealed.",
+      "Add fried potatoes, water, and cook till everything is tender.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "Jharkhandi",
+    "difficulty": "Easy",
+    "image": "jharkhand_chicken_potato.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 400,
+      "protein": 28,
+      "fat": 22,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Bamboo Shoot Chicken (Assam)",
+    "ingredients": [
+      "500g chicken",
+      "1 cup bamboo shoots (fresh or canned)",
+      "2 green chilies, slit",
+      "1 onion, chopped",
+      "1/2 tsp turmeric",
+      "1/2 tsp ginger paste",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat mustard oil in a pan and sauté onions and green chilies.",
+      "Add ginger paste and turmeric; cook for a minute.",
+      "Add chicken and fry till browned.",
+      "Add bamboo shoots and salt, mix well.",
+      "Add water, cover and simmer till chicken is tender.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Assamese",
+    "difficulty": "Medium",
+    "image": "bamboo_shoot_chicken_assam.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 370,
+      "protein": 29,
+      "fat": 20,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Chicken Curry with Black Pepper – Odisha",
+    "ingredients": [
+      "500g chicken",
+      "2 onions, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp crushed black pepper",
+      "1/2 tsp turmeric",
+      "1 tomato, chopped",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat oil, sauté onions till golden.",
+      "Add ginger-garlic paste, turmeric and tomato. Cook till soft.",
+      "Add chicken and fry until sealed.",
+      "Add crushed black pepper and water.",
+      "Simmer till chicken is cooked through.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Medium",
+    "image": "black_pepper_chicken_odia.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 390,
+      "protein": 30,
+      "fat": 21,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Kosha Mangsho (Slow-cooked Bengali Mutton)",
+    "ingredients": [
+      "500g mutton",
+      "3 onions, sliced",
+      "2 tbsp yogurt",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate mutton with yogurt, salt, turmeric, and chili powder for 1 hour.",
+      "Heat mustard oil, fry onions till dark brown.",
+      "Add ginger-garlic paste, cook for 2 minutes.",
+      "Add marinated mutton and cook on low heat for 45–60 minutes.",
+      "Add little water as needed and cook till tender.",
+      "Sprinkle garam masala and serve hot."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Hard",
+    "image": "kosha_mangsho.jpg",
+    "category": "Main Course",
+    "prepTime": 60,
+    "cookTime": 60,
+    "servings": 4,
+    "nutrition": {
+      "calories": 550,
+      "protein": 35,
+      "fat": 35,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Odia Mutton Curry",
+    "ingredients": [
+      "500g mutton",
+      "2 onions, chopped",
+      "1 tbsp garlic paste",
+      "1/2 tsp turmeric",
+      "1 tsp chili powder",
+      "2 tomatoes, chopped",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate mutton with turmeric and salt.",
+      "Heat mustard oil, sauté onions till golden.",
+      "Add garlic paste, tomatoes and chili powder. Cook till soft.",
+      "Add mutton and cook for 10 minutes.",
+      "Add water, cover and simmer till mutton is tender.",
+      "Add garam masala and serve with rice."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Medium",
+    "image": "odia_mutton_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 30,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 520,
+      "protein": 32,
+      "fat": 33,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Bihari Mutton Curry",
+    "ingredients": [
+      "500g mutton",
+      "2 onions, chopped",
+      "1 tbsp garlic paste",
+      "1 tsp mustard seeds",
+      "1/2 tsp turmeric",
+      "1 tsp chili powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate mutton with garlic paste, turmeric and salt.",
+      "Heat mustard oil, add mustard seeds, then sauté onions.",
+      "Add mutton, chili powder and cook till browned.",
+      "Add water, cover and simmer till mutton is soft.",
+      "Sprinkle garam masala and serve with rice or litti."
+    ],
+    "cuisine": "Bihari",
+    "difficulty": "Medium",
+    "image": "bihari_mutton_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 30,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 540,
+      "protein": 34,
+      "fat": 34,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Mutton Saagwala (with Greens – Jharkhand)",
+    "ingredients": [
+      "500g mutton",
+      "2 cups spinach or mixed saag, chopped",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tbsp garlic paste",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Boil greens till soft, make a rough paste.",
+      "Heat oil, sauté onion, add garlic paste and turmeric.",
+      "Add mutton, cook till browned.",
+      "Add tomato and cook till soft.",
+      "Add saag paste and water, simmer till mutton is tender.",
+      "Serve with rice."
+    ],
+    "cuisine": "Jharkhandi",
+    "difficulty": "Medium",
+    "image": "mutton_saagwala.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 500,
+      "protein": 33,
+      "fat": 30,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Mangsho Jhol (Light Gravy Mutton – Bengal)",
+    "ingredients": [
+      "500g mutton",
+      "2 potatoes, halved",
+      "2 onions, sliced",
+      "1 tomato, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric",
+      "1 tsp chili powder",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate mutton with turmeric and salt.",
+      "Fry potatoes till golden, set aside.",
+      "Sauté onions, add ginger-garlic paste and tomatoes.",
+      "Add mutton, chili powder and cook till browned.",
+      "Add potatoes and water, simmer till tender.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "mangsho_jhol.jpg",
+    "category": "Main Course",
+    "prepTime": 30,
+    "cookTime": 50,
+    "servings": 4,
+    "nutrition": {
+      "calories": 520,
+      "protein": 32,
+      "fat": 31,
+      "carbs": 14
+    }
+  },
+  {
+    "title": "Jharkhandi Mutton Masala",
+    "ingredients": [
+      "500g mutton",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1 tbsp garlic paste",
+      "1/2 tsp turmeric",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate mutton with turmeric and salt.",
+      "Heat oil, sauté onions and garlic paste.",
+      "Add tomato and coriander powder, cook till soft.",
+      "Add mutton and cook till browned.",
+      "Add water, cover and cook till tender.",
+      "Finish with garam masala, serve hot."
+    ],
+    "cuisine": "Jharkhandi",
+    "difficulty": "Medium",
+    "image": "jharkhand_mutton_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 25,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 510,
+      "protein": 33,
+      "fat": 32,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Khasi Curry (Assamese Mutton Curry)",
+    "ingredients": [
+      "500g Khasi (goat meat)",
+      "2 onions, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp black pepper",
+      "1/2 tsp turmeric",
+      "2 green chilies",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat oil, sauté onions and green chilies.",
+      "Add ginger-garlic paste, turmeric and black pepper.",
+      "Add Khasi meat and cook till browned.",
+      "Add water and cook until meat is soft and flavorful.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Assamese",
+    "difficulty": "Medium",
+    "image": "khasi_curry_assam.jpg",
+    "category": "Main Course",
+    "prepTime": 30,
+    "cookTime": 50,
+    "servings": 4,
+    "nutrition": {
+      "calories": 530,
+      "protein": 34,
+      "fat": 33,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Mutton with Bamboo Shoot (Tribal Assam Style)",
+    "ingredients": [
+      "500g mutton",
+      "1 cup bamboo shoots",
+      "2 green chilies",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Heat mustard oil and sauté green chilies.",
+      "Add mutton, turmeric and salt, cook till browned.",
+      "Add bamboo shoots and water.",
+      "Cover and simmer until mutton is tender.",
+      "Serve with rice."
+    ],
+    "cuisine": "Assamese",
+    "difficulty": "Medium",
+    "image": "mutton_bamboo_shoot.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 45,
+    "servings": 4,
+    "nutrition": {
+      "calories": 520,
+      "protein": 34,
+      "fat": 32,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Macher Jhol (Classic Bengali Fish Curry)",
+    "ingredients": [
+      "500g rohu fish",
+      "2 potatoes, cubed",
+      "2 tomatoes, chopped",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp cumin seeds",
+      "Salt to taste",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt for 15 minutes.",
+      "Fry the fish pieces in mustard oil and set aside.",
+      "In the same oil, add cumin seeds and sauté potatoes till golden.",
+      "Add chopped tomatoes, turmeric, chili powder, and salt. Cook till soft.",
+      "Add water to make a light curry and bring to boil.",
+      "Add fried fish and simmer for 5-7 minutes.",
+      "Serve hot with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "macher_jhol.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 25,
+      "fat": 18,
+      "carbs": 12
+    }
+  },
+  {
+    "title": "Sorshe Ilish (Hilsa in Mustard Gravy – Bengal)",
+    "ingredients": [
+      "500g hilsa fish",
+      "2 tbsp mustard seeds",
+      "2 green chilies",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "4 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Grind mustard seeds with green chilies to a smooth paste.",
+      "Marinate hilsa with turmeric and salt.",
+      "Heat mustard oil till smoking, then reduce heat.",
+      "Add mustard paste and cook briefly.",
+      "Add water to form gravy and gently place fish pieces.",
+      "Simmer for 8-10 minutes.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "sorshe_ilish.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": {
+      "calories": 400,
+      "protein": 30,
+      "fat": 28,
+      "carbs": 5
+    }
+  },
+  {
+    "title": "Chingri Malai Curry (Prawns in Coconut – Bengal)",
+    "ingredients": [
+      "500g prawns",
+      "1 cup coconut milk",
+      "2 onions, grated",
+      "1 tsp ginger paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Clean and devein prawns, marinate with turmeric and salt.",
+      "Lightly fry prawns and set aside.",
+      "In the same oil, sauté onion and ginger paste.",
+      "Add coconut milk, salt, and bring to a boil.",
+      "Add prawns and simmer for 10 minutes.",
+      "Finish with garam masala and serve hot with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "chingri_malai_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 420,
+      "protein": 28,
+      "fat": 30,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Rui Macher Kalia (Rich Rohu Fish Curry)",
+    "ingredients": [
+      "500g rohu fish",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt, fry until golden.",
+      "In the same oil, sauté onions, add ginger-garlic paste.",
+      "Add tomatoes, spices, and cook till oil separates.",
+      "Add water for gravy, boil and add fried fish.",
+      "Simmer for 8-10 minutes, finish with garam masala.",
+      "Serve hot with rice or pulao."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "rui_kalia.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 4,
+    "nutrition": {
+      "calories": 390,
+      "protein": 28,
+      "fat": 25,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Macher Tok (Sour Tamarind Fish Curry)",
+    "ingredients": [
+      "500g fish (rohu or catla)",
+      "1 tbsp tamarind pulp",
+      "1/2 tsp turmeric",
+      "2 green chilies",
+      "1 tsp mustard seeds",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt.",
+      "Fry fish pieces and set aside.",
+      "Heat oil, add mustard seeds and green chilies.",
+      "Add tamarind pulp with water and bring to a boil.",
+      "Add fish pieces and cook for 5-7 minutes.",
+      "Serve tangy curry with rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Easy",
+    "image": "macher_tok.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 310,
+      "protein": 25,
+      "fat": 18,
+      "carbs": 8
+    }
+  },
+  {
+    "title": "Odia Fish Curry",
+    "ingredients": [
+      "500g fish (rohu or catla)",
+      "2 onions, chopped",
+      "1 tomato, chopped",
+      "1 tbsp garlic paste",
+      "1/2 tsp turmeric",
+      "1 tsp chili powder",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt, then fry.",
+      "Heat oil, sauté onions and garlic paste.",
+      "Add tomato, spices and cook till soft.",
+      "Add water and fried fish pieces.",
+      "Simmer for 10-12 minutes and serve with rice."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Medium",
+    "image": "odia_fish_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 26,
+      "fat": 20,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Fish Curry with Green Mango – Odisha",
+    "ingredients": [
+      "500g fish",
+      "1 small raw mango, sliced",
+      "2 green chilies",
+      "1/2 tsp turmeric",
+      "1 tsp mustard seeds",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt, fry and set aside.",
+      "Heat oil, add mustard seeds and green chilies.",
+      "Add raw mango slices and water, boil till mango softens.",
+      "Add fried fish and simmer for 8 minutes.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Odia",
+    "difficulty": "Medium",
+    "image": "green_mango_fish_curry.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 320,
+      "protein": 25,
+      "fat": 18,
+      "carbs": 10
+    }
+  },
+  {
+    "title": "Bihari Mustard Fish Curry",
+    "ingredients": [
+      "500g fish (rohu preferred)",
+      "2 tbsp mustard seeds",
+      "2 green chilies",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Make a paste of mustard seeds and green chilies.",
+      "Marinate fish with turmeric and salt, fry lightly.",
+      "Heat mustard oil, add mustard paste and water.",
+      "Add fish, simmer for 8-10 minutes.",
+      "Serve with plain rice."
+    ],
+    "cuisine": "Bihari",
+    "difficulty": "Medium",
+    "image": "bihari_mustard_fish.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 26,
+      "fat": 19,
+      "carbs": 7
+    }
+  },
+  {
+    "title": "Fish Curry with Khada Masala – Jharkhand",
+    "ingredients": [
+      "500g fish",
+      "1 tsp whole garam masala (bay leaf, cardamom, cloves)",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp garlic paste",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate and fry fish with turmeric and salt.",
+      "Heat oil, sauté whole spices, then onion and garlic paste.",
+      "Add tomato and cook till soft.",
+      "Add water, bring to boil and add fish.",
+      "Simmer for 10 minutes, serve hot."
+    ],
+    "cuisine": "Jharkhandi",
+    "difficulty": "Medium",
+    "image": "jharkhand_fish_khada_masala.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 27,
+      "fat": 20,
+      "carbs": 9
+    }
+  },
+  {
+    "title": "Prawn Curry with Spinach – Assam",
+    "ingredients": [
+      "500g prawns",
+      "2 cups spinach, chopped",
+      "1 onion, chopped",
+      "1/2 tsp turmeric",
+      "2 green chilies",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate prawns with turmeric and salt, fry lightly.",
+      "Heat oil, sauté onions and green chilies.",
+      "Add chopped spinach and cook till wilted.",
+      "Add prawns and a little water, simmer for 7-8 minutes.",
+      "Serve with rice or roti."
+    ],
+    "cuisine": "Assamese",
+    "difficulty": "Medium",
+    "image": "prawn_spinach_assam.jpg",
+    "category": "Main Course",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 360,
+      "protein": 28,
+      "fat": 22,
+      "carbs": 6
+    }
+  },
+  {
+    "title": "Prawn Mustard Curry – Bengal",
+    "ingredients": [
+      "500g prawns, cleaned and deveined",
+      "2 tbsp mustard seeds",
+      "2 green chilies",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "3 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Soak mustard seeds for 15 minutes and grind with green chilies to a fine paste.",
+      "Marinate prawns with turmeric and salt for 10 minutes.",
+      "Heat mustard oil until smoking, reduce flame and fry prawns lightly. Remove and set aside.",
+      "In the same oil, add mustard-chili paste and fry for a minute.",
+      "Add water, bring to a boil and add prawns.",
+      "Simmer for 7–10 minutes until prawns are cooked through.",
+      "Serve hot with steamed rice."
+    ],
+    "cuisine": "Bengali",
+    "difficulty": "Medium",
+    "image": "prawn_mustard_curry_bengal.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 20,
+    "servings": 4,
+    "nutrition": {
+      "calories": 370,
+      "protein": 29,
+      "fat": 24,
+      "carbs": 5
+    }
+  },
+  {
+    "title": "Assamese Fish Curry with Outenga (Elephant Apple)",
+    "ingredients": [
+      "500g freshwater fish (rohu or similar)",
+      "1 medium outenga (elephant apple), sliced",
+      "1/2 tsp turmeric powder",
+      "2 green chilies, slit",
+      "1 tsp mustard seeds",
+      "Salt to taste",
+      "2 tbsp mustard oil"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt, then shallow fry and set aside.",
+      "Heat mustard oil and add mustard seeds until they splutter.",
+      "Add sliced outenga and green chilies, sauté for 3–4 minutes.",
+      "Add water and bring to a boil. Simmer until outenga softens.",
+      "Add fried fish and simmer for 8–10 minutes.",
+      "Serve hot with plain rice."
+    ],
+    "cuisine": "Assamese",
+    "difficulty": "Medium",
+    "image": "fish_curry_outenga_assam.jpg",
+    "category": "Main Course",
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "nutrition": {
+      "calories": 340,
+      "protein": 26,
+      "fat": 20,
+      "carbs": 8
+    }
+  }
+]
